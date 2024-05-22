@@ -1,0 +1,78 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --0d0c11: #0d0c11;
+  --d2d2d2: #d2d2d2;
+  --linear1: linear-gradient(
+    180deg,
+    rgba(253, 253, 253, 1) 0%,
+    rgba(205, 205, 205, 1) 64.99999761581421%,
+    rgba(155, 155, 155, 1) 100%
+  );
+  --be1247: #be1247;
+  --afafaf: #afafaf;
+
+  /* Fonts */
+  --h1-heading-font-family: Inter-ExtraBold, sans-serif;
+  --h1-heading-font-size: 120px;
+  --h1-heading-line-height: 100%;
+  --h1-heading-font-weight: 800;
+  --h1-heading-font-style: normal;
+  --h2-heading-font-family: Inter-ExtraBold, sans-serif;
+  --h2-heading-font-size: 92px;
+  --h2-heading-line-height: 110%;
+  --h2-heading-font-weight: 800;
+  --h2-heading-font-style: normal;
+  --h3-heading-font-family: Inter-ExtraBold, sans-serif;
+  --h3-heading-font-size: 40px;
+  --h3-heading-line-height: 110%;
+  --h3-heading-font-weight: 800;
+  --h3-heading-font-style: normal;
+  --h4-heading-font-family: Inter-ExtraBold, sans-serif;
+  --h4-heading-font-size: 24px;
+  --h4-heading-line-height: 110%;
+  --h4-heading-font-weight: 800;
+  --h4-heading-font-style: normal;
+  --h5-heading-font-family: Inter-Medium, sans-serif;
+  --h5-heading-font-size: 20px;
+  --h5-heading-line-height: 110%;
+  --h5-heading-font-weight: 500;
+  --h5-heading-font-style: normal;
+  --h6-heading-font-family: Inter-Medium, sans-serif;
+  --h6-heading-font-size: 20px;
+  --h6-heading-line-height: 110%;
+  --h6-heading-font-weight: 500;
+  --h6-heading-font-style: normal;
+  --p1-paragraph-large-font-family: Inter-Regular, sans-serif;
+  --p1-paragraph-large-font-size: 22px;
+  --p1-paragraph-large-line-height: 150%;
+  --p1-paragraph-large-font-weight: 400;
+  --p1-paragraph-large-font-style: normal;
+  --p2-paragraph-medium-font-family: Inter-Regular, sans-serif;
+  --p2-paragraph-medium-font-size: 20px;
+  --p2-paragraph-medium-line-height: 150%;
+  --p2-paragraph-medium-font-weight: 400;
+  --p2-paragraph-medium-font-style: normal;
+  --p3-paragraph-small-font-family: Inter-Regular, sans-serif;
+  --p3-paragraph-small-font-size: 16px;
+  --p3-paragraph-small-line-height: 150%;
+  --p3-paragraph-small-font-weight: 400;
+  --p3-paragraph-small-font-style: normal;
+  --ui-label-semibold-font-family: Inter-SemiBold, sans-serif;
+  --ui-label-semibold-font-size: 18px;
+  --ui-label-semibold-line-height: 150%;
+  --ui-label-semibold-font-weight: 600;
+  --ui-label-semibold-font-style: normal;
+  --ui-label-medium-font-family: Inter-Medium, sans-serif;
+  --ui-label-medium-font-size: 18px;
+  --ui-label-medium-line-height: 150%;
+  --ui-label-medium-font-weight: 500;
+  --ui-label-medium-font-style: normal;
+  --ui-label-regular-font-family: Inter-Regular, sans-serif;
+  --ui-label-regular-font-size: 18px;
+  --ui-label-regular-line-height: 150%;
+  --ui-label-regular-font-weight: 400;
+  --ui-label-regular-font-style: normal;
+
+  /* Effects */
+}

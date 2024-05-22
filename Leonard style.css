@@ -1,0 +1,128 @@
+.frame-19,
+.frame-19 * {
+  box-sizing: border-box;
+}
+.frame-19 {
+  background: #000000;
+  height: 1200px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-7 {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: rgba(233, 233, 233, 0.62);
+  border-width: 1px;
+  padding: 16px 88px 16px 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 815px);
+  top: 89px;
+  backdrop-filter: blur(30px);
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 777px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1454px;
+  position: relative;
+}
+.mars {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.previous-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.more {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+._9-ee-400-d-978423-de-4957-df-734411-bc-68-2 {
+  width: 443px;
+  height: 649px;
+  position: absolute;
+  left: 1244px;
+  top: 320px;
+  object-fit: cover;
+}
+.leonard {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 145px;
+  top: 480px;
+  width: 182px;
+  height: 47px;
+}
+.welcome-to-my-homepage-website-i-am-leonard-from-class-22-a-1-in-art-and-technology-2-2-i-enjoy-photography-and-design-i-want-to-do-some-interesting-things-and-projects-if-you-need-any-help-please-contact-me-my-contact-information-1557865796-qq-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 145px;
+  top: 554px;
+  width: 891px;
+}

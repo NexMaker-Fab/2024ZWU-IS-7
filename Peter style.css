@@ -1,0 +1,239 @@
+.desktop-11,
+.desktop-11 * {
+  box-sizing: border-box;
+}
+.desktop-11 {
+  background: linear-gradient(
+      to left,
+      rgba(12, 21, 65, 0.23),
+      rgba(12, 21, 65, 0.23)
+    ),
+    linear-gradient(to left, #1f1642, #1f1642);
+  height: 1200px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.ellipse-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(95, 213, 177, 1) 0%,
+    rgba(10, 76, 33, 1) 51.99999809265137%,
+    rgba(132, 13, 34, 1) 100%
+  );
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #483cdb;
+  border-width: 1px;
+  width: 812.01px;
+  height: 1098.67px;
+  position: absolute;
+  left: -212.52px;
+  top: 793.47px;
+  transform-origin: 0 0;
+  transform: rotate(-37.272deg) scale(1, 1);
+  filter: blur(100px);
+}
+.ellipse-4 {
+  background: linear-gradient(
+    180deg,
+    rgba(114, 44, 44, 1) 0%,
+    rgba(23, 104, 121, 1) 51.99999809265137%,
+    rgba(228, 115, 203, 1) 100%
+  );
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #483cdb;
+  border-width: 1px;
+  width: 765.63px;
+  height: 705.28px;
+  position: absolute;
+  left: 41.96px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(0.078deg) scale(1, 1);
+  filter: blur(100px);
+}
+.ellipse-2 {
+  background: linear-gradient(
+    180deg,
+    rgba(114, 44, 44, 1) 0%,
+    rgba(23, 104, 121, 1) 51.99999809265137%,
+    rgba(228, 115, 203, 1) 100%
+  );
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #483cdb;
+  border-width: 1px;
+  width: 952px;
+  height: 953px;
+  position: absolute;
+  left: 1138px;
+  top: -28px;
+  filter: blur(100px);
+}
+.ellipse-5 {
+  background: linear-gradient(
+    180deg,
+    rgba(114, 44, 44, 1) 0%,
+    rgba(29, 54, 92, 1) 50%,
+    rgba(228, 115, 203, 1) 100%
+  );
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #131129;
+  border-width: 1px;
+  width: 954.31px;
+  height: 919.15px;
+  position: absolute;
+  left: 974.28px;
+  top: -470.76px;
+  transform-origin: 0 0;
+  transform: rotate(45.272deg) scale(1, 1);
+  filter: blur(100px);
+}
+.ellipse-3 {
+  background: linear-gradient(
+    180deg,
+    rgba(100, 44, 114, 0.8) 0%,
+    rgba(87, 140, 20, 0.6) 51.99999809265137%,
+    rgba(158, 36, 44, 0.95) 100%
+  );
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #483cdb;
+  border-width: 1px;
+  width: 1016px;
+  height: 881px;
+  position: absolute;
+  left: 892px;
+  top: 537px;
+  filter: blur(100px);
+}
+.rectangle-23 {
+  background: rgba(50, 53, 57, 0.6);
+  width: 1240px;
+  height: 962px;
+  position: absolute;
+  left: 358px;
+  top: 214px;
+}
+.rectangle-26 {
+  background: linear-gradient(
+    90deg,
+    rgba(63, 84, 138, 1) 0%,
+    rgba(8, 69, 69, 1) 100%,
+    rgba(14, 7, 36, 1) 100.01000165939331%
+  );
+  width: 2288px;
+  height: 306px;
+  position: absolute;
+  left: -203px;
+  top: 925px;
+  filter: blur(100px);
+}
+.name-peter-chen-id-2022015511-email-2059804632-qq-com-hobby-billiards-music-hiking-assignment-test-software-assist-yk-arrange-equipment {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 40px;
+  line-height: 110%;
+  font-weight: 800;
+  position: absolute;
+  left: -12px;
+  top: 688px;
+  width: 1920px;
+  height: 512px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._1-f-1-e-33582-fcc-5-af-4246524-dcb-173-c-9-f-7-1 {
+  width: 858px;
+  height: 514px;
+  position: absolute;
+  left: 519px;
+  top: 231.65px;
+  object-fit: cover;
+}
+.frame-7 {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: rgba(233, 233, 233, 0.62);
+  border-width: 1px;
+  padding: 16px 88px 16px 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 827px);
+  top: 69px;
+  backdrop-filter: blur(30px);
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 777px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1454px;
+  position: relative;
+}
+.mars {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.previous-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.more {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
