@@ -1,0 +1,279 @@
+.desktop-12,
+.desktop-12 * {
+  box-sizing: border-box;
+}
+.desktop-12 {
+  background: #000000;
+  height: 3700px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-17 {
+  background: conic-gradient(
+    from 137.73deg at 50% 50%,
+    rgba(0, 0, 0, 1) 6.499350816011429%,
+    rgba(224, 35, 136, 1) 46.89826965332031%,
+    rgba(39, 99, 183, 1) 53.4933865070343%,
+    rgba(20, 52, 97, 0.53) 74.00311231613159%,
+    rgba(0, 0, 0, 1) 96.79219126701355%
+  );
+  width: 1000px;
+  height: 1100px;
+  position: absolute;
+  left: 1451.86px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(45deg) scale(1, 1);
+  filter: blur(96px);
+}
+.frame-7 {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: rgba(233, 233, 233, 0.62);
+  border-width: 1px;
+  padding: 16px 88px 16px 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 815px);
+  top: 89px;
+  backdrop-filter: blur(30px);
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 777px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1454px;
+  position: relative;
+}
+.mars {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.previous-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.more {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+._4-arduino-input {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: absolute;
+  left: 119px;
+  top: 141px;
+  width: 1619px;
+  height: 196px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.linking-the-processing-and-arduino-the-signal-input-from-the-arduino-port-is-used-to-control-the-falling-and-not-falling-of-the-small-ball-on-the-processing-side-of-the-screen {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 145px;
+  top: 312px;
+  width: 1713px;
+  height: 215px;
+}
+.code-arduino-const-int-sensor-pin-a-0-the-sound-sensor-interface-is-set-to-a-0-int-pulse-value-0-store-the-pulse-values-read-from-the-storage-device-void-setup-serial-begin-9600-initialize-serial-communication-void-loop-pulse-value-analog-read-sensor-pin-read-the-pulse-values-from-the-sound-sensor-if-pulse-value-1000-serial-println-create-ball-send-the-instruction-when-the-pulse-value-is-greater-than-1000-delay-5000-delay-to-avoid-repeating-instructions {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: 131px;
+  top: 995px;
+  width: 1082px;
+  height: 610px;
+}
+.code-arduino-const-int-sensor-pin-a-0-the-sound-sensor-interface-is-set-to-a-0-int-pulse-value-0-store-the-pulse-values-read-from-the-storage-device-void-setup-serial-begin-9600-initialize-serial-communication-void-loop-pulse-value-analog-read-sensor-pin-read-the-pulse-values-from-the-sound-sensor-if-pulse-value-1000-serial-println-create-ball-send-the-instruction-when-the-pulse-value-is-greater-than-1000-delay-5000-delay-to-avoid-repeating-instructions-span {
+  color: #ffffff;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+}
+.code-arduino-const-int-sensor-pin-a-0-the-sound-sensor-interface-is-set-to-a-0-int-pulse-value-0-store-the-pulse-values-read-from-the-storage-device-void-setup-serial-begin-9600-initialize-serial-communication-void-loop-pulse-value-analog-read-sensor-pin-read-the-pulse-values-from-the-sound-sensor-if-pulse-value-1000-serial-println-create-ball-send-the-instruction-when-the-pulse-value-is-greater-than-1000-delay-5000-delay-to-avoid-repeating-instructions-span2 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.code-performs-the-detection-and-output-of-the-pulse-signal-value-firstly-the-detected-pulse-value-is-given-to-the-variable-pulse-value-if-the-detected-pulse-value-is-greater-than-1000-then-a-signal-is-sent-to-the-processing-a-delay-signal-of-5000-is-set-to-avoid-sending-the-signal-repeatedly {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 117px;
+  top: 1575px;
+  width: 968px;
+  height: 215px;
+}
+.code-processing-import-processing-serial-serial-my-port-declare-serial-object-boolean-ball-exists-false-a-sign-that-controls-the-presence-or-absence-of-the-ball-float-ball-y-ball-y-coordinate-void-setup-size-600-600-set-window-size-ball-y-50-initially-the-ball-is-at-the-top-of-the-screen-visible-range-string-port-name-serial-list-0-my-port-new-serial-this-port-name-9600-void-draw-background-255-set-the-background-color-to-white-if-ball-exists-ball-y-2-control-the-ball-s-falling-speed-when-the-ball-leaves-the-screen-completely-we-keep-it-at-the-top-to-wait-for-the-next-signal-if-ball-y-height-25-ball-exists-false-reset-the-presence-state-of-the-ball-ball-y-50-the-ball-returns-to-the-top-of-the-screen-draw-the-ball-only-if-it-is-present-if-ball-exists-fill-0-set-the-fill-color-to-black-no-stroke-ellipse-width-2-ball-y-50-50-draw-ball-void-serial-event-serial-p-string-msg-p-read-string-until-n-if-msg-null-msg-msg-trim-if-msg-equals-create-ball-ball-exists-true-when-the-signal-is-received-change-the-state-of-the-ball-so-that-it-begins-to-fall {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: 109px;
+  top: 1753px;
+  width: 1082px;
+  height: 1457px;
+}
+.code-processing-import-processing-serial-serial-my-port-declare-serial-object-boolean-ball-exists-false-a-sign-that-controls-the-presence-or-absence-of-the-ball-float-ball-y-ball-y-coordinate-void-setup-size-600-600-set-window-size-ball-y-50-initially-the-ball-is-at-the-top-of-the-screen-visible-range-string-port-name-serial-list-0-my-port-new-serial-this-port-name-9600-void-draw-background-255-set-the-background-color-to-white-if-ball-exists-ball-y-2-control-the-ball-s-falling-speed-when-the-ball-leaves-the-screen-completely-we-keep-it-at-the-top-to-wait-for-the-next-signal-if-ball-y-height-25-ball-exists-false-reset-the-presence-state-of-the-ball-ball-y-50-the-ball-returns-to-the-top-of-the-screen-draw-the-ball-only-if-it-is-present-if-ball-exists-fill-0-set-the-fill-color-to-black-no-stroke-ellipse-width-2-ball-y-50-50-draw-ball-void-serial-event-serial-p-string-msg-p-read-string-until-n-if-msg-null-msg-msg-trim-if-msg-equals-create-ball-ball-exists-true-when-the-signal-is-received-change-the-state-of-the-ball-so-that-it-begins-to-fall-span {
+  color: #ffffff;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+}
+.code-processing-import-processing-serial-serial-my-port-declare-serial-object-boolean-ball-exists-false-a-sign-that-controls-the-presence-or-absence-of-the-ball-float-ball-y-ball-y-coordinate-void-setup-size-600-600-set-window-size-ball-y-50-initially-the-ball-is-at-the-top-of-the-screen-visible-range-string-port-name-serial-list-0-my-port-new-serial-this-port-name-9600-void-draw-background-255-set-the-background-color-to-white-if-ball-exists-ball-y-2-control-the-ball-s-falling-speed-when-the-ball-leaves-the-screen-completely-we-keep-it-at-the-top-to-wait-for-the-next-signal-if-ball-y-height-25-ball-exists-false-reset-the-presence-state-of-the-ball-ball-y-50-the-ball-returns-to-the-top-of-the-screen-draw-the-ball-only-if-it-is-present-if-ball-exists-fill-0-set-the-fill-color-to-black-no-stroke-ellipse-width-2-ball-y-50-50-draw-ball-void-serial-event-serial-p-string-msg-p-read-string-until-n-if-msg-null-msg-msg-trim-if-msg-equals-create-ball-ball-exists-true-when-the-signal-is-received-change-the-state-of-the-ball-so-that-it-begins-to-fall-span2 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.on-the-processing-side-the-variable-ball-exists-is-defined-to-detect-the-existence-of-the-ball-and-to-facilitate-the-signal-input-to-generate-the-ball-in-the-first-round-of-the-program-set-the-display-window-size-then-set-the-height-of-the-ball-generation-and-then-declare-the-input-port-to-link-with-the-arduino-for-the-second-round-of-the-program-first-define-the-background-color-as-white-the-ball-is-then-dropped-through-a-loop-statement-and-if-the-ball-falls-completely-off-the-screen-the-height-of-the-ball-is-reset-to-allow-it-to-re-generate-at-the-top-again-at-the-same-time-the-ball-is-only-drawn-when-processing-receives-a-pulse-value-greater-than-1000-the-third-program-on-the-other-hand-makes-a-determination-in-processing-again-but-it-only-generates-the-ball-and-lets-it-fall-when-it-receives-a-signal-from-the-arduino {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 117px;
+  top: 3235px;
+  width: 968px;
+  height: 215px;
+}
+.img-9186-heic-1 {
+  opacity: 0.5;
+  width: 774px;
+  height: 581px;
+  position: absolute;
+  left: 566px;
+  top: 401px;
+  object-fit: cover;
+}
+.component {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 1175px;
+  top: 1032px;
+  width: 643px;
+  height: 57px;
+}
+._1-arduino-nano-board-2-acoustic-sensor {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: absolute;
+  left: 1215px;
+  top: 1079px;
+}
+._20240530005544-1 {
+  width: 376px;
+  height: 553px;
+  position: absolute;
+  left: 1340px;
+  top: 1164px;
+  object-fit: cover;
+}
+._20240530005540-1 {
+  width: 373px;
+  height: 553px;
+  position: absolute;
+  left: 1343px;
+  top: 1765px;
+  object-fit: cover;
+}

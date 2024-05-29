@@ -1,0 +1,259 @@
+.desktop-15,
+.desktop-15 * {
+  box-sizing: border-box;
+}
+.desktop-15 {
+  background: var(--0d0c11, #0d0c11);
+  height: 4960px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.rectangle-17 {
+  background: conic-gradient(
+    from 137.73deg at 50% 50%,
+    rgba(0, 0, 0, 1) 6.499350816011429%,
+    rgba(224, 35, 136, 1) 46.89826965332031%,
+    rgba(39, 99, 183, 1) 53.4933865070343%,
+    rgba(20, 52, 97, 0.53) 74.00311231613159%,
+    rgba(0, 0, 0, 1) 96.79219126701355%
+  );
+  width: 1000px;
+  height: 1100px;
+  position: absolute;
+  left: 1436.36px;
+  top: -63.46px;
+  transform-origin: 0 0;
+  transform: rotate(45deg) scale(1, 1);
+  filter: blur(96px);
+}
+.img-2803-heic-1 {
+  width: 517px;
+  height: 377px;
+  position: absolute;
+  left: 1258px;
+  top: 586px;
+  object-fit: cover;
+}
+._5-30-1 {
+  width: 458px;
+  height: 808px;
+  position: absolute;
+  left: 231px;
+  top: 598px;
+}
+.frame-7 {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: rgba(233, 233, 233, 0.62);
+  border-width: 1px;
+  padding: 16px 88px 16px 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 815px);
+  top: 89px;
+  backdrop-filter: blur(30px);
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 777px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1454px;
+  position: relative;
+}
+.mars {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.previous-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.more {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+._3-arduino-output {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: absolute;
+  left: 145px;
+  top: 234px;
+}
+.processing-and-arduino-linkage {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 200px;
+  top: 395px;
+  width: 643px;
+  height: 57px;
+}
+.the-code-is-here {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 200px;
+  top: 1473px;
+  width: 643px;
+  height: 57px;
+}
+.component {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 819px;
+  top: 913px;
+  width: 643px;
+  height: 57px;
+}
+._1-arduino-nano-board-2-sg-90-servo {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: absolute;
+  left: 859px;
+  top: 960px;
+}
+.in-the-processing-page-one-black-ball-drops-down-every-two-seconds-if-three-balls-fall-in-total-the-ball-stops-falling-for-five-seconds-in-addition-the-blade-of-the-steering-engine-controlled-by-arduino-is-rotated-180-degrees-to-the-right-for-two-seconds-and-then-rotated-180-degrees-to-the-left-to-return-to-the-original-position {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: absolute;
+  left: 247px;
+  top: 452px;
+}
+.processing-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: absolute;
+  left: 231px;
+  top: 1530px;
+}
+.import-processing-serial-serial-my-port-array-list-ball-balls-int-last-time-int-ball-count-void-setup-size-1920-1080-balls-new-array-list-ball-println-serial-list-my-port-new-serial-this-serial-list-0-9600-last-time-millis-void-draw-background-255-if-millis-last-time-2000-2-last-time-millis-if-ball-count-3-ball-new-ball-new-ball-width-400-50-balls-add-new-ball-for-int-i-balls-size-1-i-0-i-if-balls-get-i-y-height-balls-remove-i-ball-count-if-ball-count-3-my-port-write-r-r-arduino-ball-count-0-5-delay-5000-last-time-millis-for-int-i-0-i-balls-size-i-ball-ball-balls-get-i-ball-update-ball-display-class-ball-float-x-y-float-speed-y-10-float-diameter-50-ball-float-temp-x-float-temp-y-x-temp-x-y-temp-y-void-update-y-speed-y-void-display-fill-0-ellipse-x-y-diameter-diameter {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 231px;
+  top: 1556px;
+  width: 1190px;
+  height: 2400px;
+}
+.arduino-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: absolute;
+  left: 231px;
+  top: 4007px;
+}
+.include-servo-h-servo-myservo-int-servo-pin-9-void-setup-myservo-attach-servo-pin-serial-begin-9600-9600-void-loop-if-serial-available-0-char-in-char-char-serial-read-if-in-char-r-r-myservo-write-180-180-delay-2000-myservo-write-0-0 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 231px;
+  top: 4033px;
+}
+.img-2804-heic-1 {
+  width: 517px;
+  height: 388px;
+  position: absolute;
+  left: 1258px;
+  top: 1019px;
+  object-fit: cover;
+}

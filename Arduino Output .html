@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="Arduino Output vars.css">
+  <link rel="stylesheet" href="Arduino Output style.css">
+  
+  
+  <style>
+   a,
+   button,
+   input,
+   select,
+   h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   * {
+       box-sizing: border-box;
+       margin: 0;
+       padding: 0;
+       border: none;
+       text-decoration: none;
+       appearance: none;
+       background: none;
+   
+       -webkit-font-smoothing: antialiased;
+   }
+   
+   menu, ol, ul {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+   }
+   </style>
+  <title>Document</title>
+</head>
+<body>
+  <div class="desktop-15">
+    <div class="rectangle-17"></div>
+    <img class="img-2803-heic-1" src="images/img-2803-heic-10.png" />
+    <div class="_5-30-1"></div>
+    <div class="frame-7">
+      <div class="frame-6">
+        <a class="mars" href="index.html">Mars</a>
+        <div class="frame-5">
+          <a class="about-us" href="About us.html">About us</a>
+          <a class="previous-projects" href="Previous projects.html">Previous projects</a>
+          <a class="team-members" href="Team Members.html">Team members</a>
+          <a class="more" href="More.html">More</a>
+        </div>
+      </div>
+    </div>
+    <div class="_3-arduino-output">3.Arduino Output</div>
+    <div class="processing-and-arduino-linkage">
+      *processing and arduino linkage
+    </div>
+    <div class="the-code-is-here">*The code is here</div>
+    <div class="component">*Component</div>
+    <div class="_1-arduino-nano-board-2-sg-90-servo">
+      1.Arduino Nano board
+      <br />
+      2.SG90 Servo
+    </div>
+    <div
+      class="in-the-processing-page-one-black-ball-drops-down-every-two-seconds-if-three-balls-fall-in-total-the-ball-stops-falling-for-five-seconds-in-addition-the-blade-of-the-steering-engine-controlled-by-arduino-is-rotated-180-degrees-to-the-right-for-two-seconds-and-then-rotated-180-degrees-to-the-left-to-return-to-the-original-position"
+    >
+      In the processing page, one black ball drops down every two seconds.If three
+      balls fall in total, the ball stops falling for
+      <br />
+      five seconds.In addition, the blade of the steering engine controlled by
+      arduino is rotated 180 degrees to the right for two
+      <br />
+      seconds, and then rotated 180 degrees to the left to return to the original
+      position
+    </div>
+    <div class="processing-code">Processing Code:</div>
+    <div
+      class="import-processing-serial-serial-my-port-array-list-ball-balls-int-last-time-int-ball-count-void-setup-size-1920-1080-balls-new-array-list-ball-println-serial-list-my-port-new-serial-this-serial-list-0-9600-last-time-millis-void-draw-background-255-if-millis-last-time-2000-2-last-time-millis-if-ball-count-3-ball-new-ball-new-ball-width-400-50-balls-add-new-ball-for-int-i-balls-size-1-i-0-i-if-balls-get-i-y-height-balls-remove-i-ball-count-if-ball-count-3-my-port-write-r-r-arduino-ball-count-0-5-delay-5000-last-time-millis-for-int-i-0-i-balls-size-i-ball-ball-balls-get-i-ball-update-ball-display-class-ball-float-x-y-float-speed-y-10-float-diameter-50-ball-float-temp-x-float-temp-y-x-temp-x-y-temp-y-void-update-y-speed-y-void-display-fill-0-ellipse-x-y-diameter-diameter"
+    >
+      import processing.serial.*;
+      <br />
+      <br />
+      Serial myPort; // 所使用的串行端口
+      <br />
+      ArrayList&lt;Ball&gt; balls; // 存储小球的列表
+      <br />
+      int lastTime; // 上一个小球添加的时间
+      <br />
+      int ballCount; // 记录已掉落小球的数量
+      <br />
+      <br />
+      void setup() &lcub;
+      <br />
+      size(1920, 1080); // 设定画布大小
+      <br />
+      balls = new ArrayList&lt;Ball&gt;(); // 初始化小球列表
+      <br />
+      println(Serial.list()); // 打印可用的串行端口列表
+      <br />
+      myPort = new Serial(this, Serial.list()[0], 9600); // 打开第一个串行端口
+      <br />
+      lastTime = millis(); // 记录初始化时间
+      <br />
+      &rcub;
+      <br />
+      <br />
+      void draw() &lcub;
+      <br />
+      background(255); // 设置背景为白色
+      <br />
+      if (millis() - lastTime &gt;= 2000) &lcub; // 检查是否过去了2秒钟
+      <br />
+      lastTime = millis(); // 重置计时器
+      <br />
+      <br />
+      if (ballCount &lt; 3) &lcub; // 判断是否已经有三个小球
+      <br />
+      // 在屏幕的右侧侧边生成新的小球
+      <br />
+      Ball newBall = new Ball(width - 400, 50);
+      <br />
+      balls.add(newBall);
+      <br />
+      &rcub;
+      <br />
+      <br />
+      // 清除已经落出画布的小球，并统计数量
+      <br />
+      for (int i = balls.size() - 1; i &gt;= 0; i--) &lcub;
+      <br />
+      if (balls.get(i).y &gt; height) &lcub;
+      <br />
+      balls.remove(i);
+      <br />
+      ballCount++;
+      <br />
+      &rcub;
+      <br />
+      &rcub;
+      <br />
+      <br />
+      if (ballCount &gt;= 3) &lcub; // 当有三个小球掉落时
+      <br />
+      myPort.write(&#039;R&#039;); // 发送字符&#039;R&#039;至Arduino
+      <br />
+      ballCount = 0; // 重置小球计数
+      <br />
+      // 暂停发送新小球的生成，等待5秒后再次开始
+      <br />
+      delay(5000);
+      <br />
+      lastTime = millis(); // 重置时间以开始新一轮的小球生成
+      <br />
+      &rcub;
+      <br />
+      &rcub;
+      <br />
+      <br />
+      // 更新并显示在画布中的小球
+      <br />
+      for (int i = 0; i &lt; balls.size(); i++) &lcub;
+      <br />
+      Ball ball = balls.get(i);
+      <br />
+      ball.update();
+      <br />
+      ball.display();
+      <br />
+      &rcub;
+      <br />
+      &rcub;
+      <br />
+      <br />
+      class Ball &lcub;
+      <br />
+      float x, y;
+      <br />
+      float speedY = 10; // 小球下落速度
+      <br />
+      float diameter = 50; // 小球直径
+      <br />
+      <br />
+      Ball(float tempX, float tempY) &lcub;
+      <br />
+      x = tempX;
+      <br />
+      y = tempY;
+      <br />
+      &rcub;
+      <br />
+      <br />
+      void update() &lcub;
+      <br />
+      y += speedY; // 根据速度更新小球位置
+      <br />
+      &rcub;
+      <br />
+      <br />
+      void display() &lcub;
+      <br />
+      fill(0); // 小球颜色设置为黑色
+      <br />
+      ellipse(x, y, diameter, diameter); // 绘制小球
+      <br />
+      &rcub;
+      <br />
+      &rcub;
+    </div>
+    <div class="arduino-code">Arduino Code:</div>
+    <div
+      class="include-servo-h-servo-myservo-int-servo-pin-9-void-setup-myservo-attach-servo-pin-serial-begin-9600-9600-void-loop-if-serial-available-0-char-in-char-char-serial-read-if-in-char-r-r-myservo-write-180-180-delay-2000-myservo-write-0-0"
+    >
+      #include &lt;Servo.h&gt;
+      <br />
+      <br />
+      Servo myservo; // 创建舵机对象
+      <br />
+      int servoPin = 9; // 舵机连接的脚位
+      <br />
+      <br />
+      void setup() &lcub;
+      <br />
+      myservo.attach(servoPin); // 将舵机绑定到指定脚位
+      <br />
+      Serial.begin(9600); // 开始串行通信，波特率9600
+      <br />
+      &rcub;
+      <br />
+      <br />
+      void loop() &lcub;
+      <br />
+      if (Serial.available() &gt; 0) &lcub;
+      <br />
+      char inChar = (char)Serial.read(); // 读取串行输入的字符
+      <br />
+      if (inChar == &#039;R&#039;) &lcub; // 如果接收字符是&#039;R&#039;
+      <br />
+      myservo.write(180); // 舵机旋转到180度
+      <br />
+      delay(2000); // 暂停两秒钟
+      <br />
+      myservo.write(0); // 返回到0度
+      <br />
+      &rcub;
+      <br />
+      &rcub;
+      <br />
+      &rcub;
+    </div>
+    <img class="img-2804-heic-1" src="images/img-2804-heic-10.png" />
+  </div>
+  
+</body>
+</html>
