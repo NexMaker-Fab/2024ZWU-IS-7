@@ -9,7 +9,110 @@
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   overflow: hidden;
 }
-.frame-7 {
+.rectangle-21 {
+  background: conic-gradient(
+    from 137.73deg at 50% 50%,
+    rgba(232, 206, 206, 0.63) 6.499350816011429%,
+    rgba(255, 232, 150, 0.47) 46.89826965332031%,
+    rgba(184, 201, 225, 0.59) 53.4933865070343%,
+    rgba(129, 149, 178, 0.53) 74.00311231613159%,
+    rgba(255, 255, 255, 1) 96.79219126701355%
+  );
+  border-radius: 146px;
+  width: 1665.08px;
+  height: 1005.11px;
+  position: absolute;
+  left: 1282.33px;
+  top: -812.1px;
+  transform-origin: 0 0;
+  transform: rotate(45deg) scale(1, 1);
+  filter: blur(96px);
+}
+.rectangle-20 {
+  background: rgba(123, 128, 135, 0.6);
+  width: 727px;
+  height: 1427px;
+  position: absolute;
+  left: 582px;
+  top: 690px;
+}
+.rectangle-23 {
+  background: rgba(123, 128, 135, 0.6);
+  width: 727px;
+  height: 1427px;
+  position: absolute;
+  left: 588px;
+  top: -913px;
+}
+.yiki {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 64px;
+  line-height: 110%;
+  font-weight: 800;
+  position: absolute;
+  left: 742px;
+  top: 722px;
+  width: 408px;
+  height: 45px;
+}
+.rectangle-22 {
+  width: 886.61px;
+  height: 88.86px;
+  position: absolute;
+  left: calc(50% - 444px);
+  top: 780px;
+  transform: translate(-192.39px, -192px);
+  overflow: visible;
+}
+.student-id-2022015531 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 765px;
+  top: 905px;
+  width: 361px;
+  height: 163px;
+}
+._415-f-99-ecf-5-d-1-fca-83858229012-ef-27-b-1 {
+  border-radius: 67px;
+  width: 465px;
+  height: 418px;
+  position: absolute;
+  left: 729px;
+  top: 263px;
+  object-fit: cover;
+}
+.hobby-music-games-travel {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 725px;
+  top: 1000px;
+  width: 441px;
+  height: 105px;
+}
+.email-2692025934-qq-com {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 110%;
+  font-weight: 400;
+  position: absolute;
+  left: 618px;
+  top: 818px;
+  width: 683px;
+  height: 44px;
+}
+.frame-8 {
   background: rgba(255, 255, 255, 0.03);
   border-radius: 24px;
   border-style: solid;
@@ -89,133 +192,4 @@
   line-height: var(--ui-label-regular-line-height, 150%);
   font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
-}
-.rectangle-21 {
-  background: conic-gradient(
-    from 137.73deg at 50% 50%,
-    rgba(232, 206, 206, 0.63) 6.499350816011429%,
-    rgba(255, 232, 150, 0.47) 46.89826965332031%,
-    rgba(184, 201, 225, 0.59) 53.4933865070343%,
-    rgba(129, 149, 178, 0.53) 74.00311231613159%,
-    rgba(255, 255, 255, 1) 96.79219126701355%
-  );
-  border-radius: 146px;
-  width: 1665.08px;
-  height: 1005.11px;
-  position: absolute;
-  left: 1282.33px;
-  top: -812.1px;
-  transform-origin: 0 0;
-  transform: rotate(45deg) scale(1, 1);
-  filter: blur(96px);
-}
-.rectangle-20 {
-  background: rgba(123, 128, 135, 0.6);
-  width: 727px;
-  height: 1427px;
-  position: absolute;
-  left: 582px;
-  top: 690px;
-}
-.rectangle-23 {
-  background: rgba(123, 128, 135, 0.6);
-  width: 727px;
-  height: 1427px;
-  position: absolute;
-  left: 588px;
-  top: -913px;
-}
-.b-909-a-7-a-4-ee-5-f-9-eb-01-a-943-d-7-d-90-b-4-a-00-2 {
-  border-radius: 48px;
-  width: 460px;
-  height: 393px;
-  position: absolute;
-  left: 734px;
-  top: 276px;
-  object-fit: cover;
-}
-.yiki {
-  color: #ffffff;
-  text-align: center;
-  font-family: "Inter-ExtraBold", sans-serif;
-  font-size: 64px;
-  line-height: 110%;
-  font-weight: 800;
-  position: absolute;
-  left: 742px;
-  top: 722px;
-  width: 408px;
-  height: 45px;
-}
-.rectangle-22 {
-  width: 886.61px;
-  height: 88.86px;
-  position: absolute;
-  left: 446.2px;
-  top: 840.43px;
-  transform: translate(-192.39px, -192px);
-  overflow: visible;
-}
-.student-id-2022015531 {
-  color: #ffffff;
-  text-align: center;
-  font-family: "Lalezar-Regular", sans-serif;
-  font-size: 32px;
-  font-weight: 400;
-  position: absolute;
-  left: 765px;
-  top: 905px;
-  width: 361px;
-  height: 163px;
-}
-._415-f-99-ecf-5-d-1-fca-83858229012-ef-27-b-1 {
-  border-radius: 67px;
-  width: 465px;
-  height: 418px;
-  position: absolute;
-  left: 729px;
-  top: 263px;
-  object-fit: cover;
-}
-.hobby-music-games-travel {
-  color: #ffffff;
-  text-align: center;
-  font-family: "Lalezar-Regular", sans-serif;
-  font-size: 32px;
-  font-weight: 400;
-  position: absolute;
-  left: 725px;
-  top: 1000px;
-  width: 441px;
-  height: 105px;
-}
-.email-2692025934-qq-com {
-  color: #ffffff;
-  text-align: center;
-  font-family: "Lalezar-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 110%;
-  font-weight: 400;
-  position: absolute;
-  left: 618px;
-  top: 818px;
-  width: 683px;
-  height: 44px;
-}
-.frame-8 {
-  background: rgba(255, 255, 255, 0.03);
-  border-radius: 24px;
-  border-style: solid;
-  border-color: rgba(233, 233, 233, 0.62);
-  border-width: 1px;
-  padding: 16px 88px 16px 88px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: absolute;
-  left: calc(50% - 815px);
-  top: 89px;
-  backdrop-filter: blur(30px);
 }

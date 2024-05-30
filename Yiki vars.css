@@ -33,11 +33,6 @@
   --h4-heading-line-height: 110%;
   --h4-heading-font-weight: 800;
   --h4-heading-font-style: normal;
-  --h5-heading-font-family: Inter-Medium, sans-serif;
-  --h5-heading-font-size: 20px;
-  --h5-heading-line-height: 110%;
-  --h5-heading-font-weight: 500;
-  --h5-heading-font-style: normal;
   --h6-heading-font-family: Inter-Medium, sans-serif;
   --h6-heading-font-size: 20px;
   --h6-heading-line-height: 110%;
@@ -48,6 +43,11 @@
   --p1-paragraph-large-line-height: 150%;
   --p1-paragraph-large-font-weight: 400;
   --p1-paragraph-large-font-style: normal;
+  --h5-heading-font-family: Inter-Medium, sans-serif;
+  --h5-heading-font-size: 20px;
+  --h5-heading-line-height: 110%;
+  --h5-heading-font-weight: 500;
+  --h5-heading-font-style: normal;
   --p2-paragraph-medium-font-family: Inter-Regular, sans-serif;
   --p2-paragraph-medium-font-size: 20px;
   --p2-paragraph-medium-line-height: 150%;
@@ -73,6 +73,11 @@
   --ui-label-regular-line-height: 150%;
   --ui-label-regular-font-weight: 400;
   --ui-label-regular-font-style: normal;
+  --h7h8-font-family: Inter-Medium, sans-serif;
+  --h7h8-font-size: 20px;
+  --h7h8-line-height: 110%;
+  --h7h8-font-weight: 500;
+  --h7h8-font-style: normal;
 
   /* Effects */
 }
