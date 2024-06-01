@@ -41,6 +41,218 @@
 <body>
   <div class="desktop-12">
     <div class="rectangle-17"></div>
+    <div class="frame-60">
+      <div class="arduino-input">Arduino input</div>
+      <div class="analog-circuit-connection">Analog circuit connection</div>
+    </div>
+    <div class="frame-63">
+      <div
+        class="we-link-the-arduino-and-processing-to-implement-an-animation-effect"
+      >
+        We link the Arduino and Processing to implement an animation effect.
+      </div>
+      <div
+        class="the-pulse-value-is-detected-by-an-acoustic-sensor-and-when-the-pulse-value-is-greater-than-1000-the-ball-is-generated-in-the-processing-screen-and-falls"
+      >
+        The pulse value is detected by an acoustic sensor, and when the pulse
+        value is greater than 1000, the ball is generated in the Processing screen
+        and falls.
+      </div>
+    </div>
+    <img class="_20240531235959-1" src="images2/20240531.png" />
+    <div class="frame-66">
+      <img class="normal-video-1" src="images2/video-10.png" />
+      <div class="frame-64">
+        <img class="_1-1" src="images2/1-10.png" />
+        <div
+          class="first-i-tell-the-ai-what-i-need-to-generate-the-code-but-the-first-processing-end-of-the-code-causes-the-blob-to-automatically-re-run-after-it-has-been-generated-once-and-it-can-t-be-detected-once-and-then-generated-again"
+        >
+          First I tell the AI what I need to generate the code, but the first
+          Processing end of the code causes the blob to automatically re-run after
+          it has been generated once, and it can&#039;t be detected once and then
+          generated again.
+        </div>
+      </div>
+      <div class="frame-65">
+        <img class="_1-2" src="images2/1-20.png" />
+        <div
+          class="the-final-problem-was-that-the-detection-value-of-500-was-too-low-and-too-sensitive-which-was-solved-by-turning-it-up-to-1000"
+        >
+          The final problem was that the detection value of 500 was too low and
+          too sensitive, which was solved by turning it up to 1000.
+        </div>
+      </div>
+      <div class="frame-62">
+        <div class="frame-21">
+          <div class="frame-22">
+            <div class="arduino-code">Arduino Code:</div>
+          </div>
+          <div class="frame-23">
+            <div class="copy">copy</div>
+          </div>
+        </div>
+        <div class="frame-20">
+          <div
+            class="const-int-sensor-pin-a-0-the-sound-sensor-interface-is-set-to-a-0-int-pulse-value-0-store-the-pulse-values-read-from-the-storage-device-void-setup-serial-begin-9600-initialize-serial-communication-void-loop-pulse-value-analog-read-sensor-pin-read-the-pulse-values-from-the-sound-sensor-if-pulse-value-1000-serial-println-create-ball-send-the-instruction-when-the-pulse-value-is-greater-than-1000-delay-5000-delay-to-avoid-repeating-instructions"
+          >
+            <br />
+            const int sensorPin = A0; //The sound sensor interface is set to A0.
+            <br />
+            int pulseValue = 0; // Store the pulse values read from the storage
+            device.
+            <br />
+            <br />
+            void setup() &lcub;
+            <br />
+            Serial.begin(9600); // Initialize serial communication.
+            <br />
+            &rcub;
+            <br />
+            <br />
+            void loop() &lcub;
+            <br />
+            pulseValue = analogRead (sensorPin ); // Read the pulse values from
+            the sound sensor.
+            <br />
+            <br />
+            if (pulseValue &gt; 1000) &lcub;
+            <br />
+            Serial.println(&quot;CREATE_BALL&quot;); // Send the instruction when
+            the pulse value is greater than 1000.
+            <br />
+            delay(5000); // Delay to avoid repeating instructions
+            <br />
+            &rcub;
+            <br />
+          </div>
+        </div>
+      </div>
+      <div
+        class="even-the-input-port-of-the-arduino-board-s-sound-sensor-is-port-a-0-and-the-variable-pulse-value-is-created-to-store-the-value-of-the-pulses-read-assign-the-value-of-the-detected-pulse-to-the-pulse-value-variable-if-the-pulse-value-is-greater-than-1000-send-a-signal-to-processing-and-set-a-delay-of-5000-milliseconds"
+      >
+        Even the input port of the Arduino board&#039;s sound sensor is port A0,
+        and the variable pulseValue is created to store the value of the pulses
+        read.Assign the value of the detected pulse to the pulseValue variable, if
+        the pulse value is greater than 1000, send a signal to Processing, and set
+        a delay of 5000 milliseconds.
+      </div>
+      <div class="frame-25">
+        <div class="frame-61">
+          <div class="frame-212">
+            <div class="frame-232">
+              <div class="arduino-code">Arduino Code:</div>
+              <div class="copy">copy</div>
+            </div>
+          </div>
+          <div class="frame-202">
+            <div
+              class="import-processing-serial-serial-my-port-declare-serial-object-boolean-ball-exists-false-a-sign-that-controls-the-presence-or-absence-of-the-ball-float-ball-y-ball-y-coordinate-void-setup-size-600-600-set-window-size-ball-y-50-initially-the-ball-is-at-the-top-of-the-screen-visible-range-string-port-name-serial-list-0-my-port-new-serial-this-port-name-9600-void-draw-background-255-set-the-background-color-to-white-if-ball-exists-ball-y-2-control-the-ball-s-falling-speed-when-the-ball-leaves-the-screen-completely-we-keep-it-at-the-top-to-wait-for-the-next-signal-if-ball-y-height-25-ball-exists-false-reset-the-presence-state-of-the-ball-ball-y-50-the-ball-returns-to-the-top-of-the-screen-draw-the-ball-only-if-it-is-present-if-ball-exists-fill-0-set-the-fill-color-to-black-no-stroke-ellipse-width-2-ball-y-50-50-draw-ball-void-serial-event-serial-p-string-msg-p-read-string-until-n-if-msg-null-msg-msg-trim-if-msg-equals-create-ball-ball-exists-true-when-the-signal-is-received-change-the-state-of-the-ball-so-that-it-begins-to-fall"
+            >
+              import processing.serial.*;
+              <br />
+              <br />
+              Serial myPort; // Declare serial object
+              <br />
+              boolean ballExists = false; // A sign that controls the presence or
+              absence of the ball
+              <br />
+              float ballY; // Ball Y coordinate
+              <br />
+              <br />
+              void setup() &lcub;
+              <br />
+              size(600, 600); // Set window size
+              <br />
+              ballY = 50; // Initially, the ball is at the top of the screen
+              (visible range)
+              <br />
+              String portName = Serial.list()[0];
+              <br />
+              myPort = new Serial(this, portName, 9600);
+              <br />
+              &rcub;
+              <br />
+              <br />
+              void draw() &lcub;
+              <br />
+              background(255); // Set the background color to white
+              <br />
+              <br />
+              if (ballExists) &lcub;
+              <br />
+              ballY += 2; // Control the ball&#039;s falling speed
+              <br />
+              // When the ball leaves the screen completely, we keep it at the top
+              to wait for the next signal
+              <br />
+              if (ballY &gt; height + 25) &lcub;
+              <br />
+              ballExists = false; // Reset the presence state of the ball
+              <br />
+              ballY = 50; // The ball returns to the top of the screen
+              <br />
+              &rcub;
+              <br />
+              &rcub;
+              <br />
+              <br />
+              // Draw the ball only if it is present
+              <br />
+              if (ballExists) &lcub;
+              <br />
+              fill(0); // Set the fill color to black
+              <br />
+              noStroke();
+              <br />
+              ellipse(width / 2, ballY, 50, 50); // Draw ball
+              <br />
+              &rcub;
+              <br />
+              &rcub;
+              <br />
+              <br />
+              void serialEvent(Serial p) &lcub;
+              <br />
+              String msg = p.readStringUntil(&#039;\n&#039;);
+              <br />
+              if (msg != null) &lcub;
+              <br />
+              msg = msg.trim();
+              <br />
+              if (msg.equals(&quot;CREATE_BALL&quot;)) &lcub;
+              <br />
+              ballExists = true; // When the signal is received, change the state
+              of the ball so that it begins to fall
+              <br />
+              &rcub;
+              <br />
+              &rcub;
+              <br />
+              &rcub;
+              <br />
+            </div>
+          </div>
+        </div>
+      </div>
+      <img class="hao-1-1" src="images2/hao-1.png" />
+      <div
+        class="on-the-processing-side-the-variable-ball-exists-is-defined-to-detect-the-existence-of-the-ball-and-to-facilitate-the-signal-input-to-generate-the-ball-in-the-first-round-of-the-program-set-the-display-window-size-then-set-the-height-of-the-ball-generation-and-then-declare-the-input-port-to-link-with-the-arduino-for-the-second-round-of-the-program-first-define-the-background-color-as-white-the-ball-is-then-dropped-through-a-loop-statement-and-if-the-ball-falls-completely-off-the-screen-the-height-of-the-ball-is-reset-to-allow-it-to-re-generate-at-the-top-again-at-the-same-time-the-ball-is-only-drawn-when-processing-receives-a-pulse-value-greater-than-1000-the-third-program-on-the-other-hand-makes-a-determination-in-processing-again-but-it-only-generates-the-ball-and-lets-it-fall-when-it-receives-a-signal-from-the-arduino"
+      >
+        On the Processing side, the variable ballExists is defined to detect the
+        existence of the ball and to facilitate the signal input to generate the
+        ball. In the first round of the program, set the display window size, then
+        set the height of the ball generation, and then declare the input port to
+        link with the Arduino.For the second round of the program, first define
+        the background color as white. The ball is then dropped through a loop
+        statement, and if the ball falls completely off the screen, the height of
+        the ball is reset to allow it to re-generate at the top again. At the same
+        time, the ball is only drawn when Processing receives a pulse value
+        greater than 1000.The third program, on the other hand, makes a
+        determination in Processing again, but it only generates the ball and lets
+        it fall when it receives a signal from the Arduino.
+      </div>
+    </div>
+    <div class="line-2"></div>
     <div class="frame-7">
       <div class="frame-6">
         <a class="mars" href="index.html">Mars</a>
@@ -48,197 +260,10 @@
           <a class="about-us" href="About us.html">About us</a>
           <a class="previous-projects" href="Previous projects.html">Previous projects</a>
           <a class="team-members" href="Team Members.html">Team members</a>
-          <a class="more" href="More.html">More</a>
+          <a class="final-project" href="Final project.html">Final project</a>
         </div>
       </div>
     </div>
-    <div class="_4-arduino-input">4.Arduino input</div>
-    <div
-      class="linking-the-processing-and-arduino-the-signal-input-from-the-arduino-port-is-used-to-control-the-falling-and-not-falling-of-the-small-ball-on-the-processing-side-of-the-screen"
-    >
-      Linking the processing and Arduino, the signal input from the Arduino port
-      is used to control the falling and not falling of the small ball on the
-      processing side of the screen.
-    </div>
-    <div
-      class="code-arduino-const-int-sensor-pin-a-0-the-sound-sensor-interface-is-set-to-a-0-int-pulse-value-0-store-the-pulse-values-read-from-the-storage-device-void-setup-serial-begin-9600-initialize-serial-communication-void-loop-pulse-value-analog-read-sensor-pin-read-the-pulse-values-from-the-sound-sensor-if-pulse-value-1000-serial-println-create-ball-send-the-instruction-when-the-pulse-value-is-greater-than-1000-delay-5000-delay-to-avoid-repeating-instructions"
-    >
-      <span>
-        <span
-          class="code-arduino-const-int-sensor-pin-a-0-the-sound-sensor-interface-is-set-to-a-0-int-pulse-value-0-store-the-pulse-values-read-from-the-storage-device-void-setup-serial-begin-9600-initialize-serial-communication-void-loop-pulse-value-analog-read-sensor-pin-read-the-pulse-values-from-the-sound-sensor-if-pulse-value-1000-serial-println-create-ball-send-the-instruction-when-the-pulse-value-is-greater-than-1000-delay-5000-delay-to-avoid-repeating-instructions-span"
-        >
-          Code—Arduino
-          <br />
-        </span>
-        <span
-          class="code-arduino-const-int-sensor-pin-a-0-the-sound-sensor-interface-is-set-to-a-0-int-pulse-value-0-store-the-pulse-values-read-from-the-storage-device-void-setup-serial-begin-9600-initialize-serial-communication-void-loop-pulse-value-analog-read-sensor-pin-read-the-pulse-values-from-the-sound-sensor-if-pulse-value-1000-serial-println-create-ball-send-the-instruction-when-the-pulse-value-is-greater-than-1000-delay-5000-delay-to-avoid-repeating-instructions-span2"
-        >
-          <br />
-          const int sensorPin = A0; //The sound sensor interface is set to A0.
-          <br />
-          int pulseValue = 0; // Store the pulse values read from the storage
-          device.
-          <br />
-          <br />
-          void setup() &lcub;
-          <br />
-          Serial.begin(9600); // Initialize serial communication.
-          <br />
-          &rcub;
-          <br />
-          <br />
-          void loop() &lcub;
-          <br />
-          pulseValue = analogRead (sensorPin ); // Read the pulse values from the
-          sound sensor.
-          <br />
-          <br />
-          if (pulseValue &gt; 1000) &lcub;
-          <br />
-          Serial.println(&quot;CREATE_BALL&quot;); // Send the instruction when
-          the pulse value is greater than 1000.
-          <br />
-          delay(5000); // Delay to avoid repeating instructions
-          <br />
-          &rcub;
-          <br />
-        </span>
-      </span>
-    </div>
-    <div
-      class="code-performs-the-detection-and-output-of-the-pulse-signal-value-firstly-the-detected-pulse-value-is-given-to-the-variable-pulse-value-if-the-detected-pulse-value-is-greater-than-1000-then-a-signal-is-sent-to-the-processing-a-delay-signal-of-5000-is-set-to-avoid-sending-the-signal-repeatedly"
-    >
-       code performs the detection and output of the pulse signal value. Firstly
-      the detected pulse value is given to the variable pulseValue, if the
-      detected pulse value is greater than 1000, then a signal is sent to the
-      processing. A delay signal of 5000 is set to avoid sending the signal
-      repeatedly.
-    </div>
-    <div
-      class="code-processing-import-processing-serial-serial-my-port-declare-serial-object-boolean-ball-exists-false-a-sign-that-controls-the-presence-or-absence-of-the-ball-float-ball-y-ball-y-coordinate-void-setup-size-600-600-set-window-size-ball-y-50-initially-the-ball-is-at-the-top-of-the-screen-visible-range-string-port-name-serial-list-0-my-port-new-serial-this-port-name-9600-void-draw-background-255-set-the-background-color-to-white-if-ball-exists-ball-y-2-control-the-ball-s-falling-speed-when-the-ball-leaves-the-screen-completely-we-keep-it-at-the-top-to-wait-for-the-next-signal-if-ball-y-height-25-ball-exists-false-reset-the-presence-state-of-the-ball-ball-y-50-the-ball-returns-to-the-top-of-the-screen-draw-the-ball-only-if-it-is-present-if-ball-exists-fill-0-set-the-fill-color-to-black-no-stroke-ellipse-width-2-ball-y-50-50-draw-ball-void-serial-event-serial-p-string-msg-p-read-string-until-n-if-msg-null-msg-msg-trim-if-msg-equals-create-ball-ball-exists-true-when-the-signal-is-received-change-the-state-of-the-ball-so-that-it-begins-to-fall"
-    >
-      <span>
-        <span
-          class="code-processing-import-processing-serial-serial-my-port-declare-serial-object-boolean-ball-exists-false-a-sign-that-controls-the-presence-or-absence-of-the-ball-float-ball-y-ball-y-coordinate-void-setup-size-600-600-set-window-size-ball-y-50-initially-the-ball-is-at-the-top-of-the-screen-visible-range-string-port-name-serial-list-0-my-port-new-serial-this-port-name-9600-void-draw-background-255-set-the-background-color-to-white-if-ball-exists-ball-y-2-control-the-ball-s-falling-speed-when-the-ball-leaves-the-screen-completely-we-keep-it-at-the-top-to-wait-for-the-next-signal-if-ball-y-height-25-ball-exists-false-reset-the-presence-state-of-the-ball-ball-y-50-the-ball-returns-to-the-top-of-the-screen-draw-the-ball-only-if-it-is-present-if-ball-exists-fill-0-set-the-fill-color-to-black-no-stroke-ellipse-width-2-ball-y-50-50-draw-ball-void-serial-event-serial-p-string-msg-p-read-string-until-n-if-msg-null-msg-msg-trim-if-msg-equals-create-ball-ball-exists-true-when-the-signal-is-received-change-the-state-of-the-ball-so-that-it-begins-to-fall-span"
-        >
-          Code—Processing
-          <br />
-        </span>
-        <span
-          class="code-processing-import-processing-serial-serial-my-port-declare-serial-object-boolean-ball-exists-false-a-sign-that-controls-the-presence-or-absence-of-the-ball-float-ball-y-ball-y-coordinate-void-setup-size-600-600-set-window-size-ball-y-50-initially-the-ball-is-at-the-top-of-the-screen-visible-range-string-port-name-serial-list-0-my-port-new-serial-this-port-name-9600-void-draw-background-255-set-the-background-color-to-white-if-ball-exists-ball-y-2-control-the-ball-s-falling-speed-when-the-ball-leaves-the-screen-completely-we-keep-it-at-the-top-to-wait-for-the-next-signal-if-ball-y-height-25-ball-exists-false-reset-the-presence-state-of-the-ball-ball-y-50-the-ball-returns-to-the-top-of-the-screen-draw-the-ball-only-if-it-is-present-if-ball-exists-fill-0-set-the-fill-color-to-black-no-stroke-ellipse-width-2-ball-y-50-50-draw-ball-void-serial-event-serial-p-string-msg-p-read-string-until-n-if-msg-null-msg-msg-trim-if-msg-equals-create-ball-ball-exists-true-when-the-signal-is-received-change-the-state-of-the-ball-so-that-it-begins-to-fall-span2"
-        >
-          <br />
-          import processing.serial.*;
-          <br />
-          <br />
-          Serial myPort; // Declare serial object
-          <br />
-          boolean ballExists = false; // A sign that controls the presence or
-          absence of the ball
-          <br />
-          float ballY; // Ball Y coordinate
-          <br />
-          <br />
-          void setup() &lcub;
-          <br />
-          size(600, 600); // Set window size
-          <br />
-          ballY = 50; // Initially, the ball is at the top of the screen (visible
-          range)
-          <br />
-          String portName = Serial.list()[0];
-          <br />
-          myPort = new Serial(this, portName, 9600);
-          <br />
-          &rcub;
-          <br />
-          <br />
-          void draw() &lcub;
-          <br />
-          background(255); // Set the background color to white
-          <br />
-          <br />
-          if (ballExists) &lcub;
-          <br />
-          ballY += 2; // Control the ball&#039;s falling speed
-          <br />
-          // When the ball leaves the screen completely, we keep it at the top to
-          wait for the next signal
-          <br />
-          if (ballY &gt; height + 25) &lcub;
-          <br />
-          ballExists = false; // Reset the presence state of the ball
-          <br />
-          ballY = 50; // The ball returns to the top of the screen
-          <br />
-          &rcub;
-          <br />
-          &rcub;
-          <br />
-          <br />
-          // Draw the ball only if it is present
-          <br />
-          if (ballExists) &lcub;
-          <br />
-          fill(0); // Set the fill color to black
-          <br />
-          noStroke();
-          <br />
-          ellipse(width / 2, ballY, 50, 50); // Draw ball
-          <br />
-          &rcub;
-          <br />
-          &rcub;
-          <br />
-          <br />
-          void serialEvent(Serial p) &lcub;
-          <br />
-          String msg = p.readStringUntil(&#039;\n&#039;);
-          <br />
-          if (msg != null) &lcub;
-          <br />
-          msg = msg.trim();
-          <br />
-          if (msg.equals(&quot;CREATE_BALL&quot;)) &lcub;
-          <br />
-          ballExists = true; // When the signal is received, change the state of
-          the ball so that it begins to fall
-          <br />
-          &rcub;
-          <br />
-          &rcub;
-          <br />
-          &rcub;
-          <br />
-        </span>
-      </span>
-    </div>
-    <div
-      class="on-the-processing-side-the-variable-ball-exists-is-defined-to-detect-the-existence-of-the-ball-and-to-facilitate-the-signal-input-to-generate-the-ball-in-the-first-round-of-the-program-set-the-display-window-size-then-set-the-height-of-the-ball-generation-and-then-declare-the-input-port-to-link-with-the-arduino-for-the-second-round-of-the-program-first-define-the-background-color-as-white-the-ball-is-then-dropped-through-a-loop-statement-and-if-the-ball-falls-completely-off-the-screen-the-height-of-the-ball-is-reset-to-allow-it-to-re-generate-at-the-top-again-at-the-same-time-the-ball-is-only-drawn-when-processing-receives-a-pulse-value-greater-than-1000-the-third-program-on-the-other-hand-makes-a-determination-in-processing-again-but-it-only-generates-the-ball-and-lets-it-fall-when-it-receives-a-signal-from-the-arduino"
-    >
-      On the Processing side, the variable ballExists is defined to detect the
-      existence of the ball and to facilitate the signal input to generate the
-      ball. In the first round of the program, set the display window size, then
-      set the height of the ball generation, and then declare the input port to
-      link with the Arduino.For the second round of the program, first define the
-      background color as white. The ball is then dropped through a loop
-      statement, and if the ball falls completely off the screen, the height of
-      the ball is reset to allow it to re-generate at the top again. At the same
-      time, the ball is only drawn when Processing receives a pulse value greater
-      than 1000.The third program, on the other hand, makes a determination in
-      Processing again, but it only generates the ball and lets it fall when it
-      receives a signal from the Arduino.
-    </div>
-    <img class="img-9186-heic-1" src="images/img-9186-heic-10.png" />
-    <div class="component">*Component</div>
-    <div class="_1-arduino-nano-board-2-acoustic-sensor">
-      1.Arduino Nano board
-      <br />
-      2.Acoustic sensor
-    </div>
-      src="images/_9-ee-400-d-978423-de-4957-df-734411-bc-68-20.png"
-      <img class="_20240530005544-1" src="images/input1.png" />
-    <img class="_20240530005540-1" src="images/input2.png" />
   </div>
   
 </body>

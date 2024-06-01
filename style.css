@@ -3,8 +3,8 @@
   box-sizing: border-box;
 }
 .desktop-1 {
-  background: var(--0d0c11, #0d0c11);
-  height: 3113px;
+  background: var(--0d0c11, #000000);
+  height: 2375px;
   position: relative;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   overflow: hidden;
@@ -26,15 +26,6 @@
   transform-origin: 0 0;
   transform: rotate(45deg) scale(1, 1);
   filter: blur(96px);
-}
-.rectangle-18 {
-  width: 2025.53px;
-  height: 274.94px;
-  position: absolute;
-  left: -105.1px;
-  top: 1919px;
-  transform: translate(105.1px, -192px);
-  overflow: visible;
 }
 .frame-12 {
   display: flex;
@@ -141,87 +132,6 @@
   font-size: var(--ui-label-semibold-font-size, 18px);
   line-height: var(--ui-label-semibold-line-height, 150%);
   font-weight: var(--ui-label-semibold-font-weight, 600);
-  position: relative;
-}
-.frame-7 {
-  background: rgba(255, 255, 255, 0.03);
-  border-radius: 24px;
-  border-style: solid;
-  border-color: rgba(233, 233, 233, 0.62);
-  border-width: 1px;
-  padding: 16px 88px 16px 88px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: absolute;
-  left: calc(50% - 815px);
-  top: 89px;
-  backdrop-filter: blur(30px);
-}
-.frame-6 {
-  display: flex;
-  flex-direction: row;
-  gap: 777px;
-  align-items: center;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  width: 1454px;
-  position: relative;
-}
-.mars {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-}
-.frame-5 {
-  display: flex;
-  flex-direction: row;
-  gap: 48px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: relative;
-}
-.about-us2 {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
-  font-size: var(--ui-label-regular-font-size, 18px);
-  line-height: var(--ui-label-regular-line-height, 150%);
-  font-weight: var(--ui-label-regular-font-weight, 400);
-  position: relative;
-}
-.previous-projects {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
-  font-size: var(--ui-label-regular-font-size, 18px);
-  line-height: var(--ui-label-regular-line-height, 150%);
-  font-weight: var(--ui-label-regular-font-weight, 400);
-  position: relative;
-}
-.team-members {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
-  font-size: var(--ui-label-regular-font-size, 18px);
-  line-height: var(--ui-label-regular-line-height, 150%);
-  font-weight: var(--ui-label-regular-font-weight, 400);
-  position: relative;
-}
-.more {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
-  font-size: var(--ui-label-regular-font-size, 18px);
-  line-height: var(--ui-label-regular-line-height, 150%);
-  font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
 }
 .frame-18 {
@@ -351,11 +261,11 @@
   position: relative;
 }
 .rectangle-27 {
-  background: #ffffff;
   flex-shrink: 0;
   width: 276px;
   height: 405px;
   position: relative;
+  overflow: visible;
 }
 ._0-b-60-afe-9-ae-3-fb-394-ed-6-a-121954-f-4-d-5-e-3-removebg-1 {
   flex-shrink: 0;
@@ -372,10 +282,102 @@
   object-fit: cover;
 }
 .rectangle-29 {
-  background: #ffffff;
-  border-radius: 0px 0px 180px 0px;
+  border-radius: 0px;
   flex-shrink: 0;
   width: 276px;
   height: 405px;
   position: relative;
+  overflow: visible;
+  object-fit: cover;
+}
+.frame-7 {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: rgba(233, 233, 233, 0.62);
+  border-width: 1px;
+  padding: 16px 88px 16px 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 815px);
+  top: 89px;
+  backdrop-filter: blur(30px);
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 777px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1454px;
+  position: relative;
+}
+.mars {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.previous-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.final-project {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 1700px;
+  height: 0px;
+  position: absolute;
+  left: calc(50% - 850px);
+  top: 2316px;
 }

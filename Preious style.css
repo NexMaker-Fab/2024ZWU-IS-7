@@ -1,0 +1,362 @@
+.desktop-3,
+.desktop-3 * {
+  box-sizing: border-box;
+}
+.desktop-3 {
+  background: #000000;
+  height: 3933px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-17 {
+  background: conic-gradient(
+    from 137.73deg at 50% 50%,
+    rgba(0, 0, 0, 1) 6.499350816011429%,
+    rgba(224, 35, 136, 1) 46.89826965332031%,
+    rgba(39, 99, 183, 1) 53.4933865070343%,
+    rgba(20, 52, 97, 0.53) 74.00311231613159%,
+    rgba(0, 0, 0, 1) 96.79219126701355%
+  );
+  width: 1000px;
+  height: 1100px;
+  position: absolute;
+  left: 1451.86px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(45deg) scale(1, 1);
+  filter: blur(96px);
+}
+.frame-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 341px);
+  top: 247px;
+}
+.frame-10 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 683px;
+  position: relative;
+}
+.h-1-heading {
+  background: var(
+    --linear1,
+    linear-gradient(
+      180deg,
+      rgba(253, 253, 253, 1) 0%,
+      rgba(205, 205, 205, 1) 64.99999761581421%,
+      rgba(155, 155, 155, 1) 100%
+    )
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.paragraph-text {
+  color: var(--afafaf, #afafaf);
+  text-align: center;
+  font-family: var(
+    --p2-paragraph-medium-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p2-paragraph-medium-font-size, 20px);
+  line-height: var(--p2-paragraph-medium-line-height, 150%);
+  font-weight: var(--p2-paragraph-medium-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-12 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 815px);
+  top: 714px;
+}
+.h-1-heading2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.arduino-output {
+  color: #ffffff;
+  text-align: right;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: absolute;
+  left: 1067px;
+  top: 1102px;
+}
+.arduino-input {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: absolute;
+  left: 145px;
+  top: 1435px;
+}
+.interface-application-programming {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: absolute;
+  left: 1067px;
+  top: 1642px;
+}
+.frame-7 {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: rgba(233, 233, 233, 0.62);
+  border-width: 1px;
+  padding: 16px 88px 16px 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 815px);
+  top: 89px;
+  backdrop-filter: blur(30px);
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 777px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1454px;
+  position: relative;
+}
+.mars {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.previous-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.final-project {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.material {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: absolute;
+  left: 145px;
+  top: 2055px;
+}
+.computer-aided-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: absolute;
+  left: 1067px;
+  top: 2316px;
+}
+._3-d-printing {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: absolute;
+  left: 145px;
+  top: 2675px;
+}
+.computer-controlled-cutting {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: absolute;
+  left: 1067px;
+  top: 2940px;
+}
+.arduino-iot {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: absolute;
+  left: 145px;
+  top: 3346px;
+}
+.line-3 {
+  width: 3029px;
+  height: 0px;
+  position: absolute;
+  left: 919px;
+  top: 714px;
+  transform: translate(-25.77px, 0px);
+  overflow: visible;
+}
+.arrow-1 {
+  width: 88px;
+  height: 0px;
+  position: absolute;
+  left: 916px;
+  top: 847px;
+  transform: translate(-90.5px, -18.41px);
+  overflow: visible;
+}
+.arrow-6 {
+  width: 88px;
+  height: 0px;
+  position: absolute;
+  left: 919px;
+  top: 1152px;
+  transform: translate(0px, -18.41px);
+  overflow: visible;
+}
+.arrow-2 {
+  width: 88px;
+  height: 0px;
+  position: absolute;
+  left: 919px;
+  top: 1485px;
+  transform: translate(-90.5px, -18.41px);
+  overflow: visible;
+}
+.arrow-3 {
+  width: 88px;
+  height: 0px;
+  position: absolute;
+  left: 919px;
+  top: 2106px;
+  transform: translate(-90.5px, -18.41px);
+  overflow: visible;
+}
+.arrow-4 {
+  width: 88px;
+  height: 0px;
+  position: absolute;
+  left: 919px;
+  top: 2740px;
+  transform: translate(-90.5px, -18.41px);
+  overflow: visible;
+}
+.arrow-5 {
+  width: 88px;
+  height: 0px;
+  position: absolute;
+  left: 919px;
+  top: 3397px;
+  transform: translate(-90.5px, -18.41px);
+  overflow: visible;
+}
+.arrow-7 {
+  width: 88px;
+  height: 0px;
+  position: absolute;
+  left: 919px;
+  top: 1794px;
+  transform: translate(0px, -18.41px);
+  overflow: visible;
+}
+.arrow-8 {
+  width: 88px;
+  height: 0px;
+  position: absolute;
+  left: 919px;
+  top: 2417px;
+  transform: translate(0px, -18.41px);
+  overflow: visible;
+}
+.arrow-9 {
+  width: 88px;
+  height: 0px;
+  position: absolute;
+  left: 919px;
+  top: 3092px;
+  transform: translate(0px, -18.41px);
+  overflow: visible;
+}

@@ -57,7 +57,7 @@
   align-self: stretch;
 }
 .paragraph-text {
-  color: var(--afafaf, #afafaf);
+  color: #c7c7c7;
   text-align: center;
   font-family: var(
     --p2-paragraph-medium-font-family,
@@ -142,7 +142,7 @@
   font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
 }
-.more {
+.final-project {
   color: #ffffff;
   text-align: left;
   font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);

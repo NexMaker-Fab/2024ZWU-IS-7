@@ -1,0 +1,1113 @@
+.desktop-24,
+.desktop-24 * {
+  box-sizing: border-box;
+}
+.desktop-24 {
+  background: #000000;
+  height: 19876px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-17 {
+  background: conic-gradient(
+    from 137.73deg at 50% 50%,
+    rgba(0, 0, 0, 1) 6.499350816011429%,
+    rgba(224, 35, 136, 1) 46.89826965332031%,
+    rgba(39, 99, 183, 1) 53.4933865070343%,
+    rgba(20, 52, 97, 0.53) 74.00311231613159%,
+    rgba(0, 0, 0, 1) 96.79219126701355%
+  );
+  width: 1000px;
+  height: 1100px;
+  position: absolute;
+  left: 1451.86px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(45deg) scale(1, 1);
+  filter: blur(96px);
+}
+.rectangle-37 {
+  background: #000000;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 161px;
+  height: 139px;
+  position: absolute;
+  left: 1624px;
+  top: 3366px;
+}
+.rectangle-38 {
+  background: #000000;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 161px;
+  height: 139px;
+  position: absolute;
+  left: 1610px;
+  top: 4011px;
+}
+.sketch {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 145px;
+  top: 2725px;
+  width: 786px;
+  height: 47px;
+}
+.pde {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 148px;
+  top: 4034px;
+  width: 786px;
+  height: 47px;
+}
+.toolbar {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 160px;
+  top: 5175px;
+  width: 786px;
+  height: 47px;
+}
+.texteditor {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 160px;
+  top: 6378px;
+  width: 786px;
+  height: 47px;
+}
+.console {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 160px;
+  top: 7647px;
+  width: 786px;
+  height: 47px;
+}
+.demo-in-processing {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 160px;
+  top: 11156px;
+  width: 786px;
+  height: 47px;
+}
+.frame-58 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 523px;
+  position: absolute;
+  left: 145px;
+  top: 246px;
+}
+.frame-57 {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.processing {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+  width: 1619px;
+  height: 111px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.definition-processing {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 786px;
+  height: 47px;
+}
+.processing-is-a-simple-and-easy-to-use-programming-language-and-programming-environment-for-developing-visually-oriented-applications-the-creators-of-processing-regard-it-as-a-code-sketchbook-it-is-especially-good-at-algorithmic-animation-and-real-time-interactive-feedback-so-in-recent-years-it-has-become-more-and-more-popular-in-interactive-animation-complex-data-visualisation-visual-design-prototype-development-and-production-direction-everyone-likes-this-cute-intimate-simple-and-easy-to-use-programming-tool-processing-official-website-https-processing-org-the-website-contains-processing-s-work-display-object-function-documents-and-application-examples-background-introduction-related-links-forum-wiki-faq-etc {
+  color: #ffffff;
+  text-align: left;
+  position: relative;
+  width: 1600px;
+  height: 281px;
+}
+.processing-is-a-simple-and-easy-to-use-programming-language-and-programming-environment-for-developing-visually-oriented-applications-the-creators-of-processing-regard-it-as-a-code-sketchbook-it-is-especially-good-at-algorithmic-animation-and-real-time-interactive-feedback-so-in-recent-years-it-has-become-more-and-more-popular-in-interactive-animation-complex-data-visualisation-visual-design-prototype-development-and-production-direction-everyone-likes-this-cute-intimate-simple-and-easy-to-use-programming-tool-processing-official-website-https-processing-org-the-website-contains-processing-s-work-display-object-function-documents-and-application-examples-background-introduction-related-links-forum-wiki-faq-etc-span {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.processing-is-a-simple-and-easy-to-use-programming-language-and-programming-environment-for-developing-visually-oriented-applications-the-creators-of-processing-regard-it-as-a-code-sketchbook-it-is-especially-good-at-algorithmic-animation-and-real-time-interactive-feedback-so-in-recent-years-it-has-become-more-and-more-popular-in-interactive-animation-complex-data-visualisation-visual-design-prototype-development-and-production-direction-everyone-likes-this-cute-intimate-simple-and-easy-to-use-programming-tool-processing-official-website-https-processing-org-the-website-contains-processing-s-work-display-object-function-documents-and-application-examples-background-introduction-related-links-forum-wiki-faq-etc-span2 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+.processing-is-a-simple-and-easy-to-use-programming-language-and-programming-environment-for-developing-visually-oriented-applications-the-creators-of-processing-regard-it-as-a-code-sketchbook-it-is-especially-good-at-algorithmic-animation-and-real-time-interactive-feedback-so-in-recent-years-it-has-become-more-and-more-popular-in-interactive-animation-complex-data-visualisation-visual-design-prototype-development-and-production-direction-everyone-likes-this-cute-intimate-simple-and-easy-to-use-programming-tool-processing-official-website-https-processing-org-the-website-contains-processing-s-work-display-object-function-documents-and-application-examples-background-introduction-related-links-forum-wiki-faq-etc-span3 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+.processing-is-a-simple-and-easy-to-use-programming-language-and-programming-environment-for-developing-visually-oriented-applications-the-creators-of-processing-regard-it-as-a-code-sketchbook-it-is-especially-good-at-algorithmic-animation-and-real-time-interactive-feedback-so-in-recent-years-it-has-become-more-and-more-popular-in-interactive-animation-complex-data-visualisation-visual-design-prototype-development-and-production-direction-everyone-likes-this-cute-intimate-simple-and-easy-to-use-programming-tool-processing-official-website-https-processing-org-the-website-contains-processing-s-work-display-object-function-documents-and-application-examples-background-introduction-related-links-forum-wiki-faq-etc-span4 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.frame-59 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 145px;
+  top: 1579px;
+}
+.how-to-download {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 786px;
+  height: 47px;
+}
+._1-since-processing-is-based-on-java-please-ensure-that-your-computer-has-configured-the-java-environment-otherwise-processing-will-not-work-properly-processing-latest-version-download-address-http-processing-org-download-processing-is-open-source-software-developers-will-ask-if-you-donate-money-to-them-before-downloading-my-suggestion-for-this-is-donate-some-money-if-you-have-money-right-of-course-no-donation-can-be-swallowed-directly-to-the-download-link-and-download-to-enter-the-download-page-select-the-version-that-is-suitable-for-your-computer-and-click-download-jdk-package-download-http-java-sun-com-netizens-provide-environmental-configuration-tutorials-http-wenku-baidu-com-view-a-2-e-732-caalc-7-aaob-52-acb-9-b-html-3-unzip-the-installation-package-4-open-processing-exe-finished-you-have-swallowed-the-development-environment-pde-of-processing-create-a-desktop-shortcut-for-processing-exe-which-can-be-used-conveniently-in-the-future {
+  color: #ffffff;
+  text-align: left;
+  position: relative;
+  width: 1671px;
+  height: 601px;
+}
+._1-since-processing-is-based-on-java-please-ensure-that-your-computer-has-configured-the-java-environment-otherwise-processing-will-not-work-properly-processing-latest-version-download-address-http-processing-org-download-processing-is-open-source-software-developers-will-ask-if-you-donate-money-to-them-before-downloading-my-suggestion-for-this-is-donate-some-money-if-you-have-money-right-of-course-no-donation-can-be-swallowed-directly-to-the-download-link-and-download-to-enter-the-download-page-select-the-version-that-is-suitable-for-your-computer-and-click-download-jdk-package-download-http-java-sun-com-netizens-provide-environmental-configuration-tutorials-http-wenku-baidu-com-view-a-2-e-732-caalc-7-aaob-52-acb-9-b-html-3-unzip-the-installation-package-4-open-processing-exe-finished-you-have-swallowed-the-development-environment-pde-of-processing-create-a-desktop-shortcut-for-processing-exe-which-can-be-used-conveniently-in-the-future-span {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+._1-since-processing-is-based-on-java-please-ensure-that-your-computer-has-configured-the-java-environment-otherwise-processing-will-not-work-properly-processing-latest-version-download-address-http-processing-org-download-processing-is-open-source-software-developers-will-ask-if-you-donate-money-to-them-before-downloading-my-suggestion-for-this-is-donate-some-money-if-you-have-money-right-of-course-no-donation-can-be-swallowed-directly-to-the-download-link-and-download-to-enter-the-download-page-select-the-version-that-is-suitable-for-your-computer-and-click-download-jdk-package-download-http-java-sun-com-netizens-provide-environmental-configuration-tutorials-http-wenku-baidu-com-view-a-2-e-732-caalc-7-aaob-52-acb-9-b-html-3-unzip-the-installation-package-4-open-processing-exe-finished-you-have-swallowed-the-development-environment-pde-of-processing-create-a-desktop-shortcut-for-processing-exe-which-can-be-used-conveniently-in-the-future-span2 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+._1-since-processing-is-based-on-java-please-ensure-that-your-computer-has-configured-the-java-environment-otherwise-processing-will-not-work-properly-processing-latest-version-download-address-http-processing-org-download-processing-is-open-source-software-developers-will-ask-if-you-donate-money-to-them-before-downloading-my-suggestion-for-this-is-donate-some-money-if-you-have-money-right-of-course-no-donation-can-be-swallowed-directly-to-the-download-link-and-download-to-enter-the-download-page-select-the-version-that-is-suitable-for-your-computer-and-click-download-jdk-package-download-http-java-sun-com-netizens-provide-environmental-configuration-tutorials-http-wenku-baidu-com-view-a-2-e-732-caalc-7-aaob-52-acb-9-b-html-3-unzip-the-installation-package-4-open-processing-exe-finished-you-have-swallowed-the-development-environment-pde-of-processing-create-a-desktop-shortcut-for-processing-exe-which-can-be-used-conveniently-in-the-future-span3 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+._1-since-processing-is-based-on-java-please-ensure-that-your-computer-has-configured-the-java-environment-otherwise-processing-will-not-work-properly-processing-latest-version-download-address-http-processing-org-download-processing-is-open-source-software-developers-will-ask-if-you-donate-money-to-them-before-downloading-my-suggestion-for-this-is-donate-some-money-if-you-have-money-right-of-course-no-donation-can-be-swallowed-directly-to-the-download-link-and-download-to-enter-the-download-page-select-the-version-that-is-suitable-for-your-computer-and-click-download-jdk-package-download-http-java-sun-com-netizens-provide-environmental-configuration-tutorials-http-wenku-baidu-com-view-a-2-e-732-caalc-7-aaob-52-acb-9-b-html-3-unzip-the-installation-package-4-open-processing-exe-finished-you-have-swallowed-the-development-environment-pde-of-processing-create-a-desktop-shortcut-for-processing-exe-which-can-be-used-conveniently-in-the-future-span4 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+._1-since-processing-is-based-on-java-please-ensure-that-your-computer-has-configured-the-java-environment-otherwise-processing-will-not-work-properly-processing-latest-version-download-address-http-processing-org-download-processing-is-open-source-software-developers-will-ask-if-you-donate-money-to-them-before-downloading-my-suggestion-for-this-is-donate-some-money-if-you-have-money-right-of-course-no-donation-can-be-swallowed-directly-to-the-download-link-and-download-to-enter-the-download-page-select-the-version-that-is-suitable-for-your-computer-and-click-download-jdk-package-download-http-java-sun-com-netizens-provide-environmental-configuration-tutorials-http-wenku-baidu-com-view-a-2-e-732-caalc-7-aaob-52-acb-9-b-html-3-unzip-the-installation-package-4-open-processing-exe-finished-you-have-swallowed-the-development-environment-pde-of-processing-create-a-desktop-shortcut-for-processing-exe-which-can-be-used-conveniently-in-the-future-span5 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+._1-since-processing-is-based-on-java-please-ensure-that-your-computer-has-configured-the-java-environment-otherwise-processing-will-not-work-properly-processing-latest-version-download-address-http-processing-org-download-processing-is-open-source-software-developers-will-ask-if-you-donate-money-to-them-before-downloading-my-suggestion-for-this-is-donate-some-money-if-you-have-money-right-of-course-no-donation-can-be-swallowed-directly-to-the-download-link-and-download-to-enter-the-download-page-select-the-version-that-is-suitable-for-your-computer-and-click-download-jdk-package-download-http-java-sun-com-netizens-provide-environmental-configuration-tutorials-http-wenku-baidu-com-view-a-2-e-732-caalc-7-aaob-52-acb-9-b-html-3-unzip-the-installation-package-4-open-processing-exe-finished-you-have-swallowed-the-development-environment-pde-of-processing-create-a-desktop-shortcut-for-processing-exe-which-can-be-used-conveniently-in-the-future-span6 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+._1-since-processing-is-based-on-java-please-ensure-that-your-computer-has-configured-the-java-environment-otherwise-processing-will-not-work-properly-processing-latest-version-download-address-http-processing-org-download-processing-is-open-source-software-developers-will-ask-if-you-donate-money-to-them-before-downloading-my-suggestion-for-this-is-donate-some-money-if-you-have-money-right-of-course-no-donation-can-be-swallowed-directly-to-the-download-link-and-download-to-enter-the-download-page-select-the-version-that-is-suitable-for-your-computer-and-click-download-jdk-package-download-http-java-sun-com-netizens-provide-environmental-configuration-tutorials-http-wenku-baidu-com-view-a-2-e-732-caalc-7-aaob-52-acb-9-b-html-3-unzip-the-installation-package-4-open-processing-exe-finished-you-have-swallowed-the-development-environment-pde-of-processing-create-a-desktop-shortcut-for-processing-exe-which-can-be-used-conveniently-in-the-future-span7 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-creator-of-processing-is-regarded-as-a-sketchbook-of-code-where-you-can-draw-with-code-therefore-the-project-of-processing-is-also-very-literary-and-artistically-named-sketchbook-sketch-select-sketch-show-sketch-folder-to-open-the-current-project-file-directory {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 145px;
+  top: 2772px;
+  width: 1627px;
+  height: 155px;
+}
+.frame-74 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 160px;
+  top: 4117px;
+}
+._2-1 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 961.77px;
+  position: relative;
+  object-fit: cover;
+}
+.the-development-environment-of-processing-is-called-pde-processing-development-environment-in-the-interface-of-pde-you-can-see-three-parts-toolbar-code-editing-area-and-console {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1671px;
+  height: 155px;
+}
+.create-a-new-and-open-and-save-output-application {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 160px;
+  top: 5236px;
+  width: 1671px;
+  height: 155px;
+}
+.frame-73 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 160px;
+  top: 5279px;
+}
+._3-1 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 963.54px;
+  position: relative;
+  object-fit: cover;
+}
+.these-functions-are-used-to-control-sketch-processing-engineering-in-which-the-functions-of-output-applications-will-be-detailed-in-the-next-section-mode-selection-processing-supports-a-variety-of-penetration-modes-silently-java-that-is-a-desktop-seat-is-generated-during-penetration-which-can-be-downloaded-and-added-android-generate-android-programs-java-script-generate-applets-embedded-in-the-web-and-other-modes {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1615px;
+  height: 155px;
+}
+.frame-72 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 160px;
+  top: 6452px;
+}
+._4-1 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 963.54px;
+  position: relative;
+  object-fit: cover;
+}
+.processing-organises-the-code-editing-area-with-tab-tabs-and-each-tab-actually-corresponds-to-a-code-source-file-in-pde-format-click-the-small-drop-down-arrow-on-the-right-to-operate-on-the-tabs-when-you-open-processing-exe-processing-creates-a-project-for-you-by-default-known-in-processing-sketch-and-create-a-tab-named-sketch-current-date-sequential-number-for-you-choose-sketch-show-sketch-folder-you-can-see-the-current-project-file-directory-this-is-the-state-of-temporary-storage-of-the-project-you-can-change-the-name-and-save-it {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+  height: 177px;
+}
+.the-interoperability-of-processing-and-arduino-is-mainly-reflected-in-their-ability-to-exchange-data-through-serial-communication-thus-realising-mutual-control-and-interaction-the-following-is-a-brief-introduction-to-the-interoperability-of-the-two-1-basic-concept-processing-an-interactive-graphic-design-language-which-is-an-extension-of-the-java-language-and-its-syntax-is-simple-and-humanised-it-can-be-used-in-a-variety-of-operating-systems-including-windows-mac-os-x-linux-etc-processing-is-widely-used-in-visual-art-digital-design-and-other-fields-which-can-create-rich-graphic-effects-and-animations-arduino-an-open-source-electronic-prototype-platform-including-a-programmable-circuit-board-arduino-board-and-an-integrated-development-environment-arduino-ide-arduino-boards-can-perceive-the-environment-through-various-sensors-and-affect-the-environment-by-controlling-lights-motors-and-other-devices-the-arduino-programming-language-arduino-language-is-written-by-c-c-but-the-interaction-with-processing-usually-uses-c-c-based-serial-communication-2-interoperability-method-serial-communication-interoperability-between-arduino-and-processing-is-mainly-realised-through-serial-communication-the-microcontroller-on-the-arduino-board-can-send-data-to-the-processing-program-running-on-the-connected-computer-through-a-serial-port-and-the-processing-program-can-also-send-the-data-back-to-the-arduino-board-this-communication-method-allows-arduino-to-send-its-sensor-readings-to-processing-and-also-allows-processing-to-send-control-instructions-to-arduino-steps-to-realise-in-arduino-code-use-the-serial-begin-function-to-initialise-the-serial-port-and-set-the-data-transmission-rate-then-use-the-serial-print-or-serial-write-function-to-send-the-data-to-the-computer-in-the-processing-program-you-need-to-import-the-serial-library-and-use-the-relevant-functions-of-the-serial-class-to-read-the-serial-port-data-at-the-same-time-you-can-use-the-serial-write-function-to-send-data-to-the-serial-port-in-order-to-ensure-the-correct-transmission-of-data-the-serial-communication-speed-of-arduino-and-processing-needs-to-be-the-same-and-the-serial-communication-port-number-also-needs-to-be-consistent-in-processing-you-can-use-the-serial-list-function-to-find-the-available-serial-port-number-see-the-following-website-for-details-https-xxxx {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: 160px;
+  top: 16178px;
+  width: 1600px;
+  height: 1154px;
+}
+.the-interoperability-of-processing-and-arduino-is-mainly-reflected-in-their-ability-to-exchange-data-through-serial-communication-thus-realising-mutual-control-and-interaction-the-following-is-a-brief-introduction-to-the-interoperability-of-the-two-1-basic-concept-processing-an-interactive-graphic-design-language-which-is-an-extension-of-the-java-language-and-its-syntax-is-simple-and-humanised-it-can-be-used-in-a-variety-of-operating-systems-including-windows-mac-os-x-linux-etc-processing-is-widely-used-in-visual-art-digital-design-and-other-fields-which-can-create-rich-graphic-effects-and-animations-arduino-an-open-source-electronic-prototype-platform-including-a-programmable-circuit-board-arduino-board-and-an-integrated-development-environment-arduino-ide-arduino-boards-can-perceive-the-environment-through-various-sensors-and-affect-the-environment-by-controlling-lights-motors-and-other-devices-the-arduino-programming-language-arduino-language-is-written-by-c-c-but-the-interaction-with-processing-usually-uses-c-c-based-serial-communication-2-interoperability-method-serial-communication-interoperability-between-arduino-and-processing-is-mainly-realised-through-serial-communication-the-microcontroller-on-the-arduino-board-can-send-data-to-the-processing-program-running-on-the-connected-computer-through-a-serial-port-and-the-processing-program-can-also-send-the-data-back-to-the-arduino-board-this-communication-method-allows-arduino-to-send-its-sensor-readings-to-processing-and-also-allows-processing-to-send-control-instructions-to-arduino-steps-to-realise-in-arduino-code-use-the-serial-begin-function-to-initialise-the-serial-port-and-set-the-data-transmission-rate-then-use-the-serial-print-or-serial-write-function-to-send-the-data-to-the-computer-in-the-processing-program-you-need-to-import-the-serial-library-and-use-the-relevant-functions-of-the-serial-class-to-read-the-serial-port-data-at-the-same-time-you-can-use-the-serial-write-function-to-send-data-to-the-serial-port-in-order-to-ensure-the-correct-transmission-of-data-the-serial-communication-speed-of-arduino-and-processing-needs-to-be-the-same-and-the-serial-communication-port-number-also-needs-to-be-consistent-in-processing-you-can-use-the-serial-list-function-to-find-the-available-serial-port-number-see-the-following-website-for-details-https-xxxx-span {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-interoperability-of-processing-and-arduino-is-mainly-reflected-in-their-ability-to-exchange-data-through-serial-communication-thus-realising-mutual-control-and-interaction-the-following-is-a-brief-introduction-to-the-interoperability-of-the-two-1-basic-concept-processing-an-interactive-graphic-design-language-which-is-an-extension-of-the-java-language-and-its-syntax-is-simple-and-humanised-it-can-be-used-in-a-variety-of-operating-systems-including-windows-mac-os-x-linux-etc-processing-is-widely-used-in-visual-art-digital-design-and-other-fields-which-can-create-rich-graphic-effects-and-animations-arduino-an-open-source-electronic-prototype-platform-including-a-programmable-circuit-board-arduino-board-and-an-integrated-development-environment-arduino-ide-arduino-boards-can-perceive-the-environment-through-various-sensors-and-affect-the-environment-by-controlling-lights-motors-and-other-devices-the-arduino-programming-language-arduino-language-is-written-by-c-c-but-the-interaction-with-processing-usually-uses-c-c-based-serial-communication-2-interoperability-method-serial-communication-interoperability-between-arduino-and-processing-is-mainly-realised-through-serial-communication-the-microcontroller-on-the-arduino-board-can-send-data-to-the-processing-program-running-on-the-connected-computer-through-a-serial-port-and-the-processing-program-can-also-send-the-data-back-to-the-arduino-board-this-communication-method-allows-arduino-to-send-its-sensor-readings-to-processing-and-also-allows-processing-to-send-control-instructions-to-arduino-steps-to-realise-in-arduino-code-use-the-serial-begin-function-to-initialise-the-serial-port-and-set-the-data-transmission-rate-then-use-the-serial-print-or-serial-write-function-to-send-the-data-to-the-computer-in-the-processing-program-you-need-to-import-the-serial-library-and-use-the-relevant-functions-of-the-serial-class-to-read-the-serial-port-data-at-the-same-time-you-can-use-the-serial-write-function-to-send-data-to-the-serial-port-in-order-to-ensure-the-correct-transmission-of-data-the-serial-communication-speed-of-arduino-and-processing-needs-to-be-the-same-and-the-serial-communication-port-number-also-needs-to-be-consistent-in-processing-you-can-use-the-serial-list-function-to-find-the-available-serial-port-number-see-the-following-website-for-details-https-xxxx-span2 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+.frame-71 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 160px;
+  top: 8711px;
+}
+.frame-70 {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1615px;
+  position: relative;
+}
+.above-the-black-area-is-the-information-area-where-the-pde-status-error-information-etc-during-operation-will-be-displayed-here-the-black-area-is-the-console-the-bottom-is-the-current-number-of-lines {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1671px;
+  height: 177px;
+}
+.try-simple-shapes {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 786px;
+  height: 47px;
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve {
+  color: #ffffff;
+  text-align: left;
+  position: relative;
+  width: 1671px;
+  height: 329px;
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span2 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span3 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span4 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span5 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span6 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span7 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span8 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span9 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span10 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span11 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span12 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span13 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span14 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span15 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span16 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span17 {
+  color: #ffffff;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+}
+.point-draws-a-point-line-draws-a-line-rect-draws-a-rectangle-ellipse-draws-an-ellipse-or-circle-triangle-draws-a-triangle-quad-draws-a-quadrilateral-arc-draws-an-arc-bezier-draws-a-bezier-curve-curve-draws-a-smooth-curve-span18 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.example {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 786px;
+  height: 47px;
+}
+._5-1 {
+  width: 1600px;
+  height: 963.54px;
+  position: absolute;
+  left: 160px;
+  top: 7721px;
+  object-fit: cover;
+}
+._1 {
+  width: 911.02px;
+  height: 800px;
+  position: absolute;
+  left: calc(50% - 456px);
+  top: 755px;
+  object-fit: cover;
+}
+.group-16 {
+  position: absolute;
+  inset: 0;
+}
+._12 {
+  width: 1600px;
+  height: 316px;
+  position: absolute;
+  left: 160px;
+  top: 2338px;
+  object-fit: cover;
+}
+.rectangle-54 {
+  border-style: solid;
+  border-color: var(--color, #ff0000);
+  border-width: 5px;
+  width: 691px;
+  height: 86px;
+  position: absolute;
+  left: 627px;
+  top: 2654px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.frame-75 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 148px;
+  top: 2955px;
+}
+._1-1 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 962.79px;
+  position: relative;
+  object-fit: cover;
+}
+.the-sketch-paper-in-this-sketchbook-that-is-the-source-file-of-processing-is-a-pde-file-which-is-displayed-in-the-form-of-a-tab-in-pde-the-name-of-the-tab-is-the-name-of-the-pde-file-there-is-a-main-tab-in-each-sketch-this-tab-has-the-same-name-as-the-directory-folder-processing-program-entrance {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1624px;
+  height: 66px;
+}
+.frame-26 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1600px;
+  position: absolute;
+  left: 160px;
+  top: 10351px;
+}
+.frame-21 {
+  background: #515151;
+  padding: 0px 37px 0px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 1250px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1600px;
+  height: 37px;
+  position: relative;
+}
+.frame-22 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 215px;
+  position: relative;
+}
+.processing-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+.frame-23 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.copy {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+.frame-20 {
+  background: #8e8e8e;
+  padding: 6px 56px 248px 56px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1600px;
+  position: relative;
+}
+.background-239-175-248-size-800-600-fill-236-197-108-rect-250-100-50-150-fill-236-223-108-triangle-400-100-700-300-100-300-quad-100-300-600-600-600-600-600-600-rect-200-300-400-300-fill-300-300-300-ellipse-500-400-100-100-fill-200-100-50-rect-250-400-100-300-fill-90-15-30-rect-0-400-300-50-rect-20-350-50-600-rect-100-350-50-600-rect-260-350-50-600-fill-149-189-218-ellipse-200-100-100-50-fill-205-230-228-ellipse-150-50-50-50 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1093px;
+  height: 487px;
+}
+.rectangle-55 {
+  background: #000000;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 161px;
+  height: 139px;
+  position: absolute;
+  left: 1733px;
+  top: 7246px;
+}
+._6-1 {
+  width: 1600px;
+  height: 961.77px;
+  position: absolute;
+  left: 160px;
+  top: 9350px;
+  object-fit: cover;
+}
+.frame-262 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1600px;
+  position: absolute;
+  left: 160px;
+  top: 12026px;
+}
+.frame-212 {
+  background: #515151;
+  padding: 0px 37px 0px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 1250px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 905px;
+  height: 37px;
+  position: relative;
+}
+.frame-202 {
+  background: #8e8e8e;
+  padding: 10px 56px 10px 56px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1600px;
+  height: 3000px;
+  position: relative;
+}
+.float-x-0-float-y-0-void-setup-background-195-99-61-size-800-800-frame-rate-60-void-draw-fill-208-137-155-if-mouse-pressed-false-triangle-500-300-565-240-587-300-triangle-310-300-240-240-203-289-else-fill-212-170-184-triangle-500-300-565-240-20-587-20-300-20-triangle-310-300-240-240-20-203-20-289-20-fill-208-137-155-ellipse-400-300-270-100-fill-214-183-110-ellipse-450-280-60-48-ellipse-360-280-60-48-fill-0-0-0-float-dx-map-mouse-x-0-600-10-10-float-dy-map-mouse-y-0-600-10-10-ellipse-440-dx-270-dy-10-10-ellipse-370-dx-270-dy-10-10-quad-405-258-465-240-470-245-407-273-quad-399-258-270-240-269-245-390-272-fill-212-170-184-ellipse-465-350-80-60-if-key-pressed-key-coded-if-key-code-up-quad-464-250-270-205-245-230-460-260-quad-464-260-470-170-370-160-365-225-else-if-key-code-alt-background-195-99-61-fill-212-170-184-quad-464-250-60-270-205-60-245-230-60-460-260-60-quad-464-260-60-470-170-60-370-160-60-365-225-60-quad-330-380-360-390-280-660-250-665-fill-208-137-155-ellipse-310-320-60-60-ellipse-320-330-60-65-ellipse-330-340-50-65-if-key-pressed-if-key-y-key-k-else-ellipse-310-320-60-60-ellipse-320-330-30-120-ellipse-330-340-50-65-bezier-280-310-250-330-312-399-350-370-fill-212-170-184-quad-280-660-230-665-330-350-350-370-quad-330-345-484-340-600-600-380-650-bezier-330-350-300-450-460-400-450-350-bezier-310-370-350-280-420-285-480-345-fill-201-103-129-triangle-400-277-430-308-370-300-fill-175-81-99-triangle-430-308-370-300-380-340-line-380-340-383-358-line-310-370-383-358-line-480-345-383-358-line-433-320-500-310-line-435-327-510-320-line-437-330-512-340-line-360-320-242-310-line-358-327-242-325-line-360-340-240-350-fill-212-170-184-ellipse-430-450-20-20-ellipse-437-490-20-20-line-470-400-524-555-line-524-555-440-570-line-524-555-535-550-line-524-555-538-558-line-535-550-555-560-line-538-558-565-576-fill-208-137-155-ellipse-340-600-100-70-ellipse-365-600-100-70-ellipse-375-600-80-70-line-440-570-442-630-quad-440-580-442-630-370-635-370-568-fill-183-60-36-quad-0-637-700-600-680-800-0-800-line-445-399-480-430 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+}
+._20240601155331-1 {
+  width: 1600px;
+  height: 751.38px;
+  position: absolute;
+  left: 160px;
+  top: 11230px;
+  object-fit: cover;
+}
+.rectangle-39 {
+  background: #000000;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 161px;
+  height: 139px;
+  position: absolute;
+  left: 1778px;
+  top: 7837px;
+}
+.rectangle-57 {
+  background: #000000;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 161px;
+  height: 139px;
+  position: absolute;
+  left: 1785px;
+  top: 8888px;
+}
+.do-one-demo-in-processing-and-arduino {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 160px;
+  top: 16101px;
+  width: 1063px;
+  height: 47px;
+}
+.kinect-kinect-can-directly-connect-to-the-pc-of-the-windows-system-and-communicate-with-the-computer-through-the-usb-interface-to-realise-the-transmission-and-reception-of-data-leap-motion-leap-motion-connects-to-the-computer-through-the-usb-interface-to-realise-the-transmission-and-reception-of-data-lot-interconnection-between-devices-io-t-devices-can-transmit-and-receive-data-through-various-communication-protocols-such-as-wi-fi-bluetooth-zig-bee-etc-to-realise-the-interconnection-between-devices-and-the-cloud-platform-io-t-devices-can-send-the-collected-data-to-the-cloud-platform-for-storage-and-analysis-at-the-same-time-the-cloud-platform-can-also-send-control-instructions-to-io-t-devices-to-realise-remote-monitoring-and-control {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 171px;
+  top: 17409px;
+  width: 1578px;
+  height: 456px;
+}
+.try-to-communicate-with-kinect-leapmotion-or-iot-platform {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 171px;
+  top: 17332px;
+  width: 1441px;
+  height: 47px;
+}
+.to-interpret-and-implement-design-and-programming-protocols-to-create-a-graphic-user-interface-gui-you-typically-follow-a-series-of-steps-that-involve-both-design-considerations-and-programming-implementation-here-s-a-general-overview-of-the-process-1-define-the-purpose-and-user-needs-start-by-clearly-defining-the-purpose-of-the-gui-and-identifying-the-user-s-needs-and-requirements-gather-requirements-from-stakeholders-and-end-users-to-ensure-the-gui-meets-their-expectations-2-design-the-gui-create-a-wireframe-or-mockup-of-the-gui-using-design-tools-like-sketch-figma-or-adobe-xd-define-the-layout-color-scheme-font-styles-and-any-visual-elements-like-buttons-menus-and-icons-consider-the-user-experience-and-make-sure-the-design-is-intuitive-and-easy-to-use-3-understand-the-programming-protocol-identify-the-programming-language-and-framework-you-ll-use-to-implement-the-gui-familiarize-yourself-with-the-specific-programming-protocol-or-guidelines-for-the-chosen-framework-understand-how-to-handle-user-input-events-and-any-special-behaviors-in-the-chosen-framework-4-set-up-the-development-environment-install-the-necessary-software-and-libraries-to-support-the-chosen-programming-language-and-framework-configure-your-development-environment-to-match-the-requirements-of-the-project-5-implement-the-gui-use-the-design-as-a-guide-to-implement-the-gui-in-code-create-the-necessary-windows-panels-buttons-menus-and-other-components-using-the-programming-framework-s-api-apply-styles-and-themes-to-match-the-design-including-colors-fonts-and-layout-6-implement-user-input-and-events-handle-user-input-events-like-button-clicks-mouse-movements-and-keyboard-presses-implement-the-necessary-logic-to-respond-to-these-events-and-update-the-gui-accordingly-7-test-and-debug-thoroughly-test-the-gui-to-ensure-it-functions-correctly-and-meets-the-user-s-requirements-identify-and-fix-any-bugs-or-issues-that-arise-during-testing-8-optimize-and-refine-optimize-the-gui-s-performance-by-reducing-unnecessary-computations-and-improving-loading-times-refine-the-design-and-user-experience-based-on-user-feedback-and-testing-results-9-document-and-deliver-document-the-gui-s-implementation-including-any-special-behaviors-dependencies-and-known-issues-deliver-the-final-gui-to-the-stakeholders-or-end-users-for-approval-and-deployment-example-technologies-programming-languages-python-with-tkinter-py-qt-wx-python-etc-java-script-with-html-css-and-frameworks-like-react-angular-vue-js-c-with-windows-forms-or-wpf-java-with-swing-or-java-fx-frameworks-electron-for-cross-platform-desktop-apps-flutter-for-mobile-and-desktop-apps-react-native-for-mobile-apps-remember-that-the-specific-steps-and-technologies-used-will-depend-on-the-requirements-of-your-project-and-the-chosen-programming-protocol {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 185px;
+  top: 18038px;
+  width: 1571px;
+  height: 1248px;
+}
+.interpret-and-implement-design-and-programming-protocols-to-create-a-graphic-user-interface {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 171px;
+  top: 17928px;
+  width: 1604px;
+  height: 47px;
+}
+.bandicam-2024-06-01-16-07-33-706-1 {
+  width: 1600px;
+  height: 899.89px;
+  position: absolute;
+  left: 160px;
+  top: 15122px;
+  object-fit: cover;
+}
+.frame-7 {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: rgba(233, 233, 233, 0.62);
+  border-width: 1px;
+  padding: 16px 88px 16px 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 815px);
+  top: 89px;
+  backdrop-filter: blur(30px);
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 777px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1454px;
+  position: relative;
+}
+.mars {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.previous-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.final-project {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}

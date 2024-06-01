@@ -4,27 +4,28 @@
 }
 .desktop-16 {
   background: #000000;
-  height: 7648px;
+  height: 26288px;
   position: relative;
   overflow: hidden;
 }
 .rectangle-17 {
-  background: conic-gradient(
-    from 137.73deg at 50% 50%,
-    rgba(0, 0, 0, 1) 6.499350816011429%,
-    rgba(224, 35, 136, 1) 46.89826965332031%,
-    rgba(39, 99, 183, 1) 53.4933865070343%,
-    rgba(20, 52, 97, 0.53) 74.00311231613159%,
-    rgba(0, 0, 0, 1) 96.79219126701355%
-  );
   width: 1000px;
   height: 1100px;
   position: absolute;
   left: 1451.86px;
   top: 0px;
-  transform-origin: 0 0;
-  transform: rotate(45deg) scale(1, 1);
-  filter: blur(96px);
+  transform: translate(-969.82px, 0px);
+  overflow: visible;
+}
+.frame-41 {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 145px;
+  top: 246px;
 }
 .frame-11 {
   display: flex;
@@ -32,9 +33,8 @@
   gap: 40px;
   align-items: flex-start;
   justify-content: flex-start;
-  position: absolute;
-  left: calc(50% - 815px);
-  top: 247px;
+  flex-shrink: 0;
+  position: relative;
 }
 .frame-10 {
   display: flex;
@@ -46,7 +46,7 @@
   width: 683px;
   position: relative;
 }
-.h-1-heading {
+.project-management {
   color: #ffffff;
   text-align: left;
   font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -54,7 +54,1232 @@
   line-height: var(--h2-heading-line-height, 110%);
   font-weight: var(--h2-heading-font-weight, 800);
   position: relative;
-  align-self: stretch;
+}
+.prepare-tool-for-website {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 638px;
+  height: 47px;
+}
+.github-our-website-will-be-placed-here-git-hub-desktop-used-for-cloning-libraries-and-uploading-local-files-figma-used-to-design-web-page-layout-visual-studio-code-used-to-write-website-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h5-heading-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--h5-heading-font-size, 20px);
+  line-height: var(--h5-heading-line-height, 110%);
+  font-weight: var(--h5-heading-font-weight, 500);
+  position: relative;
+}
+.frame-35 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 638px;
+}
+.step-one-create-a-new-repository-on-git-hub-to-host-your-website {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+._1 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-1 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 917.23px;
+  position: static;
+}
+.image-10 {
+  width: 1600px;
+  height: 917.23px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-34 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 202px;
+  height: 93px;
+  position: absolute;
+  left: 1228px;
+  top: 53px;
+}
+._1-create-a-public-repository-where-you-can-collaborate-with-your-team-to-create-web-content {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+}
+._2 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-2 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 872.22px;
+  position: static;
+}
+.image-11 {
+  width: 1600px;
+  height: 872.22px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-30 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 175px;
+  height: 59px;
+  position: absolute;
+  left: 974px;
+  top: 805px;
+}
+.rectangle-31 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 171px;
+  height: 45px;
+  position: absolute;
+  left: 454px;
+  top: 488px;
+}
+.rectangle-32 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 171px;
+  height: 45px;
+  position: absolute;
+  left: 454px;
+  top: 361px;
+}
+.rectangle-33 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 208px;
+  height: 85px;
+  position: absolute;
+  left: 583px;
+  top: 162px;
+}
+._2-name-your-repository-choose-whether-it-s-public-or-private-add-a-readme-file-to-share-your-information-then-click-the-create-repository-button {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._3 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-3 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 872.27px;
+  position: static;
+}
+.image-13 {
+  width: 1600px;
+  height: 872.27px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-302 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 175px;
+  height: 59px;
+  position: absolute;
+  left: 208px;
+  top: 499px;
+}
+.rectangle-312 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 175px;
+  height: 59px;
+  position: absolute;
+  left: 712px;
+  top: 53px;
+}
+.rectangle-322 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 304px;
+  height: 46px;
+  position: absolute;
+  left: 516px;
+  top: 453px;
+}
+.rectangle-332 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 181px;
+  height: 46px;
+  position: absolute;
+  left: 1051px;
+  top: 220px;
+}
+._3-set-the-page-to-be-empty-click-on-the-settings-of-the-repository-and-select-pages-on-the-left-choose-main-and-root-and-save-the-link-above-allows-you-to-view-the-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._4 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-4 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 870.34px;
+  position: relative;
+  overflow: visible;
+}
+._4-wait-for-github-to-search-and-create-pages-and-once-all-projects-are-completed-the-website-will-be-initially-established {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._5 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-5 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 870.97px;
+  position: static;
+}
+.image-14 {
+  width: 1600px;
+  height: 870.97px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-36 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 302px;
+  height: 45px;
+  position: absolute;
+  left: 207px;
+  top: 190px;
+}
+.rectangle-37 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 159px;
+  height: 45px;
+  position: absolute;
+  left: 804px;
+  top: 542px;
+}
+.rectangle-35 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 116px;
+  height: 45px;
+  position: absolute;
+  left: 719px;
+  top: 61px;
+}
+.frame-26 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-15 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 869.71px;
+  position: relative;
+  object-fit: cover;
+}
+._5-if-you-want-to-invite-team-members-click-on-settings-find-collaborators-on-the-left-then-click-add-people-enter-their-email-addresses-and-set-their-role-maintainer {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.step-two-clone-the-repository-to-git-hub {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+._6 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-7 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 946.62px;
+  position: static;
+}
+.image-16 {
+  width: 1600px;
+  height: 946.62px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-372 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 138px;
+  height: 30px;
+  position: absolute;
+  left: 217px;
+  top: 93px;
+}
+.rectangle-38 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 54px;
+  height: 30px;
+  position: absolute;
+  left: 163px;
+  top: 78px;
+}
+.frame-27 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-6 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 951.62px;
+  position: static;
+}
+.image-17 {
+  width: 1600px;
+  height: 951.62px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-39 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 489px;
+  height: 50px;
+  position: absolute;
+  left: 556px;
+  top: 375px;
+}
+.rectangle-40 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 133px;
+  height: 50px;
+  position: absolute;
+  left: 773px;
+  top: 647px;
+}
+.click-on-add-clone-a-resource-find-the-repository-you-want-to-clone-finally-click-clone {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.step-three-design-website-layout-with-your-team-in-figma {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+._7 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-20 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 952.87px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-29 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-22 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 950.37px;
+  position: relative;
+  object-fit: cover;
+}
+._1-create-a-new-design-file-in-figma-where-you-can-see-many-tools-that-can-help-you-build-and-beautify-the-appearance-of-your-website {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._8 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-8 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 956.62px;
+  position: static;
+}
+.image-24 {
+  width: 1600px;
+  height: 956.62px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-41 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 78px;
+  height: 61px;
+  position: absolute;
+  left: 1329px;
+  top: 29px;
+}
+.rectangle-42 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 415px;
+  height: 61px;
+  position: absolute;
+  left: 593px;
+  top: 272px;
+}
+.rectangle-43 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 98px;
+  height: 35px;
+  position: absolute;
+  left: 887px;
+  top: 180px;
+}
+._2-if-you-want-to-invite-your-team-members-to-edit-together-you-can-find-share-in-the-upper-right-corner-set-the-share-setting-to-what-you-want-and-after-setting-it-up-copy-the-link-to-your-team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._9 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-18 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 953.5px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-30 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-9 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 929.86px;
+  position: static;
+}
+.image-25 {
+  width: 1600px;
+  height: 922.86px;
+  position: absolute;
+  left: 0px;
+  top: 7px;
+  object-fit: cover;
+}
+.rectangle-44 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 74px;
+  height: 73px;
+  position: absolute;
+  left: 260px;
+  top: 0px;
+}
+.rectangle-45 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 288px;
+  height: 73px;
+  position: absolute;
+  left: 273px;
+  top: 213px;
+}
+._3-after-you-complete-the-webpage-layout-we-will-use-the-plugin-auto-html-in-figma-to-help-us-compile-the-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._10 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-10 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 950.37px;
+  position: static;
+}
+.image-26 {
+  width: 1600px;
+  height: 950.37px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-46 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 288px;
+  height: 73px;
+  position: absolute;
+  left: 143px;
+  top: 623px;
+}
+._4-select-the-webpage-code-you-need-and-click-to-download-the-corresponding-compressed-file-to-decompress-it {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.step-four-create-web-pages-and-links-using-visual-studio-code-and-upload-them-to-github {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+._11 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-11 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 954.24px;
+  position: static;
+}
+.image-27 {
+  width: 1600px;
+  height: 954.24px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-47 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 288px;
+  height: 73px;
+  position: absolute;
+  left: 30px;
+  top: 112px;
+}
+._1-check-in-and-unzip-the-folder-using-visual-studio-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._12 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-28 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 950.74px;
+  position: relative;
+  object-fit: cover;
+}
+._2-in-visual-studio-code-you-can-see-the-complete-code-of-the-project-including-html-css-and-images-you-can-achieve-webpage-redirection-and-website-beautification-by-modifying-the-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._13 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-29 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 958.79px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-34 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-30 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 972.69px;
+  position: relative;
+  object-fit: cover;
+}
+._3-paste-all-modified-files-into-the-local-git-hub-library {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._14 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-12 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 950.37px;
+  position: static;
+}
+.image-31 {
+  width: 1600px;
+  height: 950.37px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-48 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 224px;
+  height: 182px;
+  position: absolute;
+  left: 6px;
+  top: 768px;
+}
+.group-13 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 950.23px;
+  position: static;
+}
+.image-32 {
+  width: 1600px;
+  height: 950.23px;
+  position: absolute;
+  left: 0px;
+  top: 965.37px;
+  object-fit: cover;
+}
+.rectangle-49 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 224px;
+  height: 60px;
+  position: absolute;
+  left: 449px;
+  top: 982.37px;
+}
+._4-open-github-desktop-open-the-corresponding-project-enter-the-content-you-want-to-publish-in-the-bottom-left-corner-and-click-commit-to-main-finally-click-on-push-origin-and-upload-it-to-the-github-cloud {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._15 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-14 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 866.59px;
+  position: static;
+}
+.image-33 {
+  width: 1600px;
+  height: 866.59px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-50 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 80px;
+  height: 56px;
+  position: absolute;
+  left: 309px;
+  top: 220px;
+}
+._5-open-github-on-the-web-page-find-the-corresponding-project-and-wait-for-the-project-data-to-be-uploaded-and-loaded-successfully {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._16 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-15 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 947.87px;
+  position: static;
+}
+.image-34 {
+  width: 1600px;
+  height: 947.87px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-52 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 301px;
+  height: 56px;
+  position: absolute;
+  left: 205px;
+  top: 581px;
+}
+.rectangle-53 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 190px;
+  height: 56px;
+  position: absolute;
+  left: 1043px;
+  top: 295px;
+}
+.rectangle-51 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 119px;
+  height: 56px;
+  position: absolute;
+  left: 720px;
+  top: 136px;
+}
+.image-35 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 954.12px;
+  position: relative;
+  object-fit: cover;
+}
+._6-find-pages-in-setting-where-you-can-access-your-website-and-check-for-any-issues {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.image-1-1 {
+  width: 400px;
+  height: 304.05px;
+  position: absolute;
+  left: 1217px;
+  top: 25283px;
+  object-fit: cover;
+}
+._20240520214913-1 {
+  width: 400px;
+  height: 331.25px;
+  position: absolute;
+  left: 1217px;
+  top: 24281px;
+  object-fit: cover;
+}
+.img-7702-1 {
+  width: 359px;
+  height: 359px;
+  position: absolute;
+  left: 1237px;
+  top: 23765px;
+  object-fit: cover;
+}
+.focus-on-the-public-s-mental-health-issues {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: absolute;
+  left: 161px;
+  top: 24071px;
+  width: 1005px;
+  height: 53px;
+}
+.our-sdg-theme-good-health-and-well-being {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 161px;
+  top: 23980px;
+}
+.project-interpretation {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: absolute;
+  left: 161px;
+  top: 23713px;
+}
+._17 {
+  width: 400px;
+  height: 278.07px;
+  position: absolute;
+  left: 1217px;
+  top: 25771px;
+  object-fit: cover;
+}
+.frame-40 {
+  display: flex;
+  flex-direction: column;
+  gap: 83px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 161px;
+  top: 24208px;
+}
+.frame-36 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.project-concept {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.with-the-rise-of-self-media-and-the-emergence-of-rolling-media-the-spread-of-information-has-become-more-subjective-and-various-values-and-ideas-are-flooding-the-entire-network-making-it-difficult-for-everyone-to-distinguish-between-right-and-wrong-in-addition-the-current-social-situation-of-accelerated-pace-of-life-has-made-everyone-scroll-the-media-faster-and-faster-and-sometimes-they-unconsciously-acquiesce-to-online-violence-and-various-negative-thoughts-when-you-browse-this-information-you-think-you-can-control-your-own-thoughts-but-in-fact-you-can-t-escape-it-anyway-and-will-inevitably-be-affected-by-it-we-hope-everyone-can-get-out-of-this-infinite-scrolling {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 752px;
+  height: 394px;
+}
+.frame-37 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.interaction-effects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.through-touch-screen-interaction-users-stand-in-front-of-our-touch-screen-and-control-the-changes-of-screen-content-with-their-fingers-similar-to-swiping-video-comments-the-speed-at-which-information-appears-on-the-screen-accumulates-over-time-all-negative-information-will-be-accumulated-in-the-container-behind-the-device-in-the-form-of-black-balls-after-a-certain-number-of-balls-in-the-screen-container-the-balls-will-be-ejected-to-display-all-the-negative-information-the-user-has-seen-during-this-process {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 752px;
+  height: 303px;
+}
+.frame-38 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.equipment-and-technical-implementation {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-39 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.target-population {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.image-40 {
+  width: 611px;
+  height: 343px;
+  position: absolute;
+  left: 1111px;
+  top: 24813px;
+  object-fit: cover;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 1700px;
+  height: 0px;
+  position: absolute;
+  left: calc(50% - 863px);
+  top: 23589px;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 1700px;
+  height: 0px;
+  position: absolute;
+  left: calc(50% - 850px);
+  top: 26199px;
 }
 .frame-7 {
   background: rgba(255, 255, 255, 0.03);
@@ -128,7 +1353,7 @@
   font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
 }
-.more {
+.final-project {
   color: #ffffff;
   text-align: left;
   font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
@@ -136,101 +1361,4 @@
   line-height: var(--ui-label-regular-line-height, 150%);
   font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
-}
-.prepare-tool-for-website {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: absolute;
-  left: 145px;
-  top: 505px;
-  width: 516px;
-  height: 68px;
-}
-.github-our-website-will-be-placed-here {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: absolute;
-  left: 145px;
-  top: 573px;
-  width: 516px;
-  height: 42px;
-}
-.github-desktop-here-we-can-upload-local-files-to-github-set-up-and-share-our-website-and-code {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: absolute;
-  left: 145px;
-  top: 1566px;
-  width: 1603px;
-  height: 42px;
-}
-.nodejs-since-the-tool-includes-npm-we-used-it-to-manage-packages-interact-with-the-command-line-and-integrate-with-v-scode {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: absolute;
-  left: 145px;
-  top: 2578px;
-  width: 1603px;
-  height: 42px;
-}
-.v-scode-we-enhanced-our-web-development-workflow-with-this-versatile-and-customizable-tool {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: absolute;
-  left: 145px;
-  top: 3590px;
-  width: 1603px;
-  height: 42px;
-}
-.image-4 {
-  width: 1600px;
-  height: 915px;
-  position: absolute;
-  left: calc(50% - 800px);
-  top: 1621px;
-  object-fit: cover;
-}
-.image-3 {
-  width: 1600px;
-  height: 909.07px;
-  position: absolute;
-  left: 160px;
-  top: 615px;
-  object-fit: cover;
-}
-.image-5 {
-  width: 1600px;
-  height: 914.73px;
-  position: absolute;
-  left: calc(50% - 800px);
-  top: 2633px;
-  object-fit: cover;
-}
-.image-6 {
-  width: 1600px;
-  height: 914.11px;
-  position: absolute;
-  left: 160px;
-  top: 3653px;
-  object-fit: cover;
 }
