@@ -854,6 +854,40 @@
   top: 2703px;
   object-fit: cover;
 }
+.a-stepper-motor-also-known-as-step-motor-or-stepping-motor-is-an-electrical-motor-that-rotates-in-a-series-of-small-angular-steps-instead-of-continuously-stepper-motors-are-a-type-of-digital-actuator-like-other-electromagnetic-actuators-they-convert-electric-energy-into-mechanical-position-can-be-commanded-to-move-and-hold-at-one-of-these-steps-without-any-position-sensor-for-feedback-an-open-loop-controller-as-long-as-the-motor-is-correctly-sized-to-the-application-in-respect-to-torque-and-speed-stepper-motor-wikipedia {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 1118px;
+  top: 5365px;
+  width: 692px;
+  height: 363px;
+}
+.the-reason-why-we-use-stepper-motors-is-that-we-use-precise-rotation-angles-to-control-the-balls-to-fall-one-by-one-if-we-want-to-add-more-grooves-to-the-parts-we-can-adjust-the-angles-in-the-code-without-being-restricted-by-the-fixed-rotation-angles-of-the-motor-i-found-a-tutorial-on-the-internet-platform-that-teaches-you-how-to-assemble-and-drive-stepper-motors-and-found-pictures-of-the-motor-connections-arduino-control-motors {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 145px;
+  top: 6091px;
+  width: 768px;
+  height: 290px;
+}
 .arduino-logo-1 {
   width: 458px;
   height: 312px;
@@ -1734,21 +1768,6 @@
   position: absolute;
   left: 145px;
   top: 6528px;
-}
-.detail {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(
-    --p1-paragraph-large-font-family,
-    "Inter-Regular",
-    sans-serif
-  );
-  font-size: var(--p1-paragraph-large-font-size, 22px);
-  line-height: var(--p1-paragraph-large-line-height, 150%);
-  font-weight: var(--p1-paragraph-large-font-weight, 400);
-  position: absolute;
-  left: 145px;
-  top: 6602px;
 }
 ._04-bujin-ddj-1-1 {
   width: 800px;

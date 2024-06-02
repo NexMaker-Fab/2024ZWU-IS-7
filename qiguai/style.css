@@ -1,0 +1,1779 @@
+.desktop-14,
+.desktop-14 * {
+  box-sizing: border-box;
+}
+.desktop-14 {
+  background: var(--0d0c11, #0d0c11);
+  height: 17485px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.rectangle-17 {
+  background: conic-gradient(
+    from 137.73deg at 50% 50%,
+    rgba(0, 0, 0, 1) 6.499350816011429%,
+    rgba(224, 35, 136, 1) 46.89826965332031%,
+    rgba(39, 99, 183, 1) 53.4933865070343%,
+    rgba(20, 52, 97, 0.53) 74.00311231613159%,
+    rgba(0, 0, 0, 1) 96.79219126701355%
+  );
+  width: 1000px;
+  height: 1100px;
+  position: absolute;
+  left: 1436.36px;
+  top: -63.46px;
+  transform-origin: 0 0;
+  transform: rotate(45deg) scale(1, 1);
+  filter: blur(96px);
+}
+.arduino-basic-how-to-learn-arduino {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 145px;
+  top: 3405px;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 1700px;
+  height: 0px;
+  position: absolute;
+  left: calc(50% - 850px);
+  top: 3299px;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 1700px;
+  height: 0px;
+  position: absolute;
+  left: calc(50% - 850px);
+  top: 5111px;
+}
+.controlling-stepper-motors-with-arduino-group-task {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 145px;
+  top: 5177px;
+}
+.frame-43 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 145px;
+  top: 251px;
+}
+.frame-42 {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.arduino-output {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+}
+.definition-of-open-source-hardware {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.open-source-hardware-osh-oshw-consists-of-physical-artifacts-of-technology-designed-and-offered-by-the-open-design-movement-both-free-and-open-source-software-foss-and-open-source-hardware-are-created-by-this-open-source-culture-movement-and-apply-a-like-concept-to-a-variety-of-components-it-is-sometimes-thus-referred-to-as-fosh-free-and-open-source-hardware-the-term-usually-means-that-information-about-the-hardware-is-easily-discerned-so-that-others-can-make-it-coupling-it-closely-to-the-maker-movement-open-source-hardware-wikipedia {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1671px;
+  height: 281px;
+}
+.open-source-hardware-osh-oshw-consists-of-physical-artifacts-of-technology-designed-and-offered-by-the-open-design-movement-both-free-and-open-source-software-foss-and-open-source-hardware-are-created-by-this-open-source-culture-movement-and-apply-a-like-concept-to-a-variety-of-components-it-is-sometimes-thus-referred-to-as-fosh-free-and-open-source-hardware-the-term-usually-means-that-information-about-the-hardware-is-easily-discerned-so-that-others-can-make-it-coupling-it-closely-to-the-maker-movement-open-source-hardware-wikipedia-span {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.open-source-hardware-osh-oshw-consists-of-physical-artifacts-of-technology-designed-and-offered-by-the-open-design-movement-both-free-and-open-source-software-foss-and-open-source-hardware-are-created-by-this-open-source-culture-movement-and-apply-a-like-concept-to-a-variety-of-components-it-is-sometimes-thus-referred-to-as-fosh-free-and-open-source-hardware-the-term-usually-means-that-information-about-the-hardware-is-easily-discerned-so-that-others-can-make-it-coupling-it-closely-to-the-maker-movement-open-source-hardware-wikipedia-span2 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.open-source-hardware-osh-oshw-consists-of-physical-artifacts-of-technology-designed-and-offered-by-the-open-design-movement-both-free-and-open-source-software-foss-and-open-source-hardware-are-created-by-this-open-source-culture-movement-and-apply-a-like-concept-to-a-variety-of-components-it-is-sometimes-thus-referred-to-as-fosh-free-and-open-source-hardware-the-term-usually-means-that-information-about-the-hardware-is-easily-discerned-so-that-others-can-make-it-coupling-it-closely-to-the-maker-movement-open-source-hardware-wikipedia-span3 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.open-source-hardware-osh-oshw-consists-of-physical-artifacts-of-technology-designed-and-offered-by-the-open-design-movement-both-free-and-open-source-software-foss-and-open-source-hardware-are-created-by-this-open-source-culture-movement-and-apply-a-like-concept-to-a-variety-of-components-it-is-sometimes-thus-referred-to-as-fosh-free-and-open-source-hardware-the-term-usually-means-that-information-about-the-hardware-is-easily-discerned-so-that-others-can-make-it-coupling-it-closely-to-the-maker-movement-open-source-hardware-wikipedia-span4 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.open-source-hardware-osh-oshw-consists-of-physical-artifacts-of-technology-designed-and-offered-by-the-open-design-movement-both-free-and-open-source-software-foss-and-open-source-hardware-are-created-by-this-open-source-culture-movement-and-apply-a-like-concept-to-a-variety-of-components-it-is-sometimes-thus-referred-to-as-fosh-free-and-open-source-hardware-the-term-usually-means-that-information-about-the-hardware-is-easily-discerned-so-that-others-can-make-it-coupling-it-closely-to-the-maker-movement-open-source-hardware-wikipedia-span5 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.open-source-hardware-osh-oshw-consists-of-physical-artifacts-of-technology-designed-and-offered-by-the-open-design-movement-both-free-and-open-source-software-foss-and-open-source-hardware-are-created-by-this-open-source-culture-movement-and-apply-a-like-concept-to-a-variety-of-components-it-is-sometimes-thus-referred-to-as-fosh-free-and-open-source-hardware-the-term-usually-means-that-information-about-the-hardware-is-easily-discerned-so-that-others-can-make-it-coupling-it-closely-to-the-maker-movement-open-source-hardware-wikipedia-span6 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.open-source-hardware-osh-oshw-consists-of-physical-artifacts-of-technology-designed-and-offered-by-the-open-design-movement-both-free-and-open-source-software-foss-and-open-source-hardware-are-created-by-this-open-source-culture-movement-and-apply-a-like-concept-to-a-variety-of-components-it-is-sometimes-thus-referred-to-as-fosh-free-and-open-source-hardware-the-term-usually-means-that-information-about-the-hardware-is-easily-discerned-so-that-others-can-make-it-coupling-it-closely-to-the-maker-movement-open-source-hardware-wikipedia-span7 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.open-source-hardware-osh-oshw-consists-of-physical-artifacts-of-technology-designed-and-offered-by-the-open-design-movement-both-free-and-open-source-software-foss-and-open-source-hardware-are-created-by-this-open-source-culture-movement-and-apply-a-like-concept-to-a-variety-of-components-it-is-sometimes-thus-referred-to-as-fosh-free-and-open-source-hardware-the-term-usually-means-that-information-about-the-hardware-is-easily-discerned-so-that-others-can-make-it-coupling-it-closely-to-the-maker-movement-open-source-hardware-wikipedia-span8 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.open-source-hardware-osh-oshw-consists-of-physical-artifacts-of-technology-designed-and-offered-by-the-open-design-movement-both-free-and-open-source-software-foss-and-open-source-hardware-are-created-by-this-open-source-culture-movement-and-apply-a-like-concept-to-a-variety-of-components-it-is-sometimes-thus-referred-to-as-fosh-free-and-open-source-hardware-the-term-usually-means-that-information-about-the-hardware-is-easily-discerned-so-that-others-can-make-it-coupling-it-closely-to-the-maker-movement-open-source-hardware-wikipedia-span9 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.open-source-hardware-osh-oshw-consists-of-physical-artifacts-of-technology-designed-and-offered-by-the-open-design-movement-both-free-and-open-source-software-foss-and-open-source-hardware-are-created-by-this-open-source-culture-movement-and-apply-a-like-concept-to-a-variety-of-components-it-is-sometimes-thus-referred-to-as-fosh-free-and-open-source-hardware-the-term-usually-means-that-information-about-the-hardware-is-easily-discerned-so-that-others-can-make-it-coupling-it-closely-to-the-maker-movement-open-source-hardware-wikipedia-span10 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.open-source-hardware-osh-oshw-consists-of-physical-artifacts-of-technology-designed-and-offered-by-the-open-design-movement-both-free-and-open-source-software-foss-and-open-source-hardware-are-created-by-this-open-source-culture-movement-and-apply-a-like-concept-to-a-variety-of-components-it-is-sometimes-thus-referred-to-as-fosh-free-and-open-source-hardware-the-term-usually-means-that-information-about-the-hardware-is-easily-discerned-so-that-others-can-make-it-coupling-it-closely-to-the-maker-movement-open-source-hardware-wikipedia-span11 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.open-source-hardware-osh-oshw-consists-of-physical-artifacts-of-technology-designed-and-offered-by-the-open-design-movement-both-free-and-open-source-software-foss-and-open-source-hardware-are-created-by-this-open-source-culture-movement-and-apply-a-like-concept-to-a-variety-of-components-it-is-sometimes-thus-referred-to-as-fosh-free-and-open-source-hardware-the-term-usually-means-that-information-about-the-hardware-is-easily-discerned-so-that-others-can-make-it-coupling-it-closely-to-the-maker-movement-open-source-hardware-wikipedia-span12 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  text-decoration: underline;
+}
+.frame-44 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 145px;
+  top: 780px;
+}
+.definition-of-arduino {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.arduino-r-dwi-no-is-an-italian-open-source-hardware-and-software-company-project-and-user-community-that-designs-and-manufactures-single-board-microcontrollers-and-microcontroller-kits-for-building-digital-devices-arduino-board-designs-use-a-variety-of-microprocessors-and-controllers-the-boards-are-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-or-breadboards-for-prototyping-and-other-circuits-the-arduino-project-began-in-2005-as-a-tool-for-students-at-the-interaction-design-institute-ivrea-italy-aiming-to-provide-a-low-cost-and-easy-way-for-novices-and-professionals-to-create-devices-that-interact-with-their-environment-using-sensors-and-actuators-common-examples-of-such-devices-intended-for-beginner-hobbyists-include-simple-robots-thermostats-and-motion-detectors-arduino-wikipedia {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1671px;
+  height: 313px;
+}
+.arduino-r-dwi-no-is-an-italian-open-source-hardware-and-software-company-project-and-user-community-that-designs-and-manufactures-single-board-microcontrollers-and-microcontroller-kits-for-building-digital-devices-arduino-board-designs-use-a-variety-of-microprocessors-and-controllers-the-boards-are-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-or-breadboards-for-prototyping-and-other-circuits-the-arduino-project-began-in-2005-as-a-tool-for-students-at-the-interaction-design-institute-ivrea-italy-aiming-to-provide-a-low-cost-and-easy-way-for-novices-and-professionals-to-create-devices-that-interact-with-their-environment-using-sensors-and-actuators-common-examples-of-such-devices-intended-for-beginner-hobbyists-include-simple-robots-thermostats-and-motion-detectors-arduino-wikipedia-span {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.arduino-r-dwi-no-is-an-italian-open-source-hardware-and-software-company-project-and-user-community-that-designs-and-manufactures-single-board-microcontrollers-and-microcontroller-kits-for-building-digital-devices-arduino-board-designs-use-a-variety-of-microprocessors-and-controllers-the-boards-are-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-or-breadboards-for-prototyping-and-other-circuits-the-arduino-project-began-in-2005-as-a-tool-for-students-at-the-interaction-design-institute-ivrea-italy-aiming-to-provide-a-low-cost-and-easy-way-for-novices-and-professionals-to-create-devices-that-interact-with-their-environment-using-sensors-and-actuators-common-examples-of-such-devices-intended-for-beginner-hobbyists-include-simple-robots-thermostats-and-motion-detectors-arduino-wikipedia-span2 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  text-decoration: underline;
+}
+.frame-45 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 145px;
+  top: 1219px;
+}
+.arduino-basic-control-board {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 761px;
+  height: 639px;
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span2 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span3 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span4 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span5 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span6 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span7 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span8 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span9 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span10 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span11 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span12 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span13 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span14 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span15 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span16 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span17 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span18 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span19 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span20 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span21 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span22 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span23 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span24 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span25 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span26 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span27 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span28 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span29 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span30 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span31 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span32 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span33 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span34 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span35 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span36 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span37 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span38 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span39 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span40 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span41 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span42 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span43 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  text-decoration: underline;
+}
+.the-arduino-uno-is-an-open-source-microcontroller-board-based-on-the-microchip-a-tmega-328-p-microcontroller-mcu-and-developed-by-arduino-cc-and-initially-released-in-2010-the-word-uno-means-one-in-italian-and-was-chosen-to-mark-a-major-redesign-of-the-arduino-hardware-and-software-the-microcontroller-board-is-equipped-with-sets-of-digital-and-analog-input-output-i-o-pins-that-may-be-interfaced-to-various-expansion-boards-shields-and-other-circuits-1-the-board-has-14-digital-i-o-pins-six-capable-of-pwm-output-6-analog-i-o-pins-and-is-programmable-with-the-arduino-ide-integrated-development-environment-via-a-type-b-usb-cable-4-it-can-be-powered-by-a-usb-cable-or-a-barrel-connector-that-accepts-voltages-between-7-and-20-volts-such-as-a-rectangular-9-volt-battery-it-has-the-same-microcontroller-as-the-arduino-nano-board-and-the-same-headers-as-the-leonardo-board-5-6-the-hardware-reference-design-is-distributed-under-a-creative-commons-attribution-share-alike-2-5-license-and-is-available-on-the-arduino-website-layout-and-production-files-for-some-versions-of-the-hardware-are-also-available-arduino-uno-wikipedia-span44 {
+  color: #ffffff;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+}
+.arduino-stepper-motor-l-298-n-1 {
+  width: 683px;
+  height: 353px;
+  position: absolute;
+  left: 1127px;
+  top: 6028px;
+  object-fit: cover;
+}
+.images-1 {
+  width: 879.25px;
+  height: 800px;
+  position: absolute;
+  left: 931px;
+  top: 1177px;
+  object-fit: cover;
+}
+.sbcf-8-f-0-ef-5-ab-34-e-52969978-f-81-d-2-f-221-du-jpg-640-x-640-q-90-1 {
+  width: 800px;
+  height: 493.8px;
+  position: absolute;
+  left: 1010px;
+  top: 2703px;
+  object-fit: cover;
+}
+.a-stepper-motor-also-known-as-step-motor-or-stepping-motor-is-an-electrical-motor-that-rotates-in-a-series-of-small-angular-steps-instead-of-continuously-stepper-motors-are-a-type-of-digital-actuator-like-other-electromagnetic-actuators-they-convert-electric-energy-into-mechanical-position-can-be-commanded-to-move-and-hold-at-one-of-these-steps-without-any-position-sensor-for-feedback-an-open-loop-controller-as-long-as-the-motor-is-correctly-sized-to-the-application-in-respect-to-torque-and-speed-stepper-motor-wikipedia {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 1118px;
+  top: 5365px;
+  width: 692px;
+  height: 363px;
+}
+.the-reason-why-we-use-stepper-motors-is-that-we-use-precise-rotation-angles-to-control-the-balls-to-fall-one-by-one-if-we-want-to-add-more-grooves-to-the-parts-we-can-adjust-the-angles-in-the-code-without-being-restricted-by-the-fixed-rotation-angles-of-the-motor-i-found-a-tutorial-on-the-internet-platform-that-teaches-you-how-to-assemble-and-drive-stepper-motors-and-found-pictures-of-the-motor-connections-arduino-control-motors {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 145px;
+  top: 6091px;
+  width: 768px;
+  height: 290px;
+}
+.arduino-logo-1 {
+  width: 458px;
+  height: 312px;
+  position: absolute;
+  left: 1208px;
+  top: 3405px;
+  object-fit: cover;
+}
+.image-38 {
+  width: 1600px;
+  height: 777.38px;
+  position: absolute;
+  left: calc(50% - 816px);
+  top: 12082px;
+  object-fit: cover;
+}
+.the-final-code-is-here {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 145px;
+  top: 13777px;
+  width: 643px;
+  height: 57px;
+}
+._1-arduino-nano-board-2-sg-90-servo {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: absolute;
+  left: 271px;
+  top: 10545px;
+}
+.component {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 231px;
+  top: 10498px;
+  width: 295px;
+  height: 57px;
+}
+._5-30-3 {
+  width: 464.14px;
+  height: 800px;
+  position: absolute;
+  left: calc(50% - 327px);
+  top: 10167px;
+  object-fit: cover;
+}
+.frame-49 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 144px;
+  top: 9963px;
+}
+.processing-and-arduino-linkage {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 643px;
+  height: 57px;
+}
+.in-the-processing-page-one-black-ball-drops-down-every-two-seconds-if-three-balls-fall-in-total-the-ball-stops-falling-for-five-seconds-in-addition-the-blade-of-the-steering-engine-controlled-by-arduino-is-rotated-180-degrees-to-the-right-for-two-seconds-and-then-rotated-180-degrees-to-the-left-to-return-to-the-original-position {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 1600px;
+}
+.click-on-the-red-box {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 144px;
+  top: 8188px;
+}
+.tinkercad-dc-motor {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 1149px;
+  top: 7710px;
+  width: 477px;
+  height: 57px;
+}
+.frame-56 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 144px;
+  top: 16268px;
+}
+.frame-26 {
+  background: #515151;
+  padding: 0px 37px 0px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 1300px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1600px;
+  height: 47px;
+  position: relative;
+}
+.frame-22 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.arduino-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+.frame-23 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.copy {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+.frame-25 {
+  background: #8e8e8e;
+  padding: 10px 56px 10px 56px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1600px;
+  height: 761px;
+  position: relative;
+}
+.include-servo-h-servo-myservo-int-servo-pin-9-void-setup-myservo-attach-servo-pin-serial-begin-9600-9600-void-loop-if-serial-available-0-char-in-char-char-serial-read-if-in-char-r-r-myservo-write-180-180-delay-2000-myservo-write-0-0 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+}
+.https-www-tinkercad-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 144px;
+  top: 8155px;
+}
+.frame-48 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 792px;
+  position: absolute;
+  left: calc(50% - 816px);
+  top: 8237px;
+}
+.image-24 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 777.38px;
+  position: relative;
+  object-fit: cover;
+}
+.click-on-the-red-box-click-on-getting-started-with-arduino-click-on-servoand-click-on-start-simulation {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+}
+.frame-52 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 144px;
+  top: 11203px;
+}
+.image-39 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 777.38px;
+  position: relative;
+  object-fit: cover;
+}
+.click-on-the-red-box-briefly-describe-the-personal-prompt-add-some-plug-ins-only-but-not-limited-to-code-interpreter-data-analysis-also-but-not-necessary-modify-the-model-configuration-in-the-upper-left-corner {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.frame-51 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 142px;
+  top: 11029px;
+}
+.how-to-realise {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 643px;
+  height: 57px;
+}
+.frame-50 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.register-and-login-coze {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+}
+.https-www-coze-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+}
+.register-and-login-tinkercad {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 144px;
+  top: 8122px;
+}
+.frame-69 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 145px;
+  top: 12873px;
+}
+.ask-coze-for {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 144px;
+}
+.how-to-connect-processing-and-arduino {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 439px;
+}
+.please-help-me-to-write-a-code-on-processing-to-make-the-black-ball-drop-every-1-second-on-the-right-side-of-the-white-canvas-of-1920-1080 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1477px;
+}
+.if-you-want-to-change-the-position-of-the-ball-to-the-center-of-the-screen-which-part-of-the-code-should-you-change {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1231px;
+}
+.can-you-help-me-write-a-program-on-the-arduino-that-connects-to-the-processing-and-has-the-ability-to-control-the-servo-to-turn-180-degrees-to-the-right-when-the-three-black-balls-fall-off-the-canvas {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1483px;
+}
+.modify-the-processing-program-and-the-arduino-program-and-write-it-out-completely-to-be-able-to-connect-with-the-arduino-program-mentioned-above-so-that-the-black-ball-drops-every-1-second-on-the-right-side-of-the-white-canvas-of-1920-1080-and-there-are-only-three-black-balls-and-when-all-of-them-drop-out-of-the-canvas-then-the-servo-will-be-controlled-to-rotate-to-the-right-by-180-degrees {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1462px;
+}
+.modify-the-processing-program-and-arduino-program-and-write-it-out-completely-in-the-processing-let-the-black-ball-in-the-1920-1080-white-canvas-on-the-right-side-of-the-drop-every-1-second-there-are-and-only-three-black-ball-when-the-ball-all-fall-out-of-the-canvas-then-use-the-arduino-to-control-the-servo-to-the-right-180-degrees {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1487px;
+}
+.keep-the-connection-with-arduino-let-the-black-ball-drop-every-1-second-on-the-right-side-of-the-white-canvas-of-1920-1080-in-the-processing-modify-the-processing-and-arduino-code-above-as-follows-1-the-height-of-each-ball-falling-in-the-processing-is-kept-equal-2-when-three-balls-fall-out-of-the-canvas-in-the-processing-control-the-servo-in-the-arduino-to-rotate-180-degrees-to-the-right-and-control-the-servo-to-rotate-180-degrees-to-the-left-after-a-delay-of-two-seconds-3-processing-in-the-cumulative-number-of-ball-drop-to-meet-the-number-of-3-then-return-to-the-number-of-0-and-control-the-ball-to-stop-falling-in-5-seconds-to-restart-the-fall {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1515px;
+}
+.how-to-change-the-falling-speed-of-the-ball {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 460px;
+}
+.how-to-change-the-ball-to-drop-every-two-seconds {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 551px;
+}
+.by-asking-coze-these-questions-you-will-understand-how-to-make-a-small-sample-of-the-interaction-between-arduino-and-processing-linkage {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1473px;
+}
+.how-to-realise2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 144px;
+  top: 8050px;
+  width: 643px;
+  height: 57px;
+}
+.frame-47 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1266px;
+  position: absolute;
+  left: 145px;
+  top: 3494px;
+}
+._2-install-arduino-ide-download-and-install-the-arduino-ide-from-the-official-arduino-website-connect-the-arduino-board-e-g-arduino-uno-to-the-computer {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 816px;
+  height: 112px;
+}
+._3-basic-programming-and-electronics-knowledge-1-basic-programming-familiarize-yourself-with-the-arduino-ide-interface-understand-basic-c-c-syntax-such-as-variables-data-types-loops-and-conditional-statements-2-basic-electronics-learn-how-basic-electronic-components-such-as-resistors-capacitors-diodes-and-le-ds-work-understand-how-to-connect-circuits-such-as-using-breadboards-and-jumper-wires {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1202px;
+  height: 231px;
+}
+._4-practice-the-arduino-project-open-the-arduino-ide-and-connect-the-arduino-board-to-your-computer-write-code-in-arduino-ide-specific-examples-below {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 830px;
+  height: 99px;
+}
+._5-learning-resources-official-website-arduino-cc-tutorial-website-arduino-project-hub-books-getting-started-with-arduino-book-series-arduino-projects-for-dummies-online-courses-coursera-udemy-ed-x-have-many-courses-on-arduino {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 800px;
+  height: 264px;
+}
+._6-extension-projects-with-some-extension-projects-you-can-go-deeper-into-the-application-of-arduino-sensor-project-temperature-sensor-ultrasonic-sensor-light-sensor-etc-display-project-use-lcd-display-to-show-information-wireless-communication-use-bluetooth-or-wi-fi-module-robotics-projects-making-simple-robots-and-learning-about-movement-control-obstacle-avoidance-etc {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1400px;
+  height: 198px;
+}
+._7-join-the-arduino-community-joining-the-open-source-community-can-help-you-get-more-resources-solve-problems-and-share-your-projects-arduino-forum-open-source-projects-on-git-hub-arduino-groups-on-various-social-media-outlets {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1292px;
+  height: 165px;
+}
+.arduino-ir-remote-tutorial-led-switched-by-remote-control-3-1 {
+  width: 800px;
+  height: 487px;
+  position: absolute;
+  left: 1010px;
+  top: 2071px;
+  object-fit: cover;
+}
+.frame-46 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 145px;
+  top: 2024px;
+}
+.common-application-boards-for-arduino {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 806px;
+  height: 47px;
+}
+.arduino-infrared-remote-control-module-includes-ir-receiver-and-remote-control-when-you-press-a-button-on-an-infrared-remote-control-it-emits-a-specific-infrared-signal-this-signal-is-received-by-the-infrared-receiver-and-converted-into-an-electrical-signal-which-is-then-read-and-interpreted-by-the-arduino-board-the-arduino-board-can-perform-specific-tasks-based-on-this-signal-such-as-controlling-an-led-light-switch-arduino-s-infrared-remote-control-module-can-be-used-in-a-variety-of-projects-including-robots-home-automation-systems-wirelessly-controlled-toys-and-more-you-can-program-the-arduino-to-respond-to-any-button-on-the-infrared-remote-control-to-implement-a-variety-of-functions {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 712px;
+  height: 509px;
+}
+.led-modules-usually-consist-of-one-or-more-led-lights-and-some-other-electronic-components-such-as-resistors-an-led-light-emitting-diode-is-a-semiconductor-device-that-emits-light-when-current-passes-through-an-led-it-emits-light-in-addition-to-the-common-single-color-led-modules-there-are-also-rgb-led-modules-each-led-in-the-rgb-led-module-contains-three-colors-of-red-green-and-blue-le-ds-by-adjusting-the-brightness-of-these-three-colors-various-colors-of-light-can-be-mixed-led-modules-can-be-used-in-a-variety-of-arduino-projects-including-displaying-status-indicators-backlights-visual-effects-and-more-for-example-you-can-use-the-led-module-to-create-a-traffic-light-a-colored-light-effect-or-use-it-to-display-the-working-status-of-your-arduino-project {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 145px;
+  top: 2719px;
+  width: 755px;
+  height: 481px;
+}
+.frame-55 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 144px;
+  top: 13834px;
+}
+.frame-54 {
+  background: #515151;
+  padding: 0px 30px 0px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 1250px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1600px;
+  height: 47px;
+  position: relative;
+}
+.processing-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+.frame-53 {
+  background: #8e8e8e;
+  padding: 10px 56px 10px 56px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1600px;
+  height: 2344px;
+  position: relative;
+}
+.import-processing-serial-serial-my-port-array-list-ball-balls-int-last-time-int-ball-count-void-setup-size-1920-1080-balls-new-array-list-ball-println-serial-list-my-port-new-serial-this-serial-list-0-9600-last-time-millis-void-draw-background-255-if-millis-last-time-2000-2-last-time-millis-if-ball-count-3-ball-new-ball-new-ball-width-400-50-balls-add-new-ball-for-int-i-balls-size-1-i-0-i-if-balls-get-i-y-height-balls-remove-i-ball-count-if-ball-count-3-my-port-write-r-r-arduino-ball-count-0-5-delay-5000-last-time-millis-for-int-i-0-i-balls-size-i-ball-ball-balls-get-i-ball-update-ball-display-class-ball-float-x-y-float-speed-y-10-float-diameter-50-ball-float-temp-x-float-temp-y-x-temp-x-y-temp-y-void-update-y-speed-y-void-display-fill-0-ellipse-x-y-diameter-diameter {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+}
+.line-22 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 1700px;
+  height: 0px;
+  position: absolute;
+  left: calc(50% - 877px);
+  top: 17119px;
+}
+.frame-7 {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: rgba(233, 233, 233, 0.62);
+  border-width: 1px;
+  padding: 16px 88px 16px 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 815px);
+  top: 89px;
+  backdrop-filter: blur(30px);
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 777px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1454px;
+  position: relative;
+}
+.mars {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.previous-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.final-project {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+._1 {
+  width: 800px;
+  height: 450px;
+  position: absolute;
+  left: 139px;
+  top: 7522px;
+  object-fit: cover;
+}
+.d-1-a-7710-c-a-154-46-ee-9021-02-efd-833581-a-1 {
+  width: 1600px;
+  height: 777.38px;
+  position: absolute;
+  left: 144px;
+  top: 9078px;
+  object-fit: cover;
+}
+.d-728-d-177-ed-66828-cce-688877-d-9-f-6-bd-91-1 {
+  width: 599.68px;
+  height: 800px;
+  position: absolute;
+  left: 1160px;
+  top: 10167px;
+  object-fit: cover;
+}
+.a-stepper-motor-is-an-electromechanical-device-that-converts-an-electrical-pulse-signal-into-an-angular-or-linear-displacement-it-rotates-in-discrete-steps-one-step-for-each-pulse-signal-received-hence-the-name-stepper-motor-characteristics-of-stepper-motors-precise-positioning-and-speed-control-because-stepper-motors-rotate-in-discrete-steps-very-precise-positioning-and-speed-control-can-be-achieved-no-feedback-mechanisms-required-stepper-motors-can-often-achieve-precise-positioning-at-low-loads-without-feedback-mechanisms-such-as-encoders-which-simplifies-the-design-of-the-control-system-high-holding-torque-stepper-motors-can-hold-their-current-position-even-during-a-power-failure-making-them-suitable-for-applications-where-holding-force-is-required-fast-response-stepper-motors-can-be-started-stopped-and-reversed-quickly-making-them-ideal-for-applications-that-require-fast-positioning-types-of-stepper-motors-there-are-three-main-types-of-stepper-motors-permanent-magnet-stepper-motors-simple-construction-and-lower-cost-but-with-lower-torque-output-reactive-stepper-motors-higher-torque-output-but-more-complex-control-circuits-hybrid-stepper-motors-combine-the-advantages-of-permanent-magnet-and-reactive-stepper-motors-with-higher-stepping-accuracy-and-torque-output-stepper-motor-applications-industrial-automation-used-to-control-the-movement-of-robots-positioning-of-conveyor-belts-opening-and-closing-of-valves-etc-computer-peripherals-e-g-in-printers-scanners-plotters-to-control-the-movement-of-paper-and-printheads-medical-equipment-e-g-in-medical-imaging-equipment-drug-delivery-systems-for-precise-positioning-and-control-controlling-stepper-motors-controlling-a-stepper-motor-requires-the-use-of-a-specialized-driver-that-receives-pulses-from-a-controller-and-converts-them-into-signals-that-control-the-current-in-the-stepper-motor-s-windings-to-drive-the-motor-comparison-of-stepper-motors-with-other-types-of-motors-compared-to-dc-motors-stepper-motors-offer-higher-positioning-accuracy-but-their-speed-and-torque-outputs-are-relatively-low-compared-to-servo-motors-stepper-motors-are-cheaper-and-simpler-to-control-but-servo-motors-are-a-better-choice-where-high-accuracy-and-high-dynamic-response-are-required-summarize-stepper-motors-are-used-in-a-wide-variety-of-applications-due-to-their-high-accuracy-ease-of-control-and-lack-of-need-for-feedback-mechanisms-understanding-the-different-types-characteristics-and-applications-of-stepper-motors-can-help-you-make-a-more-informed-decision-when-selecting-a-motor {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: absolute;
+  left: 145px;
+  top: 6528px;
+}
+._04-bujin-ddj-1-1 {
+  width: 800px;
+  height: 600px;
+  position: absolute;
+  left: 145px;
+  top: 5268px;
+  object-fit: cover;
+}
