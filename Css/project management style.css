@@ -1,0 +1,1773 @@
+.desktop-16,
+.desktop-16 * {
+  box-sizing: border-box;
+}
+.desktop-16 {
+  background: #000000;
+  height: 49391px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-17 {
+  width: 1000px;
+  height: 1100px;
+  position: absolute;
+  left: 1451.86px;
+  top: 0px;
+  transform: translate(-969.82px, 0px);
+  overflow: visible;
+}
+.frame-41 {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 145px;
+  top: 246px;
+}
+.frame-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-10 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 683px;
+  position: relative;
+}
+.project-management {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+}
+.prepare-tool-for-website {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 638px;
+  height: 47px;
+}
+.github-our-website-will-be-placed-here-git-hub-desktop-used-for-cloning-libraries-and-uploading-local-files-figma-used-to-design-web-page-layout-visual-studio-code-used-to-write-website-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h5-heading-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--h5-heading-font-size, 20px);
+  line-height: var(--h5-heading-line-height, 110%);
+  font-weight: var(--h5-heading-font-weight, 500);
+  position: relative;
+}
+.frame-35 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 638px;
+}
+.step-one-create-a-new-repository-on-git-hub-to-host-your-website {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+._1 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-1 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 917.23px;
+  position: static;
+}
+.image-10 {
+  width: 1600px;
+  height: 917.23px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-34 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 202px;
+  height: 93px;
+  position: absolute;
+  left: 1228px;
+  top: 53px;
+}
+._1-create-a-public-repository-where-you-can-collaborate-with-your-team-to-create-web-content {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+}
+._2 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-2 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 872.22px;
+  position: static;
+}
+.image-11 {
+  width: 1600px;
+  height: 872.22px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-30 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 175px;
+  height: 59px;
+  position: absolute;
+  left: 974px;
+  top: 805px;
+}
+.rectangle-31 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 171px;
+  height: 45px;
+  position: absolute;
+  left: 454px;
+  top: 488px;
+}
+.rectangle-32 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 171px;
+  height: 45px;
+  position: absolute;
+  left: 454px;
+  top: 361px;
+}
+.rectangle-33 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 208px;
+  height: 85px;
+  position: absolute;
+  left: 583px;
+  top: 162px;
+}
+._2-name-your-repository-choose-whether-it-s-public-or-private-add-a-readme-file-to-share-your-information-then-click-the-create-repository-button {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._3 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-3 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 872.27px;
+  position: static;
+}
+.image-13 {
+  width: 1600px;
+  height: 872.27px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-302 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 175px;
+  height: 59px;
+  position: absolute;
+  left: 208px;
+  top: 499px;
+}
+.rectangle-312 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 175px;
+  height: 59px;
+  position: absolute;
+  left: 712px;
+  top: 53px;
+}
+.rectangle-322 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 304px;
+  height: 46px;
+  position: absolute;
+  left: 516px;
+  top: 453px;
+}
+.rectangle-332 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 181px;
+  height: 46px;
+  position: absolute;
+  left: 1051px;
+  top: 220px;
+}
+._3-set-the-page-to-be-empty-click-on-the-settings-of-the-repository-and-select-pages-on-the-left-choose-main-and-root-and-save-the-link-above-allows-you-to-view-the-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._4 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-4 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 870.34px;
+  position: relative;
+  overflow: visible;
+}
+._4-wait-for-github-to-search-and-create-pages-and-once-all-projects-are-completed-the-website-will-be-initially-established {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._5 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-5 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 870.97px;
+  position: static;
+}
+.image-14 {
+  width: 1600px;
+  height: 870.97px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-36 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 302px;
+  height: 45px;
+  position: absolute;
+  left: 207px;
+  top: 190px;
+}
+.rectangle-37 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 159px;
+  height: 45px;
+  position: absolute;
+  left: 804px;
+  top: 542px;
+}
+.rectangle-35 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 116px;
+  height: 45px;
+  position: absolute;
+  left: 719px;
+  top: 61px;
+}
+.frame-26 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-15 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 869.71px;
+  position: relative;
+  object-fit: cover;
+}
+._5-if-you-want-to-invite-team-members-click-on-settings-find-collaborators-on-the-left-then-click-add-people-enter-their-email-addresses-and-set-their-role-maintainer {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.step-two-clone-the-repository-to-git-hub {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+._6 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-7 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 946.62px;
+  position: static;
+}
+.image-16 {
+  width: 1600px;
+  height: 946.62px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-372 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 138px;
+  height: 30px;
+  position: absolute;
+  left: 217px;
+  top: 93px;
+}
+.rectangle-38 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 54px;
+  height: 30px;
+  position: absolute;
+  left: 163px;
+  top: 78px;
+}
+.frame-27 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-6 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 951.62px;
+  position: static;
+}
+.image-17 {
+  width: 1600px;
+  height: 951.62px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-39 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 489px;
+  height: 50px;
+  position: absolute;
+  left: 556px;
+  top: 375px;
+}
+.rectangle-40 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 133px;
+  height: 50px;
+  position: absolute;
+  left: 773px;
+  top: 647px;
+}
+.click-on-add-clone-a-resource-find-the-repository-you-want-to-clone-finally-click-clone {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.step-three-design-website-layout-with-your-team-in-figma {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+._7 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-20 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 952.87px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-29 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-22 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 950.37px;
+  position: relative;
+  object-fit: cover;
+}
+._1-create-a-new-design-file-in-figma-where-you-can-see-many-tools-that-can-help-you-build-and-beautify-the-appearance-of-your-website {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._8 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-8 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 956.62px;
+  position: static;
+}
+.image-24 {
+  width: 1600px;
+  height: 956.62px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-41 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 78px;
+  height: 61px;
+  position: absolute;
+  left: 1329px;
+  top: 29px;
+}
+.rectangle-42 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 415px;
+  height: 61px;
+  position: absolute;
+  left: 593px;
+  top: 272px;
+}
+.rectangle-43 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 98px;
+  height: 35px;
+  position: absolute;
+  left: 887px;
+  top: 180px;
+}
+._2-if-you-want-to-invite-your-team-members-to-edit-together-you-can-find-share-in-the-upper-right-corner-set-the-share-setting-to-what-you-want-and-after-setting-it-up-copy-the-link-to-your-team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.image-43 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 951.62px;
+  position: relative;
+  object-fit: cover;
+}
+._3-before-starting-the-design-it-is-best-for-us-to-consider-and-standardize-the-font-and-font-size-used-in-order-to-facilitate-uniformity-and-overall-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.image-44 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 954.75px;
+  position: relative;
+  object-fit: cover;
+}
+._4-create-a-1920-1200-frame-in-the-picture-and-fill-it-with-a-black-background {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.image-46 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 919.11px;
+  position: relative;
+  object-fit: cover;
+}
+._5-use-h-3-heading-to-create-the-first-text-logo-mars {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.image-47 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 919.11px;
+  position: relative;
+  object-fit: cover;
+}
+._6-create-the-text-for-the-other-four-navigation-items-and-use-the-ui-label-regular-text-style-after-selecting-all-items-press-shift-a-on-the-keyboard-to-add-auto-layout-adjust-the-corresponding-parameters-to-arrange-them-neatly {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.image-45 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 873.47px;
+  position: relative;
+  object-fit: cover;
+}
+._7-select-mars-and-the-other-four-options-at-the-same-time-and-press-shift-a-to-add-auto-layout {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.image-48 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 919.11px;
+  position: relative;
+  object-fit: cover;
+}
+._8-adjust-the-parameters-in-the-auto-layout-and-center-the-frame {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.image-49 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 919.11px;
+  position: relative;
+  object-fit: cover;
+}
+._9-create-an-outer-frame-select-the-entire-frame-add-auto-layout-again-add-left-and-right-margins-and-strokes-select-colors-and-transparency-and-make-the-four-corners-rounded {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.image-50 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 919.11px;
+  position: relative;
+  object-fit: cover;
+}
+._10-use-standardized-text-to-create-titles-and-main-text-and-layout-them-clearly {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.image-51 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 919.11px;
+  position: relative;
+  object-fit: cover;
+}
+._11-create-a-button-first-use-the-standardized-text-style-to-create-the-button-text-select-the-text-add-auto-layout-add-margins-and-button-colors-and-adjust-the-four-corners-to-be-more-rounded {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.image-52 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 919.11px;
+  position: relative;
+  object-fit: cover;
+}
+._12-create-a-simple-background-color-pattern-create-a-new-prototype-and-add-different-transition-colors-place-this-pattern-at-the-bottom {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._9 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-18 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 953.5px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-30 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-9 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 929.86px;
+  position: static;
+}
+.image-25 {
+  width: 1600px;
+  height: 922.86px;
+  position: absolute;
+  left: 0px;
+  top: 7px;
+  object-fit: cover;
+}
+.rectangle-44 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 74px;
+  height: 73px;
+  position: absolute;
+  left: 260px;
+  top: 0px;
+}
+.rectangle-45 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 288px;
+  height: 73px;
+  position: absolute;
+  left: 273px;
+  top: 213px;
+}
+._13-after-you-complete-the-webpage-layout-we-will-use-the-plugin-auto-html-in-figma-to-help-us-compile-the-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._10 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-10 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 950.37px;
+  position: static;
+}
+.image-26 {
+  width: 1600px;
+  height: 950.37px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-46 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 288px;
+  height: 73px;
+  position: absolute;
+  left: 143px;
+  top: 623px;
+}
+._14-select-the-webpage-code-you-need-and-click-to-download-the-corresponding-compressed-file-to-decompress-it {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.step-four-create-web-pages-and-links-using-visual-studio-code-and-upload-them-to-github {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+._11 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-11 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 954.24px;
+  position: static;
+}
+.image-27 {
+  width: 1600px;
+  height: 954.24px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-47 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 288px;
+  height: 73px;
+  position: absolute;
+  left: 30px;
+  top: 112px;
+}
+._1-check-in-and-unzip-the-folder-using-visual-studio-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._12 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-28 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 950.74px;
+  position: relative;
+  object-fit: cover;
+}
+._2-in-visual-studio-code-you-can-see-the-complete-code-of-the-project-including-html-css-and-images-you-can-achieve-webpage-redirection-and-website-beautification-by-modifying-the-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._13 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-29 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 958.79px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-34 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-30 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 972.69px;
+  position: relative;
+  object-fit: cover;
+}
+._3-paste-all-modified-files-into-the-local-git-hub-library {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._14 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-12 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 950.37px;
+  position: static;
+}
+.image-31 {
+  width: 1600px;
+  height: 950.37px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-48 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 224px;
+  height: 182px;
+  position: absolute;
+  left: 6px;
+  top: 768px;
+}
+.group-13 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 950.23px;
+  position: static;
+}
+.image-32 {
+  width: 1600px;
+  height: 950.23px;
+  position: absolute;
+  left: 0px;
+  top: 965.37px;
+  object-fit: cover;
+}
+.rectangle-49 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 224px;
+  height: 60px;
+  position: absolute;
+  left: 449px;
+  top: 982.37px;
+}
+._4-open-github-desktop-open-the-corresponding-project-enter-the-content-you-want-to-publish-in-the-bottom-left-corner-and-click-commit-to-main-finally-click-on-push-origin-and-upload-it-to-the-github-cloud {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._15 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-14 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 866.59px;
+  position: static;
+}
+.image-33 {
+  width: 1600px;
+  height: 866.59px;
+  position: absolute;
+  left: calc(50% - 800px);
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-50 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 80px;
+  height: 56px;
+  position: absolute;
+  left: 309px;
+  top: 220px;
+}
+._5-open-github-on-the-web-page-find-the-corresponding-project-and-wait-for-the-project-data-to-be-uploaded-and-loaded-successfully {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+._16 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-15 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 947.87px;
+  position: static;
+}
+.image-34 {
+  width: 1600px;
+  height: 947.87px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-52 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 301px;
+  height: 56px;
+  position: absolute;
+  left: 205px;
+  top: 581px;
+}
+.rectangle-53 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 190px;
+  height: 56px;
+  position: absolute;
+  left: 1043px;
+  top: 295px;
+}
+.rectangle-51 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  width: 119px;
+  height: 56px;
+  position: absolute;
+  left: 720px;
+  top: 136px;
+}
+.image-35 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 954.12px;
+  position: relative;
+  object-fit: cover;
+}
+._6-find-pages-in-setting-where-you-can-access-your-website-and-check-for-any-issues {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.example {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 1600px;
+}
+.frame-62 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-21 {
+  background: #515151;
+  padding: 0px 37px 0px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 1350px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1600px;
+  height: 37px;
+  position: relative;
+}
+.frame-22 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.html {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+.frame-23 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.copy {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+.frame-20 {
+  background: #8e8e8e;
+  padding: 10px 56px 10px 56px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1600px;
+  height: 2556px;
+  position: relative;
+}
+.frame-81 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 2508px;
+  position: relative;
+}
+.doctype-html-html-lang-en-head-meta-charset-utf-8-meta-http-equiv-x-ua-compatible-content-ie-edge-meta-name-viewport-content-width-device-width-initial-scale-1-0-link-rel-stylesheet-href-vars-css-link-rel-stylesheet-href-style-css-style-a-button-input-select-h-1-h-2-h-3-h-4-h-5-box-sizing-border-box-margin-0-padding-0-border-none-text-decoration-none-appearance-none-background-none-webkit-font-smoothing-antialiased-menu-ol-ul-list-style-type-none-margin-0-padding-0-style-title-document-title-head-body-div-class-desktop-25-div-class-rectangle-17-div-div-class-frame-12-div-class-frame-9-div-class-h-1-heading-discover-div-div-div-class-frame-11-div-class-frame-10-div-class-h-1-heading-2-imagination-without-limited-div-div-class-paragraph-text-it-may-be-interpreted-as-a-place-that-goes-beyond-traditional-gallery-concepts-showcasing-unique-innovative-or-futuristic-works-div-div-div-class-primary-button-div-class-about-us-about-us-div-div-div-div-div-class-frame-7-div-class-frame-6-div-class-mars-mars-div-div-class-frame-5-div-class-about-us-2-about-us-div-div-class-previous-projects-previous-projects-div-div-class-team-members-team-members-div-div-class-final-project-final-project-div-div-div-div-div-class-line-2-div-div-body-html {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1093px;
+}
+.frame-63 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.vars-css {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+.frame-202 {
+  background: #8e8e8e;
+  padding: 10px 56px 10px 56px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1600px;
+  height: 2782px;
+  position: relative;
+}
+.figma-styles-of-your-file-root-colors-0-d-0-c-11-0-d-0-c-11-d-2-d-2-d-2-d-2-d-2-d-2-linear-1-linear-gradient-180-deg-rgba-253-253-253-1-0-rgba-205-205-205-1-64-99999761581421-rgba-155-155-155-1-100-be-1247-be-1247-afafaf-afafaf-fonts-h-1-heading-font-family-inter-extra-bold-sans-serif-h-1-heading-font-size-120-px-h-1-heading-line-height-100-h-1-heading-font-weight-800-h-1-heading-font-style-normal-h-2-heading-font-family-inter-extra-bold-sans-serif-h-2-heading-font-size-92-px-h-2-heading-line-height-110-h-2-heading-font-weight-800-h-2-heading-font-style-normal-h-3-heading-font-family-inter-extra-bold-sans-serif-h-3-heading-font-size-40-px-h-3-heading-line-height-110-h-3-heading-font-weight-800-h-3-heading-font-style-normal-h-4-heading-font-family-inter-extra-bold-sans-serif-h-4-heading-font-size-24-px-h-4-heading-line-height-110-h-4-heading-font-weight-800-h-4-heading-font-style-normal-h-6-heading-font-family-inter-medium-sans-serif-h-6-heading-font-size-20-px-h-6-heading-line-height-110-h-6-heading-font-weight-500-h-6-heading-font-style-normal-p-1-paragraph-large-font-family-inter-regular-sans-serif-p-1-paragraph-large-font-size-22-px-p-1-paragraph-large-line-height-150-p-1-paragraph-large-font-weight-400-p-1-paragraph-large-font-style-normal-h-5-heading-font-family-inter-medium-sans-serif-h-5-heading-font-size-20-px-h-5-heading-line-height-110-h-5-heading-font-weight-500-h-5-heading-font-style-normal-p-2-paragraph-medium-font-family-inter-regular-sans-serif-p-2-paragraph-medium-font-size-20-px-p-2-paragraph-medium-line-height-150-p-2-paragraph-medium-font-weight-400-p-2-paragraph-medium-font-style-normal-p-3-paragraph-small-font-family-inter-regular-sans-serif-p-3-paragraph-small-font-size-16-px-p-3-paragraph-small-line-height-150-p-3-paragraph-small-font-weight-400-p-3-paragraph-small-font-style-normal-ui-label-semibold-font-family-inter-semi-bold-sans-serif-ui-label-semibold-font-size-18-px-ui-label-semibold-line-height-150-ui-label-semibold-font-weight-600-ui-label-semibold-font-style-normal-ui-label-medium-font-family-inter-medium-sans-serif-ui-label-medium-font-size-18-px-ui-label-medium-line-height-150-ui-label-medium-font-weight-500-ui-label-medium-font-style-normal-ui-label-regular-font-family-inter-regular-sans-serif-ui-label-regular-font-size-18-px-ui-label-regular-line-height-150-ui-label-regular-font-weight-400-ui-label-regular-font-style-normal-h-7-h-8-font-family-inter-medium-sans-serif-h-7-h-8-font-size-20-px-h-7-h-8-line-height-110-h-7-h-8-font-weight-500-h-7-h-8-font-style-normal-effects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1093px;
+}
+.frame-64 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.style-css {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+}
+.frame-203 {
+  background: #8e8e8e;
+  padding: 10px 56px 10px 56px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1600px;
+  height: 7501px;
+  position: relative;
+}
+.frame-812 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 2731px;
+  position: relative;
+}
+.desktop-25-desktop-25-box-sizing-border-box-desktop-25-background-var-0-d-0-c-11-0-d-0-c-11-height-1200-px-position-relative-box-shadow-0-px-4-px-4-px-0-px-rgba-0-0-0-0-25-overflow-hidden-rectangle-17-background-conic-gradient-from-137-73-deg-at-50-50-rgba-0-0-0-1-6-499350816011429-rgba-224-35-136-1-46-89826965332031-rgba-39-99-183-1-53-4933865070343-rgba-20-52-97-0-53-74-00311231613159-rgba-0-0-0-1-96-79219126701355-width-1000-px-height-1100-px-position-absolute-left-1436-36-px-top-63-46-px-transform-origin-0-0-transform-rotate-45-deg-scale-1-1-filter-blur-96-px-frame-12-display-flex-flex-direction-column-gap-0-px-align-items-flex-start-justify-content-flex-start-position-absolute-left-145-px-top-220-px-frame-9-display-flex-flex-direction-column-gap-31-px-align-items-flex-start-justify-content-flex-start-flex-shrink-0-position-relative-h-1-heading-color-ffffff-text-align-left-font-family-var-h-1-heading-font-family-inter-extra-bold-sans-serif-font-size-var-h-1-heading-font-size-120-px-line-height-var-h-1-heading-line-height-100-font-weight-var-h-1-heading-font-weight-800-position-relative-frame-11-display-flex-flex-direction-column-gap-58-px-align-items-flex-start-justify-content-flex-start-flex-shrink-0-position-relative-frame-10-display-flex-flex-direction-column-gap-50-px-align-items-flex-start-justify-content-flex-start-flex-shrink-0-width-1221-px-position-relative-h-1-heading-2-background-var-linear-1-linear-gradient-180-deg-rgba-253-253-253-1-0-rgba-205-205-205-1-64-99999761581421-rgba-155-155-155-1-100-background-clip-text-webkit-background-clip-text-webkit-text-fill-color-transparent-text-align-left-font-family-var-h-1-heading-font-family-inter-extra-bold-sans-serif-font-size-var-h-1-heading-font-size-120-px-line-height-var-h-1-heading-line-height-100-font-weight-var-h-1-heading-font-weight-800-position-relative-align-self-stretch-paragraph-text-color-var-afafaf-afafaf-text-align-left-font-family-var-p-1-paragraph-large-font-family-inter-regular-sans-serif-font-size-var-p-1-paragraph-large-font-size-22-px-line-height-var-p-1-paragraph-large-line-height-150-font-weight-var-p-1-paragraph-large-font-weight-400-position-relative-align-self-stretch-primary-button-background-var-be-1247-be-1247-border-radius-31-px-padding-22-px-60-px-22-px-60-px-display-flex-flex-direction-row-gap-10-px-align-items-flex-start-justify-content-flex-start-flex-shrink-0-position-relative-about-us-color-var-d-2-d-2-d-2-d-2-d-2-d-2-text-align-left-font-family-var-ui-label-semibold-font-family-inter-semi-bold-sans-serif-font-size-var-ui-label-semibold-font-size-18-px-line-height-var-ui-label-semibold-line-height-150-font-weight-var-ui-label-semibold-font-weight-600-position-relative-frame-7-background-rgba-255-255-255-0-03-border-radius-24-px-border-style-solid-border-color-rgba-233-233-233-0-62-border-width-1-px-padding-16-px-88-px-16-px-88-px-display-flex-flex-direction-column-gap-10-px-align-items-flex-start-justify-content-flex-start-position-absolute-left-calc-50-815-px-top-89-px-backdrop-filter-blur-30-px-frame-6-display-flex-flex-direction-row-gap-777-px-align-items-center-justify-content-flex-start-flex-shrink-0-width-1454-px-position-relative-mars-color-ffffff-text-align-left-font-family-var-h-3-heading-font-family-inter-extra-bold-sans-serif-font-size-var-h-3-heading-font-size-40-px-line-height-var-h-3-heading-line-height-110-font-weight-var-h-3-heading-font-weight-800-position-relative-frame-5-display-flex-flex-direction-row-gap-48-px-align-items-flex-start-justify-content-flex-start-flex-shrink-0-position-relative-about-us-2-color-ffffff-text-align-left-font-family-var-ui-label-regular-font-family-inter-regular-sans-serif-font-size-var-ui-label-regular-font-size-18-px-line-height-var-ui-label-regular-line-height-150-font-weight-var-ui-label-regular-font-weight-400-position-relative-previous-projects-color-ffffff-text-align-left-font-family-var-ui-label-regular-font-family-inter-regular-sans-serif-font-size-var-ui-label-regular-font-size-18-px-line-height-var-ui-label-regular-line-height-150-font-weight-var-ui-label-regular-font-weight-400-position-relative-team-members-color-ffffff-text-align-left-font-family-var-ui-label-regular-font-family-inter-regular-sans-serif-font-size-var-ui-label-regular-font-size-18-px-line-height-var-ui-label-regular-line-height-150-font-weight-var-ui-label-regular-font-weight-400-position-relative-final-project-color-ffffff-text-align-left-font-family-var-ui-label-regular-font-family-inter-regular-sans-serif-font-size-var-ui-label-regular-font-size-18-px-line-height-var-ui-label-regular-line-height-150-font-weight-var-ui-label-regular-font-weight-400-position-relative-line-2-border-style-solid-border-color-ffffff-border-width-1-px-0-0-0-width-1700-px-height-0-px-position-absolute-left-calc-50-850-px-top-2316-px {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1093px;
+}
+.frame-7 {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: rgba(233, 233, 233, 0.62);
+  border-width: 1px;
+  padding: 16px 88px 16px 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 815px);
+  top: 89px;
+  backdrop-filter: blur(30px);
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 777px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1454px;
+  position: relative;
+}
+.mars {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.previous-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.final-project {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.group-17 {
+  position: absolute;
+  inset: 0;
+}
+.image-1-1 {
+  width: 400px;
+  height: 304.05px;
+  position: absolute;
+  left: 1217px;
+  top: 48271px;
+  object-fit: cover;
+}
+._20240520214913-1 {
+  width: 400px;
+  height: 331.25px;
+  position: absolute;
+  left: 1217px;
+  top: 47269px;
+  object-fit: cover;
+}
+.img-7702-1 {
+  width: 359px;
+  height: 359px;
+  position: absolute;
+  left: 1237px;
+  top: 46753px;
+  object-fit: cover;
+}
+.focus-on-the-public-s-mental-health-issues {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: absolute;
+  left: 161px;
+  top: 47059px;
+  width: 1005px;
+  height: 53px;
+}
+.our-sdg-theme-good-health-and-well-being {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: absolute;
+  left: 161px;
+  top: 46968px;
+}
+.project-interpretation {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: absolute;
+  left: 161px;
+  top: 46701px;
+}
+._17 {
+  width: 400px;
+  height: 278.07px;
+  position: absolute;
+  left: 1111px;
+  top: 48806px;
+  object-fit: cover;
+}
+.frame-40 {
+  display: flex;
+  flex-direction: column;
+  gap: 83px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 161px;
+  top: 47196px;
+}
+.frame-36 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.project-concept {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.with-the-rise-of-self-media-and-the-emergence-of-rolling-media-the-spread-of-information-has-become-more-subjective-and-various-values-and-ideas-are-flooding-the-entire-network-making-it-difficult-for-everyone-to-distinguish-between-right-and-wrong-in-addition-the-current-social-situation-of-accelerated-pace-of-life-has-made-everyone-scroll-the-media-faster-and-faster-and-sometimes-they-unconsciously-acquiesce-to-online-violence-and-various-negative-thoughts-when-you-browse-this-information-you-think-you-can-control-your-own-thoughts-but-in-fact-you-can-t-escape-it-anyway-and-will-inevitably-be-affected-by-it-we-hope-everyone-can-get-out-of-this-infinite-scrolling {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 752px;
+  height: 394px;
+}
+.frame-37 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.interaction-effects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.through-touch-screen-interaction-users-stand-in-front-of-our-touch-screen-and-control-the-changes-of-screen-content-with-their-fingers-similar-to-swiping-video-comments-the-speed-at-which-information-appears-on-the-screen-accumulates-over-time-all-negative-information-will-be-accumulated-in-the-container-behind-the-device-in-the-form-of-black-balls-after-a-certain-number-of-balls-in-the-screen-container-the-balls-will-be-ejected-to-display-all-the-negative-information-the-user-has-seen-during-this-process {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 752px;
+  height: 303px;
+}
+.frame-38 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.equipment-and-technical-implementation {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-39 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.target-population {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.image-40 {
+  width: 611px;
+  height: 343px;
+  position: absolute;
+  left: 1111px;
+  top: 47801px;
+  object-fit: cover;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 1700px;
+  height: 0px;
+  position: absolute;
+  left: calc(50% - 850px);
+  top: 49187px;
+}

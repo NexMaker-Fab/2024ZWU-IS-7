@@ -4,240 +4,242 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="Arduino input vars.css">
-  <link rel="stylesheet" href="Arduino input style.css">
+  <link rel="stylesheet" href="Css/Arduino input vars.css">
+  <link rel="stylesheet" href="Css/Arduino input style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/themes/prism.min.css">
   
   
   <style>
-   a,
-   button,
-   input,
-   select,
-   h1,
-   h2,
-   h3,
-   h4,
-   h5,
-   * {
-       box-sizing: border-box;
-       margin: 0;
-       padding: 0;
-       border: none;
-       text-decoration: none;
-       appearance: none;
-       background: none;
+    a,
+    button,
+    input,
+    select,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        border: none;
+        text-decoration: none;
+        appearance: none;
+        background: none;
+    
+        -webkit-font-smoothing: antialiased;
+    }
+    
+    menu, ol, ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    </style>
+   <title>Document</title>
+ </head>
+ <body>
+   <div class="desktop-12">
+     <div class="rectangle-17"></div>
+     <div class="frame-60">
+       <div class="arduino-input">Arduino input</div>
+       <div class="analog-circuit-connection">Analog circuit connection</div>
+     </div>
+     <div class="frame-63">
+       <div
+         class="we-link-the-arduino-and-processing-to-implement-an-animation-effect"
+       >
+         We link the Arduino and Processing to implement an animation effect.
+       </div>
+       <div
+         class="the-pulse-value-is-detected-by-an-acoustic-sensor-and-when-the-pulse-value-is-greater-than-1000-the-ball-is-generated-in-the-processing-screen-and-falls"
+       >
+         The pulse value is detected by an acoustic sensor, and when the pulse
+         value is greater than 1000, the ball is generated in the Processing screen
+         and falls.
+       </div>
+     </div>
+     <div class="frame-66">
+       <img class="_2" src="images6/1.gif" />
+       <div class="frame-64">
+         <img class="_3" src="images6/_30.png" />
+         <div
+           class="first-i-tell-the-ai-what-i-need-to-generate-the-code-but-the-first-processing-end-of-the-code-causes-the-blob-to-automatically-re-run-after-it-has-been-generated-once-and-it-can-t-be-detected-once-and-then-generated-again"
+         >
+           First I tell the AI what I need to generate the code, but the first
+           Processing end of the code causes the blob to automatically re-run after
+           it has been generated once, and it can&#039;t be detected once and then
+           generated again.
+         </div>
+       </div>
+       <div class="frame-65">
+         <img class="_4" src="images6/_40.png" />
+         <div
+           class="the-final-problem-was-that-the-detection-value-of-500-was-too-low-and-too-sensitive-which-was-solved-by-turning-it-up-to-1000"
+         >
+           The final problem was that the detection value of 500 was too low and
+           too sensitive, which was solved by turning it up to 1000.
+         </div>
+       </div>
+       <div class="frame-62">
+         <div class="frame-21">
+             <div class="frame-22">
+                 <div class="arduino-code">Arduino Code:</div>
+             </div>
+             <div class="frame-23">
+                 <div class="copy" onclick="copyText()">copy</div>
+             </div>
+         </div>
+         <div class="frame-20">
+             <pre>
+                 <code class="language-arduino">
+     const int sensorPin = A0; //The sound sensor interface is set to A0.
+     int pulseValue = 0; // Store the pulse values read from the storage device.
+     
+     void setup() {
+       Serial.begin(9600); // Initialize serial communication.
+     }
+     
+     void loop() {
+       pulseValue = analogRead(sensorPin); // Read the pulse values from the sound sensor.
+       if (pulseValue > 1000) {
+         Serial.println("CREATE_BALL"); // Send the instruction when the pulse value is greater than 1000.
+         delay(5000); // Delay to avoid repeating instructions
+       }
+     }
+                 </code>
+             </pre>
+         </div>
+     </div>
+     
+     <!-- Prism.js -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-arduino.min.js"></script>
+     <script>
+         function copyText() {
+             const textToCopy = document.querySelector('.frame-20 code').innerText;
+             navigator.clipboard.writeText(textToCopy).then(() => {
+                 alert('Code copied to clipboard!');
+             }).catch(err => {
+                 console.error('Failed to copy: ', err);
+             });
+         }
+     </script>
+       <div
+         class="even-the-input-port-of-the-arduino-board-s-sound-sensor-is-port-a-0-and-the-variable-pulse-value-is-created-to-store-the-value-of-the-pulses-read-assign-the-value-of-the-detected-pulse-to-the-pulse-value-variable-if-the-pulse-value-is-greater-than-1000-send-a-signal-to-processing-and-set-a-delay-of-5000-milliseconds"
+       >
+         Even the input port of the Arduino board&#039;s sound sensor is port A0,
+         and the variable pulseValue is created to store the value of the pulses
+         read.Assign the value of the detected pulse to the pulseValue variable, if
+         the pulse value is greater than 1000, send a signal to Processing, and set
+         a delay of 5000 milliseconds.
+       </div>
+       <div class="frame-25">
+         <div class="frame-61">
+             <div class="frame-212">
+                 <div class="frame-232">
+                     <div class="arduino-code">Arduino Code:</div>
+                     <div class="copy" onclick="copyText()">copy</div>
+                 </div>
+             </div>
+             <div class="frame-202">
+                 <pre>
+                     <code class="language-arduino">
+     import processing.serial.*;
+     
+     Serial myPort; // Declare serial object
+     boolean ballExists = false; // A sign that controls the presence or absence of the ball
+     float ballY; // Ball Y coordinate
+     
+     void setup() {
+       size(600, 600); // Set window size
+       ballY = 50; // Initially, the ball is at the top of the screen (visible range)
+       String portName = Serial.list()[0];
+       myPort = new Serial(this, portName, 9600);
+     }
+     
+     void draw() {
+       background(255); // Set the background color to white
+     
+       if (ballExists) {
+         ballY += 2; // Control the ball's falling speed
+         // When the ball leaves the screen completely, we keep it at the top to wait for the next signal
+         if (ballY > height + 25) {
+           ballExists = false; // Reset the presence state of the ball
+           ballY = 50; // The ball returns to the top of the screen
+         }
+       }
+     
+       // Draw the ball only if it is present
+       if (ballExists) {
+         fill(0); // Set the fill color to black
+         noStroke();
+         ellipse(width / 2, ballY, 50, 50); // Draw ball
+       }
+     }
+     
+     void serialEvent(Serial p) {
+       String msg = p.readStringUntil('\n');
+       if (msg != null) {
+         msg = msg.trim();
+         if (msg.equals("CREATE_BALL")) {
+           ballExists = true; // When the signal is received, change the state of the ball so that it begins to fall
+         }
+       }
+     }
+                     </code>
+                 </pre>
+             </div>
+         </div>
+     </div>
+     
+     <!-- Prism.js -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-arduino.min.js"></script>
+     <script>
+         function copyText() {
+             const textToCopy = document.querySelector('.frame-202 code').innerText;
+             navigator.clipboard.writeText(textToCopy).then(() => {
+                 alert('Code copied to clipboard!');
+             }).catch(err => {
+                 console.error('Failed to copy: ', err);
+             });
+         }
+     </script>
+       <img class="_5" src="images6/_50.png" />
+       <div
+         class="on-the-processing-side-the-variable-ball-exists-is-defined-to-detect-the-existence-of-the-ball-and-to-facilitate-the-signal-input-to-generate-the-ball-in-the-first-round-of-the-program-set-the-display-window-size-then-set-the-height-of-the-ball-generation-and-then-declare-the-input-port-to-link-with-the-arduino-for-the-second-round-of-the-program-first-define-the-background-color-as-white-the-ball-is-then-dropped-through-a-loop-statement-and-if-the-ball-falls-completely-off-the-screen-the-height-of-the-ball-is-reset-to-allow-it-to-re-generate-at-the-top-again-at-the-same-time-the-ball-is-only-drawn-when-processing-receives-a-pulse-value-greater-than-1000-the-third-program-on-the-other-hand-makes-a-determination-in-processing-again-but-it-only-generates-the-ball-and-lets-it-fall-when-it-receives-a-signal-from-the-arduino"
+       >
+         On the Processing side, the variable ballExists is defined to detect the
+         existence of the ball and to facilitate the signal input to generate the
+         ball. In the first round of the program, set the display window size, then
+         set the height of the ball generation, and then declare the input port to
+         link with the Arduino.For the second round of the program, first define
+         the background color as white. The ball is then dropped through a loop
+         statement, and if the ball falls completely off the screen, the height of
+         the ball is reset to allow it to re-generate at the top again. At the same
+         time, the ball is only drawn when Processing receives a pulse value
+         greater than 1000.The third program, on the other hand, makes a
+         determination in Processing again, but it only generates the ball and lets
+         it fall when it receives a signal from the Arduino.
+       </div>
+     </div>
+     <div class="line-2"></div>
+     <div class="frame-7">
+       <div class="frame-6">
+         <a class="mars" href="index.html">Mars</a>
+         <div class="frame-5">
+           <a class="about-us" href="About us.html">About us</a>
+           <a class="previous-projects" href="Previous projects.html">Previous projects</a>
+           <a class="team-members" href="Team Members.html">Team members</a>
+           <a class="final-project" href="Final project.html">Final project</a>
+         </div>
+       </div>
+     </div>
+     <img class="_1" src="images6/_10.png" />
+     <img class="_6" src="images6/2.gif" />
+   </div>
    
-       -webkit-font-smoothing: antialiased;
-   }
-   
-   menu, ol, ul {
-       list-style-type: none;
-       margin: 0;
-       padding: 0;
-   }
-   </style>
-  <title>Document</title>
-</head>
-<body>
-  <div class="desktop-12">
-    <div class="rectangle-17"></div>
-    <div class="frame-60">
-      <div class="arduino-input">Arduino input</div>
-      <div class="analog-circuit-connection">Analog circuit connection</div>
-    </div>
-    <div class="frame-63">
-      <div
-        class="we-link-the-arduino-and-processing-to-implement-an-animation-effect"
-      >
-        We link the Arduino and Processing to implement an animation effect.
-      </div>
-      <div
-        class="the-pulse-value-is-detected-by-an-acoustic-sensor-and-when-the-pulse-value-is-greater-than-1000-the-ball-is-generated-in-the-processing-screen-and-falls"
-      >
-        The pulse value is detected by an acoustic sensor, and when the pulse
-        value is greater than 1000, the ball is generated in the Processing screen
-        and falls.
-      </div>
-    </div>
-    <img class="_20240531235959-1" src="images2/20240531.png" />
-    <div class="frame-66">
-      <img class="normal-video-1" src="images2/video-10.png" />
-      <div class="frame-64">
-        <img class="_1-1" src="images2/1-10.png" />
-        <div
-          class="first-i-tell-the-ai-what-i-need-to-generate-the-code-but-the-first-processing-end-of-the-code-causes-the-blob-to-automatically-re-run-after-it-has-been-generated-once-and-it-can-t-be-detected-once-and-then-generated-again"
-        >
-          First I tell the AI what I need to generate the code, but the first
-          Processing end of the code causes the blob to automatically re-run after
-          it has been generated once, and it can&#039;t be detected once and then
-          generated again.
-        </div>
-      </div>
-      <div class="frame-65">
-        <img class="_1-2" src="images2/1-20.png" />
-        <div
-          class="the-final-problem-was-that-the-detection-value-of-500-was-too-low-and-too-sensitive-which-was-solved-by-turning-it-up-to-1000"
-        >
-          The final problem was that the detection value of 500 was too low and
-          too sensitive, which was solved by turning it up to 1000.
-        </div>
-      </div>
-      <div class="frame-62">
-        <div class="frame-21">
-            <div class="frame-22">
-                <div class="arduino-code">Arduino Code:</div>
-            </div>
-            <div class="frame-23">
-                <div class="copy" onclick="copyText()">copy</div>
-            </div>
-        </div>
-        <div class="frame-20">
-            <pre>
-                <code class="language-arduino">
-    const int sensorPin = A0; //The sound sensor interface is set to A0.
-    int pulseValue = 0; // Store the pulse values read from the storage device.
-    
-    void setup() {
-      Serial.begin(9600); // Initialize serial communication.
-    }
-    
-    void loop() {
-      pulseValue = analogRead(sensorPin); // Read the pulse values from the sound sensor.
-      if (pulseValue > 1000) {
-        Serial.println("CREATE_BALL"); // Send the instruction when the pulse value is greater than 1000.
-        delay(5000); // Delay to avoid repeating instructions
-      }
-    }
-                </code>
-            </pre>
-        </div>
-    </div>
-    
-    <!-- Prism.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-arduino.min.js"></script>
-    <script>
-        function copyText() {
-            const textToCopy = document.querySelector('.frame-20 code').innerText;
-            navigator.clipboard.writeText(textToCopy).then(() => {
-                alert('Code copied to clipboard!');
-            }).catch(err => {
-                console.error('Failed to copy: ', err);
-            });
-        }
-    </script>
-      <div
-        class="even-the-input-port-of-the-arduino-board-s-sound-sensor-is-port-a-0-and-the-variable-pulse-value-is-created-to-store-the-value-of-the-pulses-read-assign-the-value-of-the-detected-pulse-to-the-pulse-value-variable-if-the-pulse-value-is-greater-than-1000-send-a-signal-to-processing-and-set-a-delay-of-5000-milliseconds"
-      >
-        Even the input port of the Arduino board&#039;s sound sensor is port A0,
-        and the variable pulseValue is created to store the value of the pulses
-        read.Assign the value of the detected pulse to the pulseValue variable, if
-        the pulse value is greater than 1000, send a signal to Processing, and set
-        a delay of 5000 milliseconds.
-      </div>
-      <div class="frame-25">
-        <div class="frame-61">
-            <div class="frame-212">
-                <div class="frame-232">
-                    <div class="arduino-code">Arduino Code:</div>
-                    <div class="copy" onclick="copyText()">copy</div>
-                </div>
-            </div>
-            <div class="frame-202">
-                <pre>
-                    <code class="language-arduino">
-    import processing.serial.*;
-    
-    Serial myPort; // Declare serial object
-    boolean ballExists = false; // A sign that controls the presence or absence of the ball
-    float ballY; // Ball Y coordinate
-    
-    void setup() {
-      size(600, 600); // Set window size
-      ballY = 50; // Initially, the ball is at the top of the screen (visible range)
-      String portName = Serial.list()[0];
-      myPort = new Serial(this, portName, 9600);
-    }
-    
-    void draw() {
-      background(255); // Set the background color to white
-    
-      if (ballExists) {
-        ballY += 2; // Control the ball's falling speed
-        // When the ball leaves the screen completely, we keep it at the top to wait for the next signal
-        if (ballY > height + 25) {
-          ballExists = false; // Reset the presence state of the ball
-          ballY = 50; // The ball returns to the top of the screen
-        }
-      }
-    
-      // Draw the ball only if it is present
-      if (ballExists) {
-        fill(0); // Set the fill color to black
-        noStroke();
-        ellipse(width / 2, ballY, 50, 50); // Draw ball
-      }
-    }
-    
-    void serialEvent(Serial p) {
-      String msg = p.readStringUntil('\n');
-      if (msg != null) {
-        msg = msg.trim();
-        if (msg.equals("CREATE_BALL")) {
-          ballExists = true; // When the signal is received, change the state of the ball so that it begins to fall
-        }
-      }
-    }
-                    </code>
-                </pre>
-            </div>
-        </div>
-    </div>
-    
-    <!-- Prism.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-arduino.min.js"></script>
-    <script>
-        function copyText() {
-            const textToCopy = document.querySelector('.frame-202 code').innerText;
-            navigator.clipboard.writeText(textToCopy).then(() => {
-                alert('Code copied to clipboard!');
-            }).catch(err => {
-                console.error('Failed to copy: ', err);
-            });
-        }
-    </script>
-      <img class="hao-1-1" src="images2/hao-1.png" />
-      <div
-        class="on-the-processing-side-the-variable-ball-exists-is-defined-to-detect-the-existence-of-the-ball-and-to-facilitate-the-signal-input-to-generate-the-ball-in-the-first-round-of-the-program-set-the-display-window-size-then-set-the-height-of-the-ball-generation-and-then-declare-the-input-port-to-link-with-the-arduino-for-the-second-round-of-the-program-first-define-the-background-color-as-white-the-ball-is-then-dropped-through-a-loop-statement-and-if-the-ball-falls-completely-off-the-screen-the-height-of-the-ball-is-reset-to-allow-it-to-re-generate-at-the-top-again-at-the-same-time-the-ball-is-only-drawn-when-processing-receives-a-pulse-value-greater-than-1000-the-third-program-on-the-other-hand-makes-a-determination-in-processing-again-but-it-only-generates-the-ball-and-lets-it-fall-when-it-receives-a-signal-from-the-arduino"
-      >
-        On the Processing side, the variable ballExists is defined to detect the
-        existence of the ball and to facilitate the signal input to generate the
-        ball. In the first round of the program, set the display window size, then
-        set the height of the ball generation, and then declare the input port to
-        link with the Arduino.For the second round of the program, first define
-        the background color as white. The ball is then dropped through a loop
-        statement, and if the ball falls completely off the screen, the height of
-        the ball is reset to allow it to re-generate at the top again. At the same
-        time, the ball is only drawn when Processing receives a pulse value
-        greater than 1000.The third program, on the other hand, makes a
-        determination in Processing again, but it only generates the ball and lets
-        it fall when it receives a signal from the Arduino.
-      </div>
-    </div>
-    <div class="line-2"></div>
-    <div class="frame-7">
-      <div class="frame-6">
-        <a class="mars" href="index.html">Mars</a>
-        <div class="frame-5">
-          <a class="about-us" href="About us.html">About us</a>
-          <a class="previous-projects" href="Previous projects.html">Previous projects</a>
-          <a class="team-members" href="Team Members.html">Team members</a>
-          <a class="final-project" href="Final project.html">Final project</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-</body>
-</html>
+ </body>
+ </html>
