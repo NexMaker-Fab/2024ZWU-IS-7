@@ -439,75 +439,56 @@
     </div>
     <div class="frame-26">
       <div class="frame-21">
-        <div class="frame-22">
-          <div class="processing-code">Processing Code:</div>
-        </div>
-        <div class="frame-23">
-          <div class="copy">copy</div>
-        </div>
+          <div class="frame-22">
+              <div class="processing-code">Processing Code:</div>
+          </div>
+          <div class="frame-23">
+              <div class="copy" onclick="copyText()">copy</div>
+          </div>
       </div>
       <div class="frame-20">
-        <div class="background-239-175-248-size-800-600-fill-236-197-108-rect-250-100-50-150-fill-236-223-108-triangle-400-100-700-300-100-300-quad-100-300-600-600-600-600-600-600-rect-200-300-400-300-fill-300-300-300-ellipse-500-400-100-100-fill-200-100-50-rect-250-400-100-300-fill-90-15-30-rect-0-400-300-50-rect-20-350-50-600-rect-100-350-50-600-rect-260-350-50-600-fill-149-189-218-ellipse-200-100-100-50-fill-205-230-228-ellipse-150-50-50-50">
-          background(239,175,248);
-          <br />
-          size(800,600);
-          <br />
-          fill(236,197,108);
-          <br />
-          rect(250,100,50,150);
-          <br />
-          fill(236,223,108);
-          <br />
-          triangle(400,100,700,300,100,300);
-          <br />
-          quad(100,300,600,600,600,600,600,600);
-          <br />
-          rect(200,300,400,300);
-          <br />
-          fill(300,300,300);
-          <br />
-          ellipse(500,400,100,100);
-          <br />
-          fill(200,100,50);
-          <br />
-          rect(250,400,100,300);
-          <br />
-          fill(90,15,30);
-          <br />
-          rect(0,400,300,50);
-          <br />
-          rect(20,350,50,600);
-          <br />
-          rect(100,350,50,600);
-          <br />
-          rect(260,350,50,600);
-          <br />
-          fill(149,189,218);
-          <br />
-          ellipse(200,100,100,50);
-          <br />
-          fill(205,230,228);
-          <br />
-          ellipse(150,50,50,50);
-        </div>
+          <pre>
+              <code class="language-javascript">
+  background(239,175,248);
+  size(800,600);
+  fill(236,197,108);
+  rect(250,100,50,150);
+  fill(236,223,108);
+  triangle(400,100,700,300,100,300);
+  quad(100,300,600,600,600,600,600,600);
+  rect(200,300,400,300);
+  fill(300,300,300);
+  ellipse(500,400,100,100);
+  fill(200,100,50);
+  rect(250,400,100,300);
+  fill(90,15,30);
+  rect(0,400,300,50);
+  rect(20,350,50,600);
+  rect(100,350,50,600);
+  rect(260,350,50,600);
+  fill(149,189,218);
+  ellipse(200,100,100,50);
+  fill(205,230,228);
+  ellipse(150,50,50,50);
+              </code>
+          </pre>
       </div>
-    </div>
-
-
-
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-java.min.js"></script>
+  </div>
+  
+  <!-- Prism.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-javascript.min.js"></script>
   <script>
-      function copyCode() {
-          const codeBlock = document.getElementById('code-block').innerText;
-          navigator.clipboard.writeText(codeBlock).then(() => {
-              alert('代码已复制到剪贴板!');
+      function copyText() {
+          const textToCopy = document.querySelector('.frame-20 code').innerText;
+          navigator.clipboard.writeText(textToCopy).then(() => {
+              alert('Code copied to clipboard!');
           }).catch(err => {
-              console.error('无法复制代码: ', err);
+              console.error('Failed to copy: ', err);
           });
       }
   </script>
+  
     
     <div class="rectangle-55"></div>
     <img class="_6-1" src="images/_6-10.png" />
