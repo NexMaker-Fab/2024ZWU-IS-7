@@ -4,7 +4,7 @@
 }
 .desktop-19 {
   background: #000000;
-  height: 23107px;
+  height: 21207px;
   position: relative;
   overflow: hidden;
 }
@@ -25,129 +25,6 @@
   transform-origin: 0 0;
   transform: rotate(45deg) scale(1, 1);
   filter: blur(96px);
-}
-.frame-68 {
-  display: flex;
-  flex-direction: column;
-  gap: 21px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: absolute;
-  left: 145px;
-  top: 246px;
-}
-.frame-11 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: relative;
-}
-.frame-10 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  width: 683px;
-  position: relative;
-}
-.h-1-heading {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-ExtraBold", sans-serif;
-  font-size: 92px;
-  line-height: 110%;
-  font-weight: 800;
-  position: relative;
-  align-self: stretch;
-}
-.frame-67 {
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: relative;
-}
-.prepare-tool-for-design {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-ExtraBold", sans-serif;
-  font-size: 40px;
-  line-height: 110%;
-  font-weight: 800;
-  position: relative;
-  width: 516px;
-  height: 47px;
-}
-.fusion-360-our-design-software {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-ExtraBold", sans-serif;
-  font-size: 24px;
-  line-height: 110%;
-  font-weight: 800;
-  position: relative;
-  width: 516px;
-  height: 42px;
-}
-.image-7 {
-  width: 1600px;
-  height: 849.12px;
-  position: absolute;
-  left: calc(50% - 799.5px);
-  top: 510px;
-  object-fit: cover;
-}
-.autodesk-fusion-360-is-a-cloud-software-tool-that-integrates-computer-aided-design-cad-computer-aided-manufacturing-cam-and-computer-aided-engineering-cae-widely-used-in-product-design-and-manufacturing {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(
-    --p1-paragraph-large-font-family,
-    "Inter-Regular",
-    sans-serif
-  );
-  font-size: var(--p1-paragraph-large-font-size, 22px);
-  line-height: var(--p1-paragraph-large-line-height, 150%);
-  font-weight: var(--p1-paragraph-large-font-weight, 400);
-  position: absolute;
-  left: calc(50% - 799.5px);
-  top: 1372px;
-  width: 1600px;
-}
-.in-this-project-we-will-create-a-device-similar-to-an-egg-twisting-machine-which-will-rotate-the-motor-and-gears-to-allow-the-balls-to-fall-one-by-one {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(
-    --p1-paragraph-large-font-family,
-    "Inter-Regular",
-    sans-serif
-  );
-  font-size: var(--p1-paragraph-large-font-size, 22px);
-  line-height: var(--p1-paragraph-large-line-height, 150%);
-  font-weight: var(--p1-paragraph-large-font-weight, 400);
-  position: absolute;
-  left: 145px;
-  top: 472px;
-  width: 1600px;
-  height: 75px;
-}
-.step-one-draw-sketches-create-basic-shapes-and-dimensions-of-the-wheel-and-funnel-and-create-3-d-models-using-tools-such-as-lifting-boolean-operations-and-chamfering {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: absolute;
-  left: calc(50% - 799.5px);
-  top: 1501px;
-  width: 1600px;
 }
 .frame-7 {
   background: rgba(255, 255, 255, 0.03);
@@ -230,339 +107,201 @@
   font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
 }
-.iw-ec-aq-nwbmc-daqtrb-4-af-0-qqd-br-a-gw-8-to-cb-15-qz-hn-qw-74-meab-9-jogy-8-t-caa-jomlt-cg-al-0-g-aea-2-y-1 {
+.frame-103 {
+  display: flex;
+  flex-direction: column;
+  gap: 43px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 146px;
+  top: 246px;
+}
+.frame-97 {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-68 {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-10 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 683px;
+  position: relative;
+}
+.h-1-heading {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 92px;
+  line-height: 110%;
+  font-weight: 800;
+  position: relative;
+  align-self: stretch;
+}
+.frame-67 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.prepare-tool-for-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 40px;
+  line-height: 110%;
+  font-weight: 800;
+  position: relative;
+  width: 516px;
+  height: 47px;
+}
+.fusion-360-our-design-software {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 24px;
+  line-height: 110%;
+  font-weight: 800;
+  position: relative;
+  width: 516px;
+  height: 42px;
+}
+.in-this-project-we-will-create-a-device-similar-to-an-egg-twisting-machine-which-will-rotate-the-motor-and-gears-to-allow-the-balls-to-fall-one-by-one {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+  height: 33px;
+}
+.image-7 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 849.12px;
+  position: relative;
+  object-fit: cover;
+}
+.autodesk-fusion-360-is-a-cloud-software-tool-that-integrates-computer-aided-design-cad-computer-aided-manufacturing-cam-and-computer-aided-engineering-cae-widely-used-in-product-design-and-manufacturing {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.step-one-draw-sketches-create-basic-shapes-and-dimensions-of-the-wheel-and-funnel-and-create-3-d-models-using-tools-such-as-lifting-boolean-operations-and-chamfering {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 1600px;
+}
+.image-2 {
+  flex-shrink: 0;
   width: 1600px;
   height: 804px;
-  position: absolute;
-  left: 161px;
-  top: 1616px;
+  position: relative;
   object-fit: cover;
 }
-._1-bc-1-d-5-b-67825267-cdf-0-e-7-ac-845-c-432-b-8-1 {
+.frame-102 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-98 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-3 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1347.9px;
+  position: relative;
+  object-fit: cover;
+}
+.step-twp-using-fusion-s-stretch-function-we-stretched-out-the-shape-on-top-of-the-sketch-we-had-made-and-chamfered-it {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 1600px;
+}
+.image-4 {
+  flex-shrink: 0;
   width: 1611px;
   height: 862px;
-  position: absolute;
-  left: 144px;
-  top: 3890px;
+  position: relative;
   object-fit: cover;
 }
-.image-53 {
+.image-5 {
+  flex-shrink: 0;
+  width: 1598px;
+  height: 963px;
+  position: relative;
+  object-fit: cover;
+}
+.image-6 {
+  flex-shrink: 0;
   width: 1600px;
   height: 856.11px;
-  position: absolute;
-  left: 151px;
-  top: 5970px;
-  object-fit: cover;
-}
-._2-b-072526712-d-5-b-68-e-697969-f-2-b-2216-ae-1 {
-  width: 1600px;
-  height: 856.11px;
-  position: absolute;
-  left: 145px;
-  top: 6967px;
-  object-fit: cover;
-}
-._5-e-9-e-847257-d-2740-df-4-d-6-a-3-eb-6767-f-4-ca-1 {
-  width: 1600px;
-  height: 856.04px;
-  position: absolute;
-  left: 161px;
-  top: 8004px;
-  object-fit: cover;
-}
-._07-ea-99-e-581-cae-0-e-34-dea-2904-ecaf-30-f-8-1 {
-  width: 1600px;
-  height: 856.04px;
-  position: absolute;
-  left: 161px;
-  top: 8917px;
-  object-fit: cover;
-}
-._9-a-1902728-df-3-f-9288-bc-21-f-934-c-78060-b-1 {
-  width: 1600px;
-  height: 855.72px;
-  position: absolute;
-  left: 161px;
-  top: 9823px;
-  object-fit: cover;
-}
-.to-create-a-cad-model-datum-before-modeling-you-need-to-create-some-basic-geometry-shapes-such-as-planes-circles-rectangles-etc-as-a-reference-and-aid-for-subsequent-modeling-choose-how-you-want-to-model-according-to-the-design-requirements-select-the-appropriate-modeling-method-common-cad-modeling-methods-include-solid-modeling-for-objects-with-well-defined-geometries-curve-modeling-it-is-suitable-for-the-modeling-of-complex-curves-patch-modeling-suitable-for-objects-with-a-large-amount-of-surface-detail-perform-cad-assembly-and-motion-analysis-if-the-product-consists-of-multiple-parts-the-assembly-function-of-the-cad-software-can-be-used-to-place-the-parts-in-the-correct-position-and-assemble-them-at-the-same-time-motion-analysis-can-be-performed-to-simulate-the-deformation-stress-and-collision-of-the-product-during-movement-cad-drawing-and-documentation-once-the-modeling-is-complete-2-d-drawings-and-sections-are-created-using-the-drawing-capabilities-of-the-cad-software-and-the-modeling-process-is-documented {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - -15.5px);
-  top: 10816px;
-  width: 800px;
-  height: 800px;
-}
-.gear-meshing-requires-the-same-modulus-modur-tangent-of-the-indexing-circles-and-the-diameter-of-the-indexing-circle-pidchidiamet-equal-to-the-number-of-teeth-tithnonber-multiplied-by-the-modulus {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 807.5px);
-  top: 11634px;
-  width: 1602px;
-  height: 69px;
-}
-.in-fusion-360-you-can-use-the-mc-mester-carr-parts-library-to-find-and-insert-various-mechanical-components-including-motors-and-steering-gears-please-follow-the-following-steps-1-click-insert-insert-mc-master-carr-parts-you-can-see-this-option-in-your-screenshot-2-in-the-pop-up-mc-master-carr-browser-window-search-for-the-type-of-motor-or-steering-gear-you-need-for-example-you-can-search-for-dc-motor-servo-motor-gear-motor-and-so-on-the-search-function-of-mc-master-carr-is-very-powerful-you-can-filter-according-to-various-parameters-such-as-size-voltage-speed-torque-etc-3-choose-the-right-model-browse-the-search-results-and-find-the-motor-or-steering-gear-model-that-meets-your-needs-4-configuration-model-parameters-optional-some-models-allow-you-to-configure-some-parameters-such-as-the-length-of-the-shaft-the-location-of-the-installation-hole-etc-5-click-insert-this-will-insert-the-selected-motor-or-steering-gear-model-into-your-fusion-360-design {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 805.5px);
-  top: 12590px;
-  width: 1602px;
-  height: 69px;
-}
-.the-product-consists-of-multiple-parts-which-can-be-placed-in-the-correct-position-and-assembled-using-the-assembly-function-of-cad-software-at-the-same-time-motion-analysis-can-be-performed-to-simulate-the-deformation-stress-and-collision-of-the-product-during-movement {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 798.5px);
-  top: 15799px;
-  width: 1602px;
-  height: 69px;
-}
-.automated-modeling-quickly-generates-design-alternatives-for-connecting-existing-geometries-in-your-design-adding-one-of-the-alternatives-to-your-design-creates-a-parametric-solid-body-that-is-editable-using-the-timeline-using-automated-modeling-speeds-up-the-modeling-process-by-suggesting-different-geometrical-shapes-that-you-can-use-to-complete-your-design-or-that-you-can-use-as-inspiration-for-a-final-design {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 798.5px);
-  top: 16816px;
-  width: 1602px;
-  height: 69px;
-}
-.to-access-automated-modeling-click-design-workspace-solid-automate-automated-modeling-if-the-selected-inputs-are-symmetrical-a-symmetry-plane-is-automatically-created-this-means-that-the-new-solid-body-will-also-be-symmetrical-about-this-plane {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 797.5px);
-  top: 17139px;
-  width: 1602px;
-  height: 69px;
-}
-.automated-modeling-generates-two-types-of-design-alternatives-smooth-connections-the-solid-body-that-is-connected-to-the-selected-faces-using-rounded-connections-see-1-sharp-connections-the-solid-body-that-is-connected-to-the-selected-faces-using-sharper-edge-like-connections-see-2 {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 795.5px);
-  top: 17322px;
-  width: 1602px;
-  height: 69px;
-}
-.automated-modeling-generates-two-types-of-design-alternatives-smooth-connections-the-solid-body-that-is-connected-to-the-selected-faces-using-rounded-connections-see-1-sharp-connections-the-solid-body-that-is-connected-to-the-selected-faces-using-sharper-edge-like-connections-see-2-span {
-  color: #ffffff;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-}
-.automated-modeling-generates-two-types-of-design-alternatives-smooth-connections-the-solid-body-that-is-connected-to-the-selected-faces-using-rounded-connections-see-1-sharp-connections-the-solid-body-that-is-connected-to-the-selected-faces-using-sharper-edge-like-connections-see-2-span2 {
-  color: #ffffff;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-}
-.features-multiple-modeling-tools-c-4-d-offers-a-wide-range-of-modeling-tools-including-polygon-modeling-nurbs-modeling-sculpting-and-volume-modeling-enabling-users-to-create-complex-3-d-models-powerful-animation-features-keyframe-animation-character-animation-physics-simulation-dynamics-and-more-are-supported-to-easily-create-natural-and-smooth-animation-effects-advanced-rendering-engine-produces-photorealistic-renderings-with-support-for-effects-such-as-physical-rendering-global-illumination-ambient-occlusion-and-global-reflections-rich-material-and-texture-libraries-users-can-use-preset-materials-or-create-custom-materials-to-enhance-the-look-of-their-models-simulation-and-dynamic-simulation-support-a-variety-of-simulations-such-as-cloth-simulation-liquid-simulation-smoke-simulation-and-fragmentation-simulation-to-add-realism-and-dynamics-to-the-scene-particle-and-effect-systems-supports-the-creation-and-control-of-particle-systems-simulates-effects-such-as-fire-explosions-raindrops-and-more-and-provides-a-variety-of-special-effect-tools-plug-in-and-scripting-interfaces-it-has-an-open-plug-in-and-scripting-interface-allowing-users-to-extend-the-functionality-of-the-software-by-installing-plug-ins-or-writing-custom-scripts {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 793.5px);
-  top: 19666px;
-  width: 1600px;
-  height: 558px;
-}
-.technical-background-formerly-known-as-fast-ray-software-released-in-1989-c-4-d-was-originally-released-on-the-amiga-platform-later-renamed-cinema-4-d-and-continues-to-be-updated-and-enhanced-in-multiple-versions-with-the-continuous-development-of-technology-c-4-d-has-become-the-software-of-choice-for-many-excellent-artists-and-film-companies-and-is-widely-used-in-advertising-film-industrial-design-and-other-fields-version-updates-c-4-d-2024-for-example-brings-modeling-improvements-powerful-enhancements-to-the-new-unified-simulation-system-significant-additions-to-the-node-editor-and-the-redshift-renderer-as-the-default-renderer-significantly-improving-the-performance-and-efficiency-of-the-software-application-cases-c-4-d-is-prominent-in-all-kinds-of-movies-depicted-and-is-valued-by-more-and-more-film-companies-at-the-same-time-its-application-is-also-widely-involved-in-advertising-industrial-design-and-other-fields-providing-strong-technical-support-for-creators {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: calc(50% - 793.5px);
-  top: 21127px;
-  width: 1600px;
-  height: 558px;
-}
-.dingtalk-20240602151718-1 {
-  width: 1600px;
-  height: 917px;
-  position: absolute;
-  left: 164px;
-  top: 20146px;
-  object-fit: cover;
-}
-.step-three-set-the-appropriate-size-for-the-gears {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: absolute;
-  left: calc(50% - 807.5px);
-  top: 11608px;
-  width: 1600px;
-}
-.step-four-insert-the-motor-by-inserting-the-manufacturer-part {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: absolute;
-  left: calc(50% - 807.5px);
-  top: 12540px;
-  width: 1600px;
-}
-.step-five-add-dynamic-motion-to-modeling-simulate-the-movement-of-the-machine-and-record-video {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: absolute;
-  left: calc(50% - 798.5px);
-  top: 15737px;
-  width: 1600px;
-}
-.practice-for-automated-modeling {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: absolute;
-  left: calc(50% - 797.5px);
-  top: 16761px;
-  width: 1600px;
-}
-.c-4-d-or-cinema-4-d-is-a-powerful-3-d-modeling-animation-and-rendering-software-developed-by-maxon-computer-in-germany {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: absolute;
-  left: calc(50% - 793.5px);
-  top: 18608px;
-  width: 1600px;
-}
-.iw-ec-aq-nwbmc-daqtrb-4-af-0-qp-9-br-awo-t-4-m-pd-00-lazhx-zq-4-xnc-ab-9-jogy-8-t-caa-jomlt-cg-al-0-g-ai-vo-e-1 {
-  width: 1602px;
-  height: 800px;
-  position: absolute;
-  left: 149px;
-  top: 11703px;
-  object-fit: cover;
-}
-.iw-ec-aq-nna-wydaqtr-aw-uf-0-q-kr-br-dpk-55-gl-lvgtqz-gu-f-3-h-00-uab-9-jogy-8-t-caa-jomlt-cg-al-0-g-ay-vu-8-1 {
-  width: 782.4px;
-  height: 800px;
-  position: absolute;
-  left: 158px;
-  top: 14838px;
-  object-fit: cover;
-}
-.iw-ed-aq-nna-wydaqtr-ajw-f-0-qic-br-dsq-3-so-wo-ws-2-w-z-gtu-wpv-30-ab-9-jogy-8-t-caa-jomlt-cg-al-0-g-ajrn-a-1 {
-  width: 702px;
-  height: 800px;
-  position: absolute;
-  left: 1056px;
-  top: 14838px;
-  object-fit: cover;
-}
-.iw-ec-aq-nwbmc-daqtrb-4-af-0-qp-9-br-d-03-t-0-znioag-zh-xj-dfui-iab-9-jogy-8-t-caa-jomlt-cg-al-0-g-a-dmf-4-1 {
-  width: 1600px;
-  height: 793px;
-  position: absolute;
-  left: 160px;
-  top: 15904px;
-  object-fit: cover;
-}
-.iw-ee-aq-nwbmc-daqtrbbaf-0-q-jp-br-b-5-b-bvgm-zs-n-7-w-zg-qx-gz-5-s-ab-9-jogy-8-t-caa-jomlt-cg-al-0-g-ah-0-po-1 {
-  width: 800.06px;
-  height: 745.92px;
-  position: absolute;
-  left: 150px;
-  top: 10747px;
-  object-fit: cover;
-}
-._1614242005425840-1 {
-  width: 1600px;
-  height: 924px;
-  position: absolute;
-  left: 164px;
-  top: 18670px;
-  object-fit: cover;
-}
-.image-41 {
-  width: 1602px;
-  height: 756px;
-  position: absolute;
-  left: 152px;
-  top: 13132px;
-  object-fit: cover;
-}
-.image-42 {
-  width: 1602px;
-  height: 866px;
-  position: absolute;
-  left: 152px;
-  top: 13924px;
-  object-fit: cover;
-}
-.iw-ec-aq-nwbmc-daqtrb-4-af-0-qcp-br-cf-st-dy-u-2-jiaz-hm-isd-7-euab-9-jq-izi-7-caa-jomlt-cg-al-0-g-a-ah-8-m-1 {
-  width: 1600px;
-  height: 136px;
-  position: absolute;
-  left: 160px;
-  top: 16957px;
-  object-fit: cover;
-}
-.iw-ec-aq-nwbmc-daqtrb-4-af-0-qqd-br-aefp-f-dw-fo-az-hml-oh-ok-ab-9-jogy-8-t-caa-jomlt-cg-al-0-g-a-ic-9-c-1 {
-  width: 1600px;
-  height: 1012.1px;
-  position: absolute;
-  left: 159px;
-  top: 17455px;
+  position: relative;
   object-fit: cover;
 }
 .chamfering-is-an-important-part-of-modeling-which-prevents-our-device-from-getting-stuck-on-the-objects-we-need-to-handle-and-also-reduces-damage-to-the-device-and-keeps-the-system-up-and-running {
@@ -576,10 +315,15 @@
   font-size: var(--p1-paragraph-large-font-size, 22px);
   line-height: var(--p1-paragraph-large-line-height, 150%);
   font-weight: var(--p1-paragraph-large-font-weight, 400);
-  position: absolute;
-  left: calc(50% - 808.5px);
-  top: 6865px;
+  position: relative;
   width: 1600px;
+}
+.image-72 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 856.11px;
+  position: relative;
+  object-fit: cover;
 }
 .with-the-alignment-function-the-parts-can-be-easily-assembled-because-all-the-parts-are-rotated-together-on-a-common-axis-such-a-two-gear-construction-is-much-more-reliable-than-a-four-gear-one-because-of-the-tolerances-created-by-3-d-printing {
   color: #ffffff;
@@ -592,24 +336,296 @@
   font-size: var(--p1-paragraph-large-font-size, 22px);
   line-height: var(--p1-paragraph-large-line-height, 150%);
   font-weight: var(--p1-paragraph-large-font-weight, 400);
-  position: absolute;
-  left: calc(50% - 808.5px);
-  top: 7881px;
+  position: relative;
   width: 1600px;
 }
-.image-54 {
-  width: 1598px;
-  height: 963px;
-  position: absolute;
-  left: 161px;
-  top: 4843px;
+.image-8 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 856.04px;
+  position: relative;
   object-fit: cover;
 }
-._015338-f-5-0-f-15-4-dd-8-8-e-40-1318-e-70-c-54-b-9-1 {
+.image-9 {
+  flex-shrink: 0;
   width: 1600px;
-  height: 1347.9px;
-  position: absolute;
-  left: 161px;
-  top: 2466px;
+  height: 856.04px;
+  position: relative;
   object-fit: cover;
+}
+.image-10 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 855.72px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-101 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-99 {
+  display: flex;
+  flex-direction: row;
+  gap: 23px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-11 {
+  flex-shrink: 0;
+  width: 800.06px;
+  height: 745.92px;
+  position: relative;
+  object-fit: cover;
+}
+.to-create-a-cad-model-datum-before-modeling-you-need-to-create-some-basic-geometry-shapes-such-as-planes-circles-rectangles-etc-as-a-reference-and-aid-for-subsequent-modeling-choose-how-you-want-to-model-according-to-the-design-requirements-select-the-appropriate-modeling-method-common-cad-modeling-methods-include-solid-modeling-for-objects-with-well-defined-geometries-curve-modeling-it-is-suitable-for-the-modeling-of-complex-curves-patch-modeling-suitable-for-objects-with-a-large-amount-of-surface-detail-perform-cad-assembly-and-motion-analysis-if-the-product-consists-of-multiple-parts-the-assembly-function-of-the-cad-software-can-be-used-to-place-the-parts-in-the-correct-position-and-assemble-them-at-the-same-time-motion-analysis-can-be-performed-to-simulate-the-deformation-stress-and-collision-of-the-product-during-movement-cad-drawing-and-documentation-once-the-modeling-is-complete-2-d-drawings-and-sections-are-created-using-the-drawing-capabilities-of-the-cad-software-and-the-modeling-process-is-documented {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 800px;
+  height: 677px;
+}
+.step-three-set-the-appropriate-size-for-the-gears {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 1600px;
+}
+.gear-meshing-requires-the-same-modulus-modur-tangent-of-the-indexing-circles-and-the-diameter-of-the-indexing-circle-pidchidiamet-equal-to-the-number-of-teeth-tithnonber-multiplied-by-the-modulus {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1602px;
+  height: 69px;
+}
+.image-12 {
+  flex-shrink: 0;
+  width: 1602px;
+  height: 800px;
+  position: relative;
+  object-fit: cover;
+}
+.step-four-insert-the-motor-by-inserting-the-manufacturer-part {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 1600px;
+}
+.in-fusion-360-you-can-use-the-mc-mester-carr-parts-library-to-find-and-insert-various-mechanical-components-including-motors-and-steering-gears-please-follow-the-following-steps-1-click-insert-insert-mc-master-carr-parts-you-can-see-this-option-in-your-screenshot-2-in-the-pop-up-mc-master-carr-browser-window-search-for-the-type-of-motor-or-steering-gear-you-need-for-example-you-can-search-for-dc-motor-servo-motor-gear-motor-and-so-on-the-search-function-of-mc-master-carr-is-very-powerful-you-can-filter-according-to-various-parameters-such-as-size-voltage-speed-torque-etc-3-choose-the-right-model-browse-the-search-results-and-find-the-motor-or-steering-gear-model-that-meets-your-needs-4-configuration-model-parameters-optional-some-models-allow-you-to-configure-some-parameters-such-as-the-length-of-the-shaft-the-location-of-the-installation-hole-etc-5-click-insert-this-will-insert-the-selected-motor-or-steering-gear-model-into-your-fusion-360-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1602px;
+  height: 509px;
+}
+.image-13 {
+  flex-shrink: 0;
+  width: 1602px;
+  height: 756px;
+  position: relative;
+  object-fit: cover;
+}
+.image-14 {
+  flex-shrink: 0;
+  width: 1602px;
+  height: 866px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-100 {
+  display: flex;
+  flex-direction: row;
+  gap: 116px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-15 {
+  flex-shrink: 0;
+  width: 782.4px;
+  height: 800px;
+  position: relative;
+  object-fit: cover;
+}
+.image-16 {
+  flex-shrink: 0;
+  width: 702px;
+  height: 800px;
+  position: relative;
+  object-fit: cover;
+}
+.step-five-add-dynamic-motion-to-modeling-simulate-the-movement-of-the-machine-and-record-video {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 1600px;
+}
+.the-product-consists-of-multiple-parts-which-can-be-placed-in-the-correct-position-and-assembled-using-the-assembly-function-of-cad-software-at-the-same-time-motion-analysis-can-be-performed-to-simulate-the-deformation-stress-and-collision-of-the-product-during-movement {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1602px;
+  height: 69px;
+}
+.image-17 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 793px;
+  position: relative;
+  object-fit: cover;
+}
+.practice-for-automated-modeling {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 1600px;
+}
+.automated-modeling-quickly-generates-design-alternatives-for-connecting-existing-geometries-in-your-design-adding-one-of-the-alternatives-to-your-design-creates-a-parametric-solid-body-that-is-editable-using-the-timeline-using-automated-modeling-speeds-up-the-modeling-process-by-suggesting-different-geometrical-shapes-that-you-can-use-to-complete-your-design-or-that-you-can-use-as-inspiration-for-a-final-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1602px;
+  height: 132px;
+}
+.image-18 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 136px;
+  position: relative;
+  object-fit: cover;
+}
+.to-access-automated-modeling-click-design-workspace-solid-automate-automated-modeling-if-the-selected-inputs-are-symmetrical-a-symmetry-plane-is-automatically-created-this-means-that-the-new-solid-body-will-also-be-symmetrical-about-this-plane {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1602px;
+  height: 120px;
+}
+.automated-modeling-generates-two-types-of-design-alternatives-smooth-connections-the-solid-body-that-is-connected-to-the-selected-faces-using-rounded-connections-see-1-sharp-connections-the-solid-body-that-is-connected-to-the-selected-faces-using-sharper-edge-like-connections-see-2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1602px;
+  height: 99px;
+}
+.automated-modeling-generates-two-types-of-design-alternatives-smooth-connections-the-solid-body-that-is-connected-to-the-selected-faces-using-rounded-connections-see-1-sharp-connections-the-solid-body-that-is-connected-to-the-selected-faces-using-sharper-edge-like-connections-see-2-span {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.automated-modeling-generates-two-types-of-design-alternatives-smooth-connections-the-solid-body-that-is-connected-to-the-selected-faces-using-rounded-connections-see-1-sharp-connections-the-solid-body-that-is-connected-to-the-selected-faces-using-sharper-edge-like-connections-see-2-span2 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.image-19 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1012.1px;
+  position: relative;
+  object-fit: cover;
+}
+.c-4-d-or-cinema-4-d-is-a-powerful-3-d-modeling-animation-and-rendering-software-developed-by-maxon-computer-in-germany {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 1600px;
+}
+.image-20 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 924px;
+  position: relative;
+  object-fit: cover;
+}
+.features-multiple-modeling-tools-c-4-d-offers-a-wide-range-of-modeling-tools-including-polygon-modeling-nurbs-modeling-sculpting-and-volume-modeling-enabling-users-to-create-complex-3-d-models-powerful-animation-features-keyframe-animation-character-animation-physics-simulation-dynamics-and-more-are-supported-to-easily-create-natural-and-smooth-animation-effects-advanced-rendering-engine-produces-photorealistic-renderings-with-support-for-effects-such-as-physical-rendering-global-illumination-ambient-occlusion-and-global-reflections-rich-material-and-texture-libraries-users-can-use-preset-materials-or-create-custom-materials-to-enhance-the-look-of-their-models-simulation-and-dynamic-simulation-support-a-variety-of-simulations-such-as-cloth-simulation-liquid-simulation-smoke-simulation-and-fragmentation-simulation-to-add-realism-and-dynamics-to-the-scene-particle-and-effect-systems-supports-the-creation-and-control-of-particle-systems-simulates-effects-such-as-fire-explosions-raindrops-and-more-and-provides-a-variety-of-special-effect-tools-plug-in-and-scripting-interfaces-it-has-an-open-plug-in-and-scripting-interface-allowing-users-to-extend-the-functionality-of-the-software-by-installing-plug-ins-or-writing-custom-scripts {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 480px;
+}
+.image-21 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 917px;
+  position: relative;
+  object-fit: cover;
+}
+.technical-background-formerly-known-as-fast-ray-software-released-in-1989-c-4-d-was-originally-released-on-the-amiga-platform-later-renamed-cinema-4-d-and-continues-to-be-updated-and-enhanced-in-multiple-versions-with-the-continuous-development-of-technology-c-4-d-has-become-the-software-of-choice-for-many-excellent-artists-and-film-companies-and-is-widely-used-in-advertising-film-industrial-design-and-other-fields-version-updates-c-4-d-2024-for-example-brings-modeling-improvements-powerful-enhancements-to-the-new-unified-simulation-system-significant-additions-to-the-node-editor-and-the-redshift-renderer-as-the-default-renderer-significantly-improving-the-performance-and-efficiency-of-the-software-application-cases-c-4-d-is-prominent-in-all-kinds-of-movies-depicted-and-is-valued-by-more-and-more-film-companies-at-the-same-time-its-application-is-also-widely-involved-in-advertising-industrial-design-and-other-fields-providing-strong-technical-support-for-creators {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 363px;
 }

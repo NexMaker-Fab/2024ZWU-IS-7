@@ -1,0 +1,502 @@
+.desktop-28,
+.desktop-28 * {
+  box-sizing: border-box;
+}
+.desktop-28 {
+  background: #000000;
+  height: 13669px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-17 {
+  background: conic-gradient(
+    from 137.73deg at 50% 50%,
+    rgba(0, 0, 0, 1) 6.499350816011429%,
+    rgba(224, 35, 136, 1) 46.89826965332031%,
+    rgba(39, 99, 183, 1) 53.4933865070343%,
+    rgba(20, 52, 97, 0.53) 74.00311231613159%,
+    rgba(0, 0, 0, 1) 96.79219126701355%
+  );
+  width: 1000px;
+  height: 1100px;
+  position: absolute;
+  left: 1451.86px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(45deg) scale(1, 1);
+  filter: blur(96px);
+}
+.frame-7 {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: rgba(233, 233, 233, 0.62);
+  border-width: 1px;
+  padding: 16px 88px 16px 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 815px);
+  top: 89px;
+  backdrop-filter: blur(30px);
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 777px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1454px;
+  position: relative;
+}
+.mars {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.previous-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.final-project {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.frame-111 {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 162px;
+  top: 217px;
+}
+._3-d-printing {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+}
+.frame-110 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-106 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-104 {
+  display: flex;
+  flex-direction: row;
+  gap: 140px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-39 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.material {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.poly-ether-ether-ketone-has-excellent-mechanical-and-heat-resistance-properties-and-is-widely-used-in-aerospace-automotive-medical-equipment-and-other-fields-3-d-printing-technology-can-make-this-material-into-parts-with-complex-shapes-such-as-turbine-blades-engine-components-and-more-in-addition-new-aerospace-materials-such-as-carbon-fiber-composites-are-difficult-to-process-with-conventional-technologies-but-3-d-printing-can-greatly-shorten-the-production-process-by-enabling-the-overall-molding-of-complex-parts {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 752px;
+  height: 303px;
+}
+.image-1 {
+  flex-shrink: 0;
+  width: 344px;
+  height: 344px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-105 {
+  display: flex;
+  flex-direction: row;
+  gap: 130px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-40 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.application {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.in-the-field-of-surgical-preparation-3-d-printing-is-making-waves-medical-professionals-can-now-create-3-d-models-of-patient-anatomy-to-better-plan-complex-surgeries-for-example-the-heart-is-structurally-complex-and-3-d-printed-models-can-accurately-replicate-the-typical-anatomy-of-cardiovascular-diseases-such-as-congenital-heart-disease-this-advancement-can-usher-in-a-new-era-of-personalized-medicine-by-enabling-more-precise-surgeries-reducing-risk-and-reducing-recovery-time {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 752px;
+  height: 303px;
+}
+.image-2 {
+  flex-shrink: 0;
+  width: 344px;
+  height: 458px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-41 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.technology {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.associate-professor-zhang-hao-academician-li-jinghong-of-the-department-of-chemistry-of-tsinghua-university-associate-professor-lin-linhan-and-professor-sun-hongbo-of-the-department-of-precision-instruments-jointly-developed-a-new-method-of-3-d-printing-of-nanomaterials-referred-to-as-3-d-pin-which-realizes-the-nanoscale-3-d-printing-of-a-variety-of-inorganic-nanomaterials-by-introducing-photosensitive-nitrogen-bin-small-molecules-with-a-high-proportion-of-inorganic-components-in-the-structure-and-excellent-mechanical-properties-and-tunable-optical-properties {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 752px;
+  height: 303px;
+}
+.frame-109 {
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 219px;
+  position: relative;
+}
+.use-slice-software-to-setting-parameter {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+  width: 1619px;
+  height: 261px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._1-use-cura {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.image-3 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 777.38px;
+  position: relative;
+  object-fit: cover;
+}
+._2-click-on-the-red-box-area-to-import-3-d-model-files-such-as-obj-files {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.image-4 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 857.5px;
+  position: relative;
+  object-fit: cover;
+}
+._3-click-on-the-red-box-area-to-rotate-the-3-d-print-so-that-it-lies-flat-on-a-horizontal-plane {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.image-5 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 857.5px;
+  position: relative;
+  overflow: visible;
+  object-fit: cover;
+}
+._4-click-on-the-red-boxed-area-to-enlarge-the-3-d-print-after-rotating-it {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.image-6 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 857.5px;
+  position: relative;
+  object-fit: cover;
+}
+._5-click-on-the-red-box-and-adjust-the-print-parameters-in-the-green-box {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.image-7 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 857.5px;
+  position: relative;
+  object-fit: cover;
+}
+._6-click-on-the-red-boxed-area-to-slice {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.image-8 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 857.5px;
+  position: relative;
+  object-fit: cover;
+}
+._7-just-click-on-the-red-boxed-area-to-save-the-gcode-format {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.image-9 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 857.5px;
+  position: relative;
+  object-fit: cover;
+}
+.use-3-d-printer-to-manufacture-it {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+}
+.image-10 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1200px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-108 {
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.postprocess-the-surface {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+}
+.remove-the-excess-with-a-pencil-sharpener-and-sandpaper {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-107 {
+  display: flex;
+  flex-direction: row;
+  gap: 400px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-11 {
+  flex-shrink: 0;
+  width: 600px;
+  height: 800px;
+  position: relative;
+  object-fit: cover;
+}
+._00-e-13-cff-62-a-27032128-bedac-1-f-0-af-0-de-1 {
+  flex-shrink: 0;
+  width: 600px;
+  height: 800px;
+  position: relative;
+  object-fit: cover;
+}
+.read-gcode {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+}
+.image-12 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 640.45px;
+  position: relative;
+  object-fit: cover;
+}
+.g-1-x-212-333-y-158-505-e-0-02714-it-means-g-1-this-is-a-linear-interpolation-instruction-which-means-that-the-control-machine-will-move-along-a-straight-line-to-the-target-position-at-a-set-speed-and-will-perform-machining-such-as-extruding-material-3-d-printing-or-making-cuts-as-it-moves-x-212-333-the-x-coordinate-of-the-target-position-is-212-333-millimeters-or-other-units-depending-on-your-machine-settings-y-158-505-the-y-coordinate-of-the-target-position-is-158-505-mm-or-other-units-e-0-02714-e-usually-stands-for-extruder-and-indicates-that-the-extruder-needs-to-extrude-0-02714-mm-of-material-or-other-units-during-the-move-to-the-target-position-to-summarize-this-g-code-instruction-instructs-your-machine-to-move-in-a-straight-line-to-the-coordinates-x-212-333-y-158-505-and-to-extrude-0-02714-mm-of-material-in-the-process {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
