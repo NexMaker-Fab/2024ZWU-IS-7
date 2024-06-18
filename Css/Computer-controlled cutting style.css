@@ -1,0 +1,921 @@
+.desktop-29,
+.desktop-29 * {
+  box-sizing: border-box;
+}
+.desktop-29 {
+  background: var(--0d0c11, #0d0c11);
+  height: 25975px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.rectangle-17 {
+  background: conic-gradient(
+    from 137.73deg at 50% 50%,
+    rgba(0, 0, 0, 1) 6.499350816011429%,
+    rgba(224, 35, 136, 1) 46.89826965332031%,
+    rgba(39, 99, 183, 1) 53.4933865070343%,
+    rgba(20, 52, 97, 0.53) 74.00311231613159%,
+    rgba(0, 0, 0, 1) 96.79219126701355%
+  );
+  width: 1000px;
+  height: 1100px;
+  position: absolute;
+  left: 1436.36px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(45deg) scale(1, 1);
+  filter: blur(96px);
+}
+.frame-7 {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: rgba(233, 233, 233, 0.62);
+  border-width: 1px;
+  padding: 16px 88px 16px 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 815px);
+  top: 89px;
+  backdrop-filter: blur(30px);
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 777px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1454px;
+  position: relative;
+}
+.mars {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.previous-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.more {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.frame-125 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 160px;
+  top: 230px;
+}
+.computer-controlled-cutting {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+}
+.laser-cutting {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+  width: 1271px;
+  height: 115px;
+}
+.image-1 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1066.67px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-112 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.how-to-keep-safety {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 42.3px;
+}
+._1-personnel-training-personnel-performing-laser-cutting-operations-must-be-specially-trained-and-carefully-read-the-instruction-manuals-for-the-laser-laser-cutter-laser-cutting-head-and-other-components-before-operation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.image-2 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1067.64px;
+  position: relative;
+  object-fit: cover;
+}
+.image-3 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 2266.09px;
+  position: relative;
+  object-fit: cover;
+}
+._2-standard-operating-procedures-start-and-operate-the-machine-in-accordance-with-standard-procedures-especially-when-adjusting-the-external-light-path-to-ensure-that-the-light-path-range-do-not-stand-people-the-operator-dimming-also-need-to-ensure-that-the-human-light-will-not-be-harmed {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.image-4 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1062.4px;
+  position: relative;
+  object-fit: cover;
+}
+._3-safety-precautions-ensure-relevant-safety-precautions-such-as-having-enough-fire-extinguishers-for-emergencies-and-wearing-professional-protective-gear-such-as-protective-eyewear-and-gloves {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.image-5 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 854.79px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-124 {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._4-pay-attention-to-material-selection-and-processing-when-using-the-laser-cutter-the-operator-should-pay-attention-to-the-selection-of-suitable-materials-and-processing-methods-avoiding-the-use-of-flammable-and-explosive-substances-or-materials-harmful-to-the-human-body {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.learn-cnc {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 42.3px;
+}
+.cnc-technology-is-also-called-computer-numerical-control-technology-cnc-computerized-numerical-control-it-is-the-use-of-computers-to-achieve-digital-program-control-technology-this-technology-uses-computers-to-perform-the-logical-control-function-of-the-operation-sequence-of-the-equipment-s-trajectory-and-peripherals-according-to-the-control-program-stored-in-advance-as-a-result-of-the-use-of-computers-to-replace-the-original-hardware-logic-circuits-composed-of-numerical-control-devices-so-that-the-input-operating-instructions-for-storage-processing-arithmetic-logic-judgment-and-other-control-functions-can-be-achieved-through-the-computer-software-to-complete-the-processing-of-micro-commands-generated-by-the-servo-drive-device-to-drive-the-motor-or-hydraulic-actuators-to-drive-the-equipment-operation-cnc-professional-is-to-cultivate-mastery-of-cnc-technology-and-application-of-basic-theory-basic-knowledge-can-be-engaged-in-the-production-of-the-first-line-of-production-management-product-marketing-equipment-maintenance-and-other-work-needs-of-the-application-of-senior-technical-personnel {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 264px;
+}
+.image-6 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1199.4px;
+  position: relative;
+  object-fit: cover;
+}
+.cnc-machine-tool-equipment-improves-productivity-and-product-quality-compared-with-traditional-processing-methods-cnc-equipment-is-characterized-by-high-precision-and-high-efficiency-through-digital-control-cnc-equipment-can-accurately-control-each-processing-link-reduce-human-error-and-ensure-the-stability-and-consistency-of-product-quality-this-not-only-improves-the-production-efficiency-but-also-reduces-the-scrap-rate-and-saves-cost-for-the-enterprise-promoted-the-transformation-and-upgrading-of-the-manufacturing-industry-with-the-increasing-demand-for-consumer-personalization-and-diversification-of-products-the-traditional-processing-methods-have-been-unable-to-meet-the-market-demand-and-cnc-equipment-can-realize-the-processing-of-complex-shapes-and-fine-features-through-programming-and-software-control-providing-strong-support-for-the-transformation-and-upgrading-of-the-manufacturing-industry-at-the-same-time-the-degree-of-intelligence-and-automation-of-cnc-equipment-is-getting-higher-and-higher-making-the-manufacturing-industry-better-able-to-adapt-to-market-changes-and-user-needs-it-helps-to-improve-the-competitiveness-of-enterprises-in-the-context-of-globalized-competition-the-competitiveness-of-enterprises-depends-on-the-quality-and-innovation-of-products-and-cnc-equipment-as-a-core-tool-of-modern-industrial-manufacturing-can-help-enterprises-quickly-respond-to-market-changes-and-launch-competitive-products-at-the-same-time-through-the-introduction-of-advanced-cnc-equipment-and-technology-enterprises-can-also-improve-their-own-technical-level-and-research-and-development-capabilities-so-as-to-better-respond-to-market-challenges-and-opportunities {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 461px;
+}
+.image-7 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1325.94px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-123 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cnc-machine-type {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 42.3px;
+}
+.cnc-machine-tools-is-a-digital-control-machine-tools-computer-numerical-control-machine-tools-is-a-program-control-system-equipped-with-automated-machine-tools-cnc-machine-tools-realize-the-complexity-precision-small-batch-multi-species-parts-processing-is-a-flexible-high-performance-automated-machine-tools-representing-the-direction-of-development-of-modern-machine-tool-control-technology-there-are-many-types-of-cnc-machine-tools-which-can-be-categorized-in-different-ways-according-to-the-classification-of-process-use-according-to-the-classification-of-motion-control-mode-and-servo-control-mode-and-so-on {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 165px;
+}
+.process-use-classification {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 42.3px;
+}
+.general-cnc-machine-tools {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 29px;
+}
+.ordinary-cnc-machine-tools-generally-refers-to-a-process-in-the-machining-process-to-achieve-digital-control-of-automated-machine-tools-such-as-cnc-milling-machine-cnc-lathe-cnc-drilling-machine-cnc-grinding-machine-and-cnc-gear-processing-machine-tools-and-so-on-ordinary-cnc-machine-tools-in-the-degree-of-automation-is-not-perfect-tool-replacement-and-clamping-of-parts-still-need-to-be-completed-manually {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 99px;
+}
+.image-8 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1282.19px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-122 {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.machining-centers {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 29px;
+}
+.machining-centers-are-cnc-machine-tools-with-tool-magazines-and-automatic-tool-changers-which-combine-the-functions-of-cnc-milling-machines-cnc-boring-machines-and-cnc-drilling-machines-and-the-parts-can-be-milled-with-most-of-their-machined-surfaces-after-one-clamping {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.image-9 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1287.54px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-121 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.classification-of-movement-styles {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 42.3px;
+}
+.point-control-cnc-machine-tools {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 29px;
+}
+.the-cnc-system-only-controls-the-exact-position-of-the-tool-from-one-point-to-another-without-controlling-the-trajectory-of-the-movement-the-movement-between-the-coordinate-axes-is-irrelevant-and-the-workpiece-is-not-processed-during-the-movement-these-cnc-machine-tools-are-mainly-cnc-drilling-machines-cnc-coordinate-boring-machines-cnc-punching-machines-and-so-on {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 99px;
+}
+.image-10 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1198.82px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-120 {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.linear-control-cnc-machine-tools {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 29px;
+}
+.cnc-system-in-addition-to-controlling-the-exact-position-between-the-point-and-the-point-but-also-to-ensure-that-the-trajectory-of-the-movement-between-the-two-points-is-a-straight-line-and-the-speed-of-movement-should-also-be-controlled-also-known-as-point-linear-control-this-type-of-cnc-machine-tool-is-mainly-a-relatively-simple-cnc-lathe-cnc-milling-machine-cnc-grinding-machine-and-so-on-cnc-machine-tools-used-solely-for-linear-control-has-been-rare {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 132px;
+}
+.image-11 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1355.15px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-119 {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.contour-control-cnc-machine-tools {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 29px;
+}
+.contour-control-is-characterized-by-the-ability-to-two-or-more-movement-coordinates-of-displacement-and-speed-at-the-same-time-for-continuous-related-control-it-is-not-only-to-control-the-machine-tool-moving-parts-of-the-starting-point-and-end-point-coordinates-but-also-to-control-the-entire-machining-process-of-each-point-of-the-speed-direction-and-displacement-also-known-as-the-continuous-control-of-cnc-machine-tools-these-cnc-machine-tools-are-mainly-cnc-lathes-cnc-milling-machines-cnc-wire-cutting-machine-tools-machining-centers-and-so-on {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 132px;
+}
+.image-12 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1289.06px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-118 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.classification-of-control-methods {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 37px;
+}
+.open-loop-control-cnc-machine-tools {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 29px;
+}
+.this-type-of-machine-tool-does-not-have-a-position-detection-feedback-device-and-usually-uses-a-stepping-motor-as-the-actuator-the-input-data-is-calculated-by-the-numerical-control-system-and-a-pulse-command-is-issued-to-make-the-stepping-motor-turn-through-a-step-angle-which-is-then-converted-into-a-straight-line-movement-of-the-table-through-the-mechanical-transmission-mechanism-and-the-moving-speed-and-displacement-of-the-moving-parts-are-determined-by-the-frequency-of-the-input-pulse-and-the-number-of-pulses {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 146px;
+}
+.image-13 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1073.2px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-117 {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.semi-closed-loop-control-cnc-machine-tools {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 29px;
+}
+.a-detection-element-such-as-an-inductive-synchronizer-or-a-photoelectric-encoder-etc-is-installed-at-the-end-of-the-motor-or-the-end-of-the-screw-to-indirectly-detect-the-displacement-of-the-moving-part-by-detecting-its-rotational-angle-which-is-then-fed-back-into-the-numerical-control-system-since-most-of-the-mechanical-transmission-links-are-not-included-in-the-closed-loop-loop-of-the-system-more-stable-control-characteristics-can-be-obtained-its-control-accuracy-is-not-as-good-as-the-closed-loop-control-cnc-machine-tools-but-debugging-is-more-convenient-and-therefore-is-widely-used {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 132px;
+}
+.image-14 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1028.57px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-116 {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.closed-loop-control-cnc-machine-tools {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 29px;
+}
+.this-kind-of-cnc-machine-tool-with-position-detection-and-feedback-device-its-position-detection-and-feedback-device-using-linear-displacement-detection-element-directly-installed-in-the-moving-parts-of-the-machine-tool-the-measurement-results-will-be-directly-feedback-to-the-numerical-control-device-through-the-feedback-can-be-eliminated-from-the-motor-to-the-machine-tool-moving-parts-of-the-entire-mechanical-transmission-chain-in-the-transmission-error-and-ultimately-realize-the-precise-positioning {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 146px;
+}
+.frame-115 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cnc-applications {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 42.3px;
+}
+.machinery-industry {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 42.3px;
+}
+.it-is-used-for-processing-mechanical-parts-molds-bearings-and-other-parts-which-can-improve-processing-accuracy-and-efficiency-it-is-widely-used-in-machinery-manufacturing-and-has-an-important-role-in-promoting-the-development-of-the-machinery-industry {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 146px;
+}
+.aerospace-industry-is-a-high-precision-and-demanding-industry-where-cnc-lathes-are-widely-used-through-the-application-of-cnc-systems-the-manufacturing-precision-and-stability-of-parts-can-be-greatly-improved-to-ensure-the-safety-and-reliability-of-aircraft-satellites-and-other-equipment {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.automotive {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 29px;
+}
+.automobile-manufacturing-requires-a-large-number-of-parts-the-application-of-cnc-lathe-can-significantly-improve-production-efficiency-and-production-quality-at-the-same-time-the-processing-requirements-of-automobile-parts-are-very-high-cnc-lathe-can-ensure-the-accuracy-and-repeatability-of-processing-improve-production-efficiency-and-quality {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 99px;
+}
+.service-industry {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 29px;
+}
+.electronics-machine-tools-molds-and-other-manufacturing-industries-can-use-cnc-lathes-for-processing-improve-productivity-and-quality-and-reduce-production-costs {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.aerospace-industry {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: absolute;
+  left: 0px;
+  top: 238px;
+  width: 886px;
+  height: 29px;
+}
+.frame-114 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.make-sure-the-machine {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 37px;
+}
+.what-we-want-to-make-is-gears-that-were-originally-made-using-a-3-d-printer-given-the-high-precision-requirements-for-a-pair-of-teeth-we-ultimately-chose-a-cnc-milling-machine-machining-center-to-machine-the-gears {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.reason-for-selection {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 42.3px;
+}
+._1-dimensional-adaptability-cnc-milling-machines-machining-centers-usually-have-a-large-workspace-and-flexible-machining-capabilities-which-can-adapt-to-the-machining-needs-of-gears-of-different-sizes-since-you-mentioned-not-very-large-gears-the-machining-range-of-cnc-milling-machines-should-be-sufficient-to-meet-your-needs-2-high-precision-cnc-milling-machines-use-advanced-cnc-technology-to-achieve-high-precision-machining-modern-cnc-machining-accuracy-can-reach-the-micrometer-level-which-is-crucial-for-the-tooth-profile-accuracy-and-fitting-accuracy-of-gears-3-material-adaptability-cnc-milling-machines-can-process-materials-of-various-hardness-including-metals-plastics-etc-you-need-to-choose-the-appropriate-cutting-tool-and-machining-parameters-based-on-the-material-of-the-gear-4-processing-efficiency-cnc-milling-machines-have-an-automatic-tool-changing-function-if-equipped-with-a-tool-library-which-can-greatly-improve-processing-efficiency-by-writing-appropriate-machining-programs-multiple-machining-steps-of-gears-can-be-completed-at-once-reducing-machining-time-and-cost {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 330px;
+}
+.key-points-for-selecting-cnc-milling-machines {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 29px;
+}
+._1-machine-specifications-ensure-that-the-selected-cnc-milling-machine-s-workbench-size-and-spindle-power-can-meet-the-machining-requirements-of-the-gears-2-cnc-system-choose-a-stable-and-reliable-cnc-system-to-ensure-machining-accuracy-and-stability-3-tools-and-fixtures-select-appropriate-cutting-tools-and-fixtures-based-on-the-material-and-size-of-the-gears-to-ensure-machining-quality-and-efficiency-4-processing-plan-write-appropriate-processing-programs-optimize-machining-paths-and-cutting-parameters-to-improve-machining-efficiency-and-accuracy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 198px;
+}
+.image-15 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1066.8px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-113 {
+  display: flex;
+  flex-direction: column;
+  gap: 41px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.make-sure-the-material {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 37px;
+}
+.we-want-to-make-a-lightweight-and-wear-resistant-gear-that-is-easy-to-process-on-cnc-milling-machines-machining-centers-based-on-the-above-requirements-we-have-chosen-medium-carbon-alloy-steel-as-the-processing-material {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.material-definition {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 29px;
+}
+.medium-carbon-alloy-steel-refers-to-steel-grades-with-a-carbon-content-between-0-25-and-0-6-and-with-the-addition-of-small-amounts-of-alloying-elements-such-as-chromium-manganese-molybdenum-etc-the-main-components-include-iron-carbon-silicon-manganese-etc-the-addition-of-alloying-elements-gives-medium-carbon-alloy-steel-unique-properties {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 106px;
+}
+.material-advantages {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 29px;
+}
+.strength-and-toughness-medium-carbon-alloy-steel-has-high-strength-and-toughness-and-can-maintain-shape-and-structural-integrity-when-subjected-to-strong-forces-and-collisions-wear-resistance-due-to-the-addition-of-alloying-elements-the-wear-resistance-of-medium-carbon-alloy-steel-is-better-than-that-of-ordinary-carbon-steel-making-it-suitable-for-components-that-require-long-term-use-workability-medium-carbon-alloy-steel-has-good-malleability-and-machinability-and-its-properties-can-be-changed-through-heat-treatment-or-cold-processing-to-adapt-to-different-types-of-manufacturing-processes {
+  color: #eeeeee;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 198px;
+}
+.image-16 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 552.38px;
+  position: relative;
+  object-fit: cover;
+}
