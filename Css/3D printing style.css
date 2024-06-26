@@ -4,7 +4,7 @@
 }
 .desktop-28 {
   background: #000000;
-  height: 13669px;
+  height: 26619px;
   position: relative;
   overflow: hidden;
 }
@@ -107,15 +107,24 @@
   font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
 }
-.frame-111 {
+.frame-175 {
   display: flex;
   flex-direction: column;
-  gap: 80px;
+  gap: 45px;
   align-items: flex-start;
   justify-content: flex-start;
   position: absolute;
-  left: 162px;
-  top: 217px;
+  left: 143px;
+  top: 218px;
+}
+.frame-174 {
+  display: flex;
+  flex-direction: column;
+  gap: 63px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
 }
 ._3-d-printing {
   color: #ffffff;
@@ -126,10 +135,10 @@
   font-weight: var(--h2-heading-font-weight, 800);
   position: relative;
 }
-.frame-110 {
+.frame-164 {
   display: flex;
-  flex-direction: column;
-  gap: 30px;
+  flex-direction: row;
+  gap: 159px;
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
@@ -138,7 +147,7 @@
 .frame-106 {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 37px;
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
@@ -146,20 +155,17 @@
 }
 .frame-104 {
   display: flex;
-  flex-direction: row;
-  gap: 140px;
+  flex-direction: column;
+  gap: 10px;
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
   position: relative;
 }
 .frame-39 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
   flex-shrink: 0;
+  width: 752px;
+  height: 387px;
   position: relative;
 }
 .material {
@@ -169,7 +175,9 @@
   font-size: var(--h3-heading-font-size, 40px);
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 0px;
 }
 .poly-ether-ether-ketone-has-excellent-mechanical-and-heat-resistance-properties-and-is-widely-used-in-aerospace-automotive-medical-equipment-and-other-fields-3-d-printing-technology-can-make-this-material-into-parts-with-complex-shapes-such-as-turbine-blades-engine-components-and-more-in-addition-new-aerospace-materials-such-as-carbon-fiber-composites-are-difficult-to-process-with-conventional-technologies-but-3-d-printing-can-greatly-shorten-the-production-process-by-enabling-the-overall-molding-of-complex-parts {
   color: #ffffff;
@@ -178,33 +186,25 @@
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 84px;
   width: 752px;
   height: 303px;
 }
-.image-1 {
-  flex-shrink: 0;
-  width: 344px;
-  height: 344px;
-  position: relative;
-  object-fit: cover;
-}
 .frame-105 {
   display: flex;
-  flex-direction: row;
-  gap: 130px;
+  flex-direction: column;
+  gap: 18px;
   align-items: center;
   justify-content: flex-start;
   flex-shrink: 0;
   position: relative;
 }
 .frame-40 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
   flex-shrink: 0;
+  width: 752px;
+  height: 387px;
   position: relative;
 }
 .application {
@@ -214,25 +214,31 @@
   font-size: var(--h3-heading-font-size, 40px);
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 0px;
 }
-.in-the-field-of-surgical-preparation-3-d-printing-is-making-waves-medical-professionals-can-now-create-3-d-models-of-patient-anatomy-to-better-plan-complex-surgeries-for-example-the-heart-is-structurally-complex-and-3-d-printed-models-can-accurately-replicate-the-typical-anatomy-of-cardiovascular-diseases-such-as-congenital-heart-disease-this-advancement-can-usher-in-a-new-era-of-personalized-medicine-by-enabling-more-precise-surgeries-reducing-risk-and-reducing-recovery-time {
+.compared-with-the-traditional-titanium-alloy-skull-repair-material-peek-polyetheretherketone-material-is-closer-to-the-human-skull-after-the-traditional-titanium-mesh-skull-repair-it-is-possible-to-touch-the-connected-titanium-nail-on-the-surface-of-the-skin-and-it-may-be-deformed-after-being-subjected-to-external-forces-such-as-collision-and-blow-while-peek-skull-repair-material-has-a-strong-protective-effect-and-after-repair-it-can-better-protect-the-brain-tissue-with-the-missing-bone-window-it-is-a-better-choice-for-younger-patients-and-those-who-are-more-socially-active {
   color: #ffffff;
   text-align: left;
   font-family: "Inter-Regular", sans-serif;
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 84px;
   width: 752px;
   height: 303px;
 }
-.image-2 {
-  flex-shrink: 0;
-  width: 344px;
-  height: 458px;
+.peek-brainmed-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: underline;
   position: relative;
-  object-fit: cover;
 }
 .frame-41 {
   display: flex;
@@ -263,23 +269,67 @@
   width: 752px;
   height: 303px;
 }
-.frame-109 {
+.image-2 {
+  flex-shrink: 0;
+  width: 554px;
+  height: 544px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-165 {
   display: flex;
   flex-direction: column;
-  gap: 55px;
+  gap: 61px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.force-curve {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.image {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1359.06px;
+  position: relative;
+  object-fit: cover;
+}
+.temperature-resistance-curve {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.image-22 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1066.67px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-173 {
+  display: flex;
+  flex-direction: column;
+  gap: 63px;
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
   position: relative;
 }
 .frame-11 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
   flex-shrink: 0;
-  height: 219px;
+  width: 1619px;
+  height: 241px;
   position: relative;
 }
 .use-slice-software-to-setting-parameter {
@@ -289,7 +339,9 @@
   font-size: var(--h2-heading-font-size, 92px);
   line-height: var(--h2-heading-line-height, 110%);
   font-weight: var(--h2-heading-font-weight, 800);
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 0px;
   width: 1619px;
   height: 261px;
   display: flex;
@@ -299,11 +351,26 @@
 ._1-use-cura {
   color: #ffffff;
   text-align: left;
+  font-family: var(--h3-heading-font-family, "-", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 400);
+  position: relative;
+}
+._1-use-cura-span {
+  color: #ffffff;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
   font-size: var(--h3-heading-font-size, 40px);
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
+}
+._1-use-cura-span2 {
+  color: #ffffff;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  text-decoration: underline;
 }
 .image-3 {
   flex-shrink: 0;
@@ -312,7 +379,60 @@
   position: relative;
   object-fit: cover;
 }
-._2-click-on-the-red-box-area-to-import-3-d-model-files-such-as-obj-files {
+._2-setting-3-d-printer-parameters {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+._4 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 857.5px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-166 {
+  display: flex;
+  flex-direction: row;
+  gap: 52px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._5 {
+  flex-shrink: 0;
+  width: 504.95px;
+  height: 400px;
+  position: relative;
+  object-fit: cover;
+}
+._6 {
+  flex-shrink: 0;
+  width: 499.43px;
+  height: 400px;
+  position: relative;
+  object-fit: cover;
+}
+._7 {
+  flex-shrink: 0;
+  width: 505.06px;
+  height: 400px;
+  position: relative;
+  object-fit: cover;
+}
+._8 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 857.5px;
+  position: relative;
+  object-fit: cover;
+}
+._3-click-on-the-red-box-area-to-import-3-d-model-files-such-as-obj-files {
   color: #ffffff;
   text-align: left;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -328,7 +448,7 @@
   position: relative;
   object-fit: cover;
 }
-._3-click-on-the-red-box-area-to-rotate-the-3-d-print-so-that-it-lies-flat-on-a-horizontal-plane {
+._4-click-on-the-red-box-area-to-rotate-the-3-d-print-so-that-it-lies-flat-on-a-horizontal-plane {
   color: #ffffff;
   text-align: left;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -345,7 +465,7 @@
   overflow: visible;
   object-fit: cover;
 }
-._4-click-on-the-red-boxed-area-to-enlarge-the-3-d-print-after-rotating-it {
+._5-click-on-the-red-boxed-area-to-enlarge-the-3-d-print-after-rotating-it {
   color: #ffffff;
   text-align: left;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -361,7 +481,7 @@
   position: relative;
   object-fit: cover;
 }
-._5-click-on-the-red-box-and-adjust-the-print-parameters-in-the-green-box {
+._6-click-on-the-red-box-and-adjust-the-print-parameters-in-the-green-box {
   color: #ffffff;
   text-align: left;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -377,7 +497,57 @@
   position: relative;
   object-fit: cover;
 }
-._6-click-on-the-red-boxed-area-to-slice {
+._7-since-there-are-some-problems-with-the-wall-thickness-during-printing-but-we-can-t-adjust-the-wall-thickness-parameter-we-can-change-the-wall-thickness-status-by-adjusting-the-wall-line-count-parameter {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.image-102 {
+  flex-shrink: 0;
+  width: 1588px;
+  height: 437px;
+  position: relative;
+  object-fit: cover;
+}
+._8-preview {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-167 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._12 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 857.5px;
+  position: relative;
+  object-fit: cover;
+}
+._11 {
+  flex-shrink: 0;
+  width: 689px;
+  height: 704px;
+  position: absolute;
+  left: 878px;
+  top: 77px;
+  object-fit: cover;
+}
+._9-click-on-the-red-boxed-area-to-slice {
   color: #ffffff;
   text-align: left;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -393,7 +563,7 @@
   position: relative;
   object-fit: cover;
 }
-._7-just-click-on-the-red-boxed-area-to-save-the-gcode-format {
+._10-just-click-on-the-red-boxed-area-to-save-the-gcode-format {
   color: #ffffff;
   text-align: left;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -406,6 +576,70 @@
   flex-shrink: 0;
   width: 1600px;
   height: 857.5px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-172 {
+  display: flex;
+  flex-direction: column;
+  gap: 65px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._12-insert-the-usb-card-into-the-printer-card-slot {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+._19 {
+  flex-shrink: 0;
+  width: 600px;
+  height: 800px;
+  position: relative;
+  object-fit: cover;
+}
+._11-check-and-adjust-printer-settings {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+._20 {
+  flex-shrink: 0;
+  width: 600px;
+  height: 800px;
+  position: relative;
+  object-fit: cover;
+}
+._13-select-the-file-you-just-saved-and-start-printing {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+._21 {
+  flex-shrink: 0;
+  width: 828px;
+  height: 420px;
+  position: relative;
+  object-fit: cover;
+}
+._22 {
+  flex-shrink: 0;
+  width: 600px;
+  height: 800px;
   position: relative;
   object-fit: cover;
 }
@@ -425,10 +659,10 @@
   position: relative;
   object-fit: cover;
 }
-.frame-108 {
+.frame-171 {
   display: flex;
   flex-direction: column;
-  gap: 100px;
+  gap: 77px;
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
@@ -443,6 +677,24 @@
   font-weight: var(--h2-heading-font-weight, 800);
   position: relative;
 }
+.frame-170 {
+  display: flex;
+  flex-direction: column;
+  gap: 78px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-169 {
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
 .remove-the-excess-with-a-pencil-sharpener-and-sandpaper {
   color: #ffffff;
   text-align: left;
@@ -452,28 +704,21 @@
   font-weight: var(--h3-heading-font-weight, 800);
   position: relative;
 }
-.frame-107 {
+._24 {
+  flex-shrink: 0;
+  width: 600px;
+  height: 800px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-168 {
   display: flex;
-  flex-direction: row;
-  gap: 400px;
+  flex-direction: column;
+  gap: 84px;
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
   position: relative;
-}
-.image-11 {
-  flex-shrink: 0;
-  width: 600px;
-  height: 800px;
-  position: relative;
-  object-fit: cover;
-}
-._00-e-13-cff-62-a-27032128-bedac-1-f-0-af-0-de-1 {
-  flex-shrink: 0;
-  width: 600px;
-  height: 800px;
-  position: relative;
-  object-fit: cover;
 }
 .read-gcode {
   color: #ffffff;
@@ -499,4 +744,51 @@
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
   position: relative;
+}
+.z-refers-to-the-real-time-height-at-which-the-workpiece-is-printed-at-the-same-height-the-nozzle-moves-in-the-x-and-y-directions-to-create-a-layer-the-preview-image-and-g-code-simulation-below-show-a-layer-with-a-height-of-0-2-to-0-4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 1603px;
+  height: 53px;
+}
+.preview-of-the-first-layer-of-effects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 1603px;
+  height: 33px;
+}
+._26 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 956.25px;
+  position: relative;
+  object-fit: cover;
+}
+.g-code-simulation-for-first-layer {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 829px;
+  height: 33px;
+}
+._27 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 956.25px;
+  position: relative;
+  object-fit: cover;
 }

@@ -4,7 +4,7 @@
 }
 .desktop-26 {
   background: #000000;
-  height: 18862px;
+  height: 18032px;
   position: relative;
   overflow: hidden;
 }
@@ -113,9 +113,10 @@
   gap: 14px;
   align-items: center;
   justify-content: flex-start;
+  height: 14246px;
   position: absolute;
-  left: 150px;
-  top: 246px;
+  left: 138px;
+  top: 258px;
 }
 .frame-95 {
   display: flex;
@@ -147,8 +148,9 @@
   font-size: var(--h3-heading-font-size, 40px);
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
+  text-decoration: underline;
   position: relative;
-  width: 129px;
+  width: 1607px;
   height: 47px;
 }
 .image-55 {
@@ -296,13 +298,6 @@
   width: 1600px;
   height: 33px;
 }
-.image-57 {
-  flex-shrink: 0;
-  width: 1600px;
-  height: 971px;
-  position: relative;
-  object-fit: cover;
-}
 .frame-84 {
   display: flex;
   flex-direction: column;
@@ -320,7 +315,7 @@
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
   position: relative;
-  width: 1600px;
+  width: 1594px;
   height: 50px;
 }
 .raw-materials-the-industrial-preparation-of-iron-is-usually-obtained-by-smelting-iron-ore-coke-and-limestone-in-a-blast-furnace-methods-including-blast-furnace-method-direct-reduction-method-melt-reduction-method-plasma-method-etc-classification-according-to-the-different-carbon-content-it-can-be-divided-into-pig-iron-wrought-iron-and-steel {
@@ -346,7 +341,7 @@
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
   position: relative;
-  width: 1600px;
+  width: 1594px;
   height: 50px;
 }
 .lndustrial-use-used-to-manufacture-all-kinds-of-machinery-equipment-tools-and-parts-such-as-automobiles-ships-planes-trains-and-other-means-of-transportation-as-well-as-various-machine-tools-pumps-valves-pipelines-and-other-industrial-equipment-agricultural-use-used-to-make-various-agricultural-tools-and-equipment-such-as-plows-hoes-sickles-barbed-wire-etc-construction-use-it-is-used-to-manufacture-various-building-components-and-equipment-such-as-steel-bars-steel-plates-iron-pipes-etc-as-well-as-construction-machinery-and-equipment-such-as-cranes-excavators-bulldozers-etc-living-use-used-to-manufacture-various-daily-necessities-and-equipment-such-as-pots-and-pans-gas-stoves-water-heaters-radiators-etc-as-well-as-furniture-and-home-decorations-such-as-wrought-iron-doors-and-windows-wrought-iron-stairs-wrought-iron-chandeliers-etc {
@@ -378,14 +373,15 @@
   font-size: var(--h3-heading-font-size, 40px);
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
+  text-decoration: underline;
   position: relative;
   width: 1594px;
-  height: 50px;
+  height: 55px;
 }
 .image-59 {
   flex-shrink: 0;
   width: 1600px;
-  height: 731px;
+  height: 758px;
   position: relative;
   object-fit: cover;
 }
@@ -446,6 +442,13 @@
   position: relative;
   object-fit: cover;
 }
+.image-75 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 772px;
+  position: relative;
+  object-fit: cover;
+}
 .frame-86 {
   display: flex;
   flex-direction: column;
@@ -496,20 +499,14 @@
   width: 1600px;
   height: 99px;
 }
-.image-61 {
-  flex-shrink: 0;
-  width: 1600px;
-  height: 920px;
-  position: relative;
-  object-fit: cover;
-}
-.frp {
+.carbon-fiber-reinforced-polymer {
   color: #ffffff;
   text-align: left;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
   font-size: var(--h3-heading-font-size, 40px);
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
+  text-decoration: underline;
   position: relative;
   width: 1594px;
   height: 50px;
@@ -530,7 +527,7 @@
   flex-shrink: 0;
   position: relative;
 }
-.basic-overview {
+.definition {
   color: #ffffff;
   text-align: left;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -541,7 +538,7 @@
   width: 1594px;
   height: 50px;
 }
-.fiber-reinforced-plastics-frp-also-known-as-glass-fiber-reinforced-plastic-gfrp-is-a-composite-material-composed-of-glass-fiber-and-resin-matrix-frp-is-not-a-glass-product-in-the-traditional-sense-but-a-new-type-of-high-strength-lightweight-corrosion-resistant-synthetic-material {
+.carbon-fiber-reinforced-polymer-cfrp-is-a-high-performance-composite-material-which-is-mainly-composed-of-carbon-fiber-as-a-reinforcing-material-and-resin-such-as-epoxy-resin-as-a-matrix-material {
   color: #ffffff;
   text-align: left;
   font-family: var(
@@ -556,7 +553,7 @@
   width: 1600px;
   height: 66px;
 }
-.main-composition {
+.characteristic {
   color: #ffffff;
   text-align: left;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -567,7 +564,7 @@
   width: 1594px;
   height: 50px;
 }
-.glass-fiber-as-a-reinforcing-material-it-has-high-strength-large-elastic-modulus-and-good-creep-resistance-resin-matrix-including-unsaturated-polyester-resin-epoxy-resin-and-phenolic-resin-etc-which-provide-basic-physical-and-chemical-properties-for-frp {
+.high-specific-strength-and-high-specific-modulus-the-specific-modulus-of-carbon-fiber-reinforced-resin-composites-is-5-times-higher-than-that-of-steel-and-aluminum-alloys-and-the-specific-strength-is-also-more-than-3-times-higher-than-that-of-steel-and-aluminum-alloys-this-means-it-offers-more-strength-and-stiffness-at-a-lower-weight-high-fatigue-resistance-the-fatigue-limit-of-carbon-fiber-unsaturated-polyester-resin-composites-can-reach-70-to-80-of-their-tensile-strength-while-that-of-metal-materials-is-only-40-to-50-this-makes-it-a-significant-advantage-in-applications-where-cyclic-loads-need-to-be-subjected-to-long-term-loads-strong-fracture-resistance-since-a-large-number-of-independently-existing-carbon-fibers-are-bonded-into-a-whole-by-a-ductile-matrix-when-some-of-the-fibers-break-the-load-is-redistributed-to-the-other-unbroken-fibers-preventing-sudden-failure-good-vibration-damping-performance-the-high-natural-frequency-of-carbon-fiber-reinforced-resin-composites-avoids-resonance-and-the-resulting-early-damage-during-operation {
   color: #ffffff;
   text-align: left;
   font-family: var(
@@ -580,20 +577,9 @@
   font-weight: var(--p1-paragraph-large-font-weight, 400);
   position: relative;
   width: 1600px;
-  height: 66px;
+  height: 438px;
 }
-.nature-characteristics {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 1594px;
-  height: 50px;
-}
-.high-strength-frp-has-excellent-strength-characteristics-which-is-lighter-but-stronger-than-many-traditional-materials-such-as-steel-and-aluminum-alloys-corrosion-resistance-it-can-resist-the-erosion-of-corrosive-media-such-as-acid-alkali-and-salt-and-is-suitable-for-use-in-harsh-environments-insulation-performance-it-has-good-electrical-insulation-performance-and-thermal-insulation-performance-and-is-suitable-for-power-and-electronic-fields-lightweight-frp-has-a-lower-density-than-metal-materials-giving-it-an-advantage-in-applications-that-require-lightweight-construction-heat-resistance-able-to-maintain-good-performance-at-higher-temperatures-with-excellent-heat-resistance {
+.aerospace-due-to-its-lightweight-and-high-strength-characteristics-cfrp-is-widely-used-in-the-aerospace-field-such-as-aircraft-fuselage-wings-tails-etc-automotive-industry-cfrp-is-used-in-automotive-manufacturing-to-reduce-body-weight-improve-fuel-efficiency-and-enhance-body-structural-strength-sports-equipment-sports-equipment-such-as-high-performance-bicycles-golf-clubs-and-tennis-rackets-are-often-manufactured-with-cfrp-to-reduce-weight-and-improve-performance {
   color: #ffffff;
   text-align: left;
   font-family: var(
@@ -606,12 +592,12 @@
   font-weight: var(--p1-paragraph-large-font-weight, 400);
   position: relative;
   width: 1600px;
-  height: 190px;
+  height: 168px;
 }
 .image-63 {
   flex-shrink: 0;
   width: 1600px;
-  height: 430px;
+  height: 458.14px;
   position: relative;
   object-fit: cover;
 }
@@ -624,7 +610,7 @@
   flex-shrink: 0;
   position: relative;
 }
-.classify {
+.construction-fabrication {
   color: #ffffff;
   text-align: left;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -635,7 +621,7 @@
   width: 1594px;
   height: 50px;
 }
-.frp-is-divided-into-glass-fiber-reinforced-composite-plastic-gfrp-carbon-fiber-reinforced-composite-plastic-cfrp-boron-fiber-reinforced-composite-plastic-etc-according-to-the-different-fibers-used {
+.cfrp-is-composed-of-carbon-fiber-and-resin-matrix-through-lamination-injection-molding-pultrusion-and-other-processes-carbon-fibers-exist-in-the-form-of-fiber-bundles-or-fabrics-that-provide-strength-and-stiffness-to-composite-materials-the-resin-matrix-holds-the-carbon-fibers-in-place-and-transmits-the-load {
   color: #ffffff;
   text-align: left;
   font-family: var(
@@ -648,9 +634,9 @@
   font-weight: var(--p1-paragraph-large-font-weight, 400);
   position: relative;
   width: 1600px;
-  height: 66px;
+  height: 99px;
 }
-.the-manufacturing-process {
+.trends {
   color: #ffffff;
   text-align: left;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -661,7 +647,7 @@
   width: 1594px;
   height: 50px;
 }
-.the-frp-manufacturing-process-includes-hand-lay-up-molding-process-pultrusion-molding-process-winding-molding-process-molding-molding-process-etc-among-them-the-hand-lay-up-molding-process-is-the-earliest-and-most-widely-used-molding-method-in-the-production-of-resin-matrix-composites {
+.with-the-reduction-of-carbon-fiber-production-costs-and-the-advancement-of-manufacturing-technology-the-application-of-cfrp-in-more-fields-will-be-expanded-the-research-of-new-carbon-fiber-reinforced-resin-composites-is-also-deepening-to-meet-the-needs-of-higher-performance-and-more-environmental-protection {
   color: #ffffff;
   text-align: left;
   font-family: var(
@@ -674,27 +660,19 @@
   font-weight: var(--p1-paragraph-large-font-weight, 400);
   position: relative;
   width: 1600px;
-  height: 85px;
+  height: 130px;
 }
-.frp-is-widely-used-in-the-following-fields-construction-industry-used-in-the-exterior-walls-roofs-skylights-and-other-parts-of-buildings-as-well-as-cooling-towers-silo-buildings-construction-templates-etc-chemical-industry-used-in-the-manufacture-of-corrosion-resistant-pipelines-storage-tanks-sewage-treatment-equipment-etc-automobile-and-railway-transportation-industry-used-in-the-manufacture-of-automobile-shells-doors-inner-panels-and-other-components-as-well-as-train-window-frames-roof-bending-plates-etc-electrical-industry-and-communication-engineering-used-in-the-manufacture-of-insulators-cable-troughs-distribution-boxes-and-other-power-equipment-and-communication-facilities {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(
-    --p1-paragraph-large-font-family,
-    "Inter-Regular",
-    sans-serif
-  );
-  font-size: var(--p1-paragraph-large-font-size, 22px);
-  line-height: var(--p1-paragraph-large-line-height, 150%);
-  font-weight: var(--p1-paragraph-large-font-weight, 400);
-  position: relative;
-  width: 1600px;
-  height: 297px;
-}
-.image-64 {
+.image-76 {
   flex-shrink: 0;
   width: 1600px;
-  height: 763.86px;
+  height: 791.67px;
+  position: relative;
+  object-fit: cover;
+}
+.image-101 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 910.95px;
   position: relative;
   object-fit: cover;
 }
@@ -725,6 +703,7 @@
   font-size: var(--h3-heading-font-size, 40px);
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
+  text-decoration: underline;
   position: relative;
   width: 1594px;
   height: 50px;
@@ -744,17 +723,6 @@
   justify-content: flex-start;
   flex-shrink: 0;
   position: relative;
-}
-.characteristic {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 1594px;
-  height: 50px;
 }
 .high-electrical-conductivity-boron-ink-has-excellent-electrical-conductivity-and-is-expected-to-be-used-in-high-performance-electronic-devices-high-strength-its-mechanical-strength-is-also-extremely-high-making-it-an-ideal-high-strength-material-chemical-stability-it-shows-good-chemical-stability-at-room-temperature-and-is-not-easy-to-be-oxidized-or-corroded {
   color: #ffffff;
@@ -797,28 +765,21 @@
   width: 1600px;
   height: 99px;
 }
-.image-66 {
-  flex-shrink: 0;
-  width: 1600px;
-  height: 740px;
-  position: relative;
-  object-fit: cover;
-}
-._2-oled {
+._2-graphene {
   color: #ffffff;
   text-align: left;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
   font-size: var(--h3-heading-font-size, 40px);
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
+  text-decoration: underline;
   position: relative;
   width: 1594px;
-  height: 50px;
 }
 .image-67 {
   flex-shrink: 0;
   width: 1600px;
-  height: 1016px;
+  height: 688px;
   position: relative;
   object-fit: cover;
 }
@@ -831,18 +792,7 @@
   flex-shrink: 0;
   position: relative;
 }
-.overview {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 1594px;
-  height: 50px;
-}
-.oled-organic-light-emitting-diode-material-is-a-new-material-that-is-widely-used-in-display-technology-compared-with-traditional-lcd-display-technology-oled-has-a-higher-contrast-ratio-and-lower-energy-consumption {
+.graphene-is-a-new-nanomaterial-with-the-thinnest-hardest-and-strongest-electrical-and-thermal-conductivity-discovered-so-far-and-is-known-as-black-gold-and-king-of-new-materials {
   color: #ffffff;
   text-align: left;
   font-family: var(
@@ -857,7 +807,22 @@
   width: 1600px;
   height: 66px;
 }
-.self-illuminating-oled-materials-do-not-require-a-backlight-and-are-self-illuminating-resulting-in-higher-contrast-and-lower-energy-consumption-wide-viewing-angle-large-viewing-angle-and-high-color-reproduction-fast-response-the-response-time-is-extremely-short-which-is-suitable-for-the-display-of-high-speed-dynamic-images {
+.ultra-thin-a-single-layer-of-graphene-is-only-one-atomic-layer-thick-and-is-the-thinnest-material-known-super-strong-it-is-200-times-stronger-than-steel-and-is-one-of-the-strongest-materials-currently-known-electrical-conductivity-graphene-has-an-extremely-high-electron-mobility-which-exceeds-that-of-silicon-materials-by-dozens-of-times-making-it-an-ideal-conductive-material-thermal-conductivity-the-thermal-conductivity-of-graphene-is-also-very-good-much-higher-than-that-of-metals-such-as-copper-and-silver {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+  height: 177px;
+}
+.new-energy-field-graphene-has-huge-application-potential-in-the-lithium-battery-and-supercapacitor-market-and-the-market-size-is-expected-to-exceed-tens-of-billions-of-yuan-composite-materials-graphene-is-also-widely-used-in-plastics-rubber-coatings-conductive-inks-and-other-fields {
   color: #ffffff;
   text-align: left;
   font-family: var(
@@ -871,65 +836,6 @@
   position: relative;
   width: 1600px;
   height: 99px;
-}
-.application-status {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 1594px;
-  height: 50px;
-}
-.smartphones-oled-screens-have-become-standard-in-high-end-smartphones-tv-oled-t-vs-are-favored-by-consumers-for-their-excellent-picture-quality-and-color-performance-wearable-devices-due-to-the-flexibility-of-oled-screens-they-are-also-widely-used-in-wearable-devices-such-as-smart-watches-and-vr-devices {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(
-    --p1-paragraph-large-font-family,
-    "Inter-Regular",
-    sans-serif
-  );
-  font-size: var(--p1-paragraph-large-font-size, 22px);
-  line-height: var(--p1-paragraph-large-line-height, 150%);
-  font-weight: var(--p1-paragraph-large-font-weight, 400);
-  position: relative;
-  width: 1600px;
-  height: 99px;
-}
-.future-trends {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 1594px;
-  height: 50px;
-}
-.with-the-continuous-advancement-of-technology-the-penetration-rate-of-oled-materials-in-the-field-of-medium-sized-display-panels-such-as-tablets-and-laptops-is-expected-to-continue-to-grow-and-oled-technology-will-continue-to-develop-in-the-direction-of-higher-resolution-wider-color-gamut-and-lower-energy-consumption {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(
-    --p1-paragraph-large-font-family,
-    "Inter-Regular",
-    sans-serif
-  );
-  font-size: var(--p1-paragraph-large-font-size, 22px);
-  line-height: var(--p1-paragraph-large-line-height, 150%);
-  font-weight: var(--p1-paragraph-large-font-weight, 400);
-  position: relative;
-  width: 1600px;
-  height: 99px;
-}
-.image-68 {
-  flex-shrink: 0;
-  width: 1600px;
-  height: 887px;
-  position: relative;
-  object-fit: cover;
 }
 .frame-92 {
   display: flex;
@@ -947,6 +853,7 @@
   font-size: var(--h3-heading-font-size, 40px);
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
+  text-decoration: underline;
   position: relative;
   width: 1594px;
   height: 50px;
@@ -964,12 +871,12 @@
   font-weight: var(--p1-paragraph-large-font-weight, 400);
   position: relative;
   width: 1600px;
-  height: 99px;
+  height: 132px;
 }
 .image-69 {
   flex-shrink: 0;
   width: 1600px;
-  height: 657px;
+  height: 992px;
   position: relative;
   object-fit: cover;
 }
@@ -980,6 +887,7 @@
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
+  height: 163px;
   position: relative;
 }
 .plastic-post-processing-method {
@@ -989,11 +897,12 @@
   font-size: var(--h3-heading-font-size, 40px);
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
+  text-decoration: underline;
   position: relative;
   width: 1594px;
   height: 50px;
 }
-.flame-treatment-for-some-types-of-plastics-flame-treatment-is-a-post-processing-method-that-improves-the-surface-energy-and-wettability-a-small-flame-is-briefly-applied-to-the-plastic-surface-changing-its-chemical-composition-and-making-it-more-receptive-to-coatings-adhesives-or-inks-this-method-is-often-used-on-polypropylene-pp-and-polyethylene-pe-plastics {
+.spraying-treatment-definition-the-application-of-a-layer-of-plastic-paint-to-metal-equipment-or-plastic-products-followed-by-a-drying-operation-features-isolate-air-anti-aging-and-anti-static-and-give-plastic-an-appearance-effect-that-it-does-not-have {
   color: #ffffff;
   text-align: left;
   font-family: var(
@@ -1006,14 +915,38 @@
   font-weight: var(--p1-paragraph-large-font-weight, 400);
   position: relative;
   width: 1600px;
-  height: 99px;
+}
+.frame-135 {
+  display: flex;
+  flex-direction: row;
+  gap: 1px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
 }
 .image-70 {
   flex-shrink: 0;
-  width: 1600px;
-  height: 424px;
+  width: 982.73px;
+  height: 640px;
   position: relative;
   object-fit: cover;
+}
+.image-74 {
+  flex-shrink: 0;
+  width: 614.2px;
+  height: 640px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-134 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
 }
 .frame-94 {
   display: flex;
@@ -1022,6 +955,7 @@
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
+  height: 201px;
   position: relative;
 }
 .post-processing-methods-of-wood {
@@ -1031,6 +965,7 @@
   font-size: var(--h3-heading-font-size, 40px);
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
+  text-decoration: underline;
   position: relative;
   width: 1594px;
   height: 50px;
@@ -1048,12 +983,19 @@
   font-weight: var(--p1-paragraph-large-font-weight, 400);
   position: relative;
   width: 1600px;
-  height: 120px;
+  height: 99px;
 }
-.image-71 {
+.q-5 {
   flex-shrink: 0;
   width: 1600px;
-  height: 674px;
+  height: 655px;
+  position: relative;
+  object-fit: cover;
+}
+.h-1 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 720px;
   position: relative;
   object-fit: cover;
 }

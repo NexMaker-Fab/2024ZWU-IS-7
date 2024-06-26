@@ -4,7 +4,7 @@
 }
 .desktop-19 {
   background: #000000;
-  height: 21207px;
+  height: 27712px;
   position: relative;
   overflow: hidden;
 }
@@ -292,8 +292,8 @@
 }
 .image-5 {
   flex-shrink: 0;
-  width: 1598px;
-  height: 963px;
+  width: 1600px;
+  height: 964.21px;
   position: relative;
   object-fit: cover;
 }
@@ -580,6 +580,112 @@
   flex-shrink: 0;
   width: 1600px;
   height: 1012.1px;
+  position: relative;
+  object-fit: cover;
+}
+.engineering-drawing {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 24px;
+  line-height: 110%;
+  font-weight: 800;
+  position: relative;
+  width: 1600px;
+}
+._1-select-a-file-to-convert-to-a-project-drawing {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1602px;
+  height: 33px;
+}
+._1 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 855.83px;
+  position: relative;
+  object-fit: cover;
+}
+._2-select-parts-and-export-them-horizontally-and-create-a-local-view-select-key-objects-to-view {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1602px;
+  height: 33px;
+}
+._2 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 855.83px;
+  position: relative;
+  object-fit: cover;
+}
+._3 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1204.77px;
+  position: relative;
+  object-fit: cover;
+}
+._3-select-the-visible-edge-style-and-the-appropriate-zoom-ratio {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1602px;
+  height: 33px;
+}
+._4 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 855.83px;
+  position: relative;
+  object-fit: cover;
+}
+._4-build-a-projection-view-and-select-main-view-top-view-left-view-and-overall-view {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1602px;
+  height: 33px;
+}
+._5 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 855.83px;
+  position: relative;
+  object-fit: cover;
+}
+._4-use-the-dimensioning-to-select-the-size-to-be-marked {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1602px;
+}
+._6 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1118.4px;
   position: relative;
   object-fit: cover;
 }

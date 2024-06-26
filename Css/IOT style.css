@@ -1,0 +1,905 @@
+.desktop-32,
+.desktop-32 * {
+  box-sizing: border-box;
+}
+.desktop-32 {
+  background: var(--0d0c11, #0d0c11);
+  height: 34894px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.rectangle-17 {
+  background: conic-gradient(
+    from 137.73deg at 50% 50%,
+    rgba(0, 0, 0, 1) 6.499350816011429%,
+    rgba(224, 35, 136, 1) 46.89826965332031%,
+    rgba(39, 99, 183, 1) 53.4933865070343%,
+    rgba(20, 52, 97, 0.53) 74.00311231613159%,
+    rgba(0, 0, 0, 1) 96.79219126701355%
+  );
+  width: 1000px;
+  height: 1100px;
+  position: absolute;
+  left: 1436.36px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(45deg) scale(1, 1);
+  filter: blur(96px);
+}
+.frame-7 {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: rgba(233, 233, 233, 0.62);
+  border-width: 1px;
+  padding: 16px 88px 16px 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 815px);
+  top: 89px;
+  backdrop-filter: blur(30px);
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 777px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1454px;
+  position: relative;
+}
+.mars {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.previous-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.team-members {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.final-project {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--ui-label-regular-font-size, 18px);
+  line-height: var(--ui-label-regular-line-height, 150%);
+  font-weight: var(--ui-label-regular-font-weight, 400);
+  position: relative;
+}
+.frame-215 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 157px;
+  top: 230px;
+}
+.frame-214 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.connect-node-mcu-with-aliyun-iot {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+}
+.this-experiment-uses-the-mqtt-protocol-again-i-used-miropython-to-write-the-program-to-achieve-and-ultimately-can-be-added-through-the-tencent-lianlian-we-chat-applet-to-add-the-device-to-publish-the-theme-of-the-message-to-the-tencent-cloud-esp-32-is-responsible-for-subscribing-to-the-tencent-cloud-theme-message-when-a-subscription-message-is-received-to-control-the-led-lights-on-the-esp-32-device-to-light-up-or-down {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 108px;
+}
+.create-tencent-cloud-products-and-devices {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 1193px;
+  height: 47px;
+}
+.frame-213 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-176 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._1-browser-search-tencent-cloud-enter-the-tencent-cloud-official-website-we-chat-registration-login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 33px;
+}
+.frame-177 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-178 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-179 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._2-click-the-products-section-and-search-for-io-t-development-platform-click-management-console {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 33px;
+}
+.frame-180 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._3-click-public-instances-in-instance-management {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 44px;
+}
+.frame-181 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._4-click-product-development-on-the-left-and-click-new-product {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 33px;
+}
+.frame-182 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-183 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._5-in-the-product-category-column-select-smart-city-public-utilities-street-lighting-fill-in-the-product-information-product-name-set-to-esp-led-1-communication-mode-fill-in-wi-fi-the-other-defaults-do-not-change-click-new-product {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.frame-184 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-185 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-186 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-212 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-187 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._20 {
+  flex-shrink: 0;
+  width: 101px;
+  height: 61px;
+  position: absolute;
+  left: 269px;
+  top: 711px;
+  overflow: visible;
+}
+.frame-188 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._6-click-on-the-name-of-the-product-you-just-created-esp-led-1-scroll-down-to-the-end-and-click-next-click-module-based-development-select-loxin-for-the-product-platform-select-wifi-for-the-type-click-loxin-esp-wroom-and-click-ok-scroll-down-to-the-end-and-click-next {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.frame-189 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-190 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._7-click-product-display-configuration-on-the-right-side-of-the-configuration-product-display-name-set-to-esp-led-1-producer-name-for-assurant-product-model-to-select-esp-32-click-save-pull-up-and-click-to-return {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.frame-191 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-192 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._8-click-configuration-on-the-right-side-of-shortcut-entry-configuration-no-modification-by-default-click-save-scroll-up-and-click-to-go-back {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 33px;
+}
+.frame-193 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-194 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._9-click-panel-configuration-on-the-right-side-of-the-configuration-the-default-is-not-modified-click-save-click-to-return-to-the {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 33px;
+}
+.frame-195 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-196 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._10-click-configuration-on-the-right-side-of-network-guidance-select-loxin-for-chip-program-selection-select-smart-config-for-preferred-distribution-mode-select-soft-ap-for-sub-distribution-mode-click-save-and-click-to-return {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.frame-197 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-198 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._11-click-sweep-product-introduction-on-the-right-side-of-the-configuration-the-default-is-not-modified-click-save-click-back {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 33px;
+}
+.frame-199 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-200 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._12-click-smart-linkage-configuration-on-the-right-side-of-the-configuration-the-default-is-not-modified-click-to-save-click-return {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 33px;
+}
+.frame-201 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._13-click-next {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 33px;
+}
+.frame-202 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._14-click-new-device-customize-device-name-to-esp-led-1-and-click-save {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 33px;
+}
+.frame-203 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._15-click-on-the-qr-code-use-the-cell-phone-we-chat-applet-tencent-lianlian-to-scan-the-code-to-add-equipment {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 33px;
+}
+.generate-username-and-password {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 1193px;
+  height: 47px;
+}
+.frame-211 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-204 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._49 {
+  flex-shrink: 0;
+  width: 217px;
+  height: 67px;
+  position: absolute;
+  left: 1346px;
+  top: 4px;
+  overflow: visible;
+}
+.frame-205 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._16-click-device-commissioning-click-device-name-copy-and-save-the-three-pieces-of-device-information-device-name-product-id-and-device-key {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 33px;
+}
+.frame-206 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-207 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+._17-open-password-generation-tool-click-sign-html-enter-the-device-information-just-copied-three-sets-hmac-signature-algorithm-selection-hmac-sha-1-click-generate-you-can-generate-username-and-password-copy-and-save {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 66px;
+}
+.iot-product-analysis-mijia-app {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 1193px;
+  height: 47px;
+}
+.frame-210 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-5 {
+  flex-shrink: 0;
+  width: 796.79px;
+  height: 800px;
+  position: relative;
+  object-fit: cover;
+}
+.image-4 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 592.55px;
+  position: relative;
+  object-fit: cover;
+}
+.relying-on-the-millet-ecosystem-system-mijia-app-is-the-control-center-and-e-commerce-platform-of-millet-ecosystem-products-integrating-device-control-e-commerce-marketing-crowdfunding-platform-and-scene-sharing-and-is-a-total-solution-for-users-intelligent-life-mainly-based-on-intelligent-hardware-covering-hardware-and-family-service-products-connected-to-the-ecological-chain-companies-under-the-mijia-and-all-millet-and-ecological-chain-of-intelligent-products-to-achieve-interoperability-but-also-access-to-open-access-to-third-party-products-is-committed-to-building-a-complete-ecological-closed-loop-from-the-intelligent-access-to-the-product-crowdfunding-incubation-e-commerce-access-to-reach-the-user-control-and-sharing {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 179px;
+}
+.door-and-window-sensors {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 1193px;
+  height: 57px;
+}
+.image-3 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 685.11px;
+  position: relative;
+  object-fit: cover;
+}
+.the-main-body-of-the-door-and-window-sensor-is-mounted-on-the-wall-and-the-split-structure-is-connected-to-the-door-which-controls-the-relay-through-the-door-switch-to-control-the-wash-or-break-of-the-two-s-magnets-to-determine-the-switching-status-of-our-door-or-window {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 85px;
+}
+.frame-208 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.the-door-and-window-sensors-detect-the-signals-from-the-door-opening-and-closing-and-transmit-the-signals-to-the-gateway-a-process-that-uses-a-bluetooth-link-then-it-is-relayed-from-the-gateway-to-the-router-and-finally-from-the-router-to-the-xiaomi-alot-cloud-and-then-in-sent-to-the-associated-xiaomi-furniture-respectively-this-process-uses-a-wifi-link {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 99px;
+}
+.frame-209 {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-1 {
+  flex-shrink: 0;
+  width: 795.35px;
+  height: 800px;
+  position: relative;
+  object-fit: cover;
+}
+.by-creating-an-automation-scene-in-the-mi-home-app-the-door-is-opened-as-a-trigger-condition-as-a-way-to-control-the-switch-of-the-desk-lamp-air-conditioner {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 81px;
+}
+.video-https-www-bilibili-com-video-bv-1-x-r-4-y-1-r-7-r-r-vd-source-fa-1-fa-576-a-1-a-332-d-4070-b-678075-b-7-d-8-f-6 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 89px;
+}
+.video-https-www-bilibili-com-video-bv-1-x-r-4-y-1-r-7-r-r-vd-source-fa-1-fa-576-a-1-a-332-d-4070-b-678075-b-7-d-8-f-6-span {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.video-https-www-bilibili-com-video-bv-1-x-r-4-y-1-r-7-r-r-vd-source-fa-1-fa-576-a-1-a-332-d-4070-b-678075-b-7-d-8-f-6-span2 {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 700;
+}

@@ -4,7 +4,7 @@
 }
 .desktop-29 {
   background: var(--0d0c11, #0d0c11);
-  height: 25975px;
+  height: 22254px;
   position: relative;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   overflow: hidden;
@@ -99,7 +99,7 @@
   font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
 }
-.more {
+.final-project {
   color: #ffffff;
   text-align: left;
   font-family: var(--ui-label-regular-font-family, "Inter-Regular", sans-serif);
@@ -108,15 +108,24 @@
   font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
 }
-.frame-125 {
+.frame-163 {
   display: flex;
   flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
+  gap: 13px;
+  align-items: center;
   justify-content: flex-start;
   position: absolute;
-  left: 160px;
+  left: 142px;
   top: 230px;
+}
+.frame-155 {
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
 }
 .computer-controlled-cutting {
   color: #ffffff;
@@ -127,7 +136,16 @@
   font-weight: var(--h2-heading-font-weight, 800);
   position: relative;
 }
-.laser-cutting {
+.frame-139 {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cnc-cutting {
   color: #ffffff;
   text-align: left;
   font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -138,22 +156,6 @@
   width: 1271px;
   height: 115px;
 }
-.image-1 {
-  flex-shrink: 0;
-  width: 1600px;
-  height: 1066.67px;
-  position: relative;
-  object-fit: cover;
-}
-.frame-112 {
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: relative;
-}
 .how-to-keep-safety {
   color: #ffffff;
   text-align: left;
@@ -162,10 +164,10 @@
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
   position: relative;
-  width: 886px;
-  height: 42.3px;
+  width: 1193px;
+  height: 47px;
 }
-._1-personnel-training-personnel-performing-laser-cutting-operations-must-be-specially-trained-and-carefully-read-the-instruction-manuals-for-the-laser-laser-cutter-laser-cutting-head-and-other-components-before-operation {
+._1-understand-all-the-operation-manual-before-using-the-equipment-to-fully-understand-and-master-the-relevant-instruction-manual-when-new-equipment-is-introduced-the-operating-manual-of-the-equipment-needs-to-be-studied-and-understood-in-detail-2-keep-the-equipment-clean-not-only-the-machine-tool-itself-but-also-the-working-environment-should-be-kept-tidy-chips-and-debris-should-be-cleaned-up-in-a-timely-manner-to-avoid-interfering-with-the-operation-of-the-machine-or-causing-safety-accidents {
   color: #ffffff;
   text-align: left;
   font-family: "Inter-Regular", sans-serif;
@@ -174,57 +176,71 @@
   font-weight: 400;
   position: relative;
   width: 1600px;
-  height: 66px;
+  height: 165px;
+}
+.image-1 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 900px;
+  position: relative;
+  object-fit: cover;
+}
+._3-regular-fine-inspection-for-example-check-whether-the-oil-rubbing-plate-on-the-machine-tool-guideway-is-worn-out-whether-the-lubricant-and-coolant-status-is-normal-if-there-is-any-problem-it-should-be-replaced-or-supplemented-in-time-4-equipment-protection-for-rotating-cutting-tools-belts-and-pulleys-high-voltage-circuits-noise-and-compressed-air-and-other-safety-hazards-brought-about-by-the-preventive-protection-measures-should-be-taken {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 156px;
 }
 .image-2 {
   flex-shrink: 0;
   width: 1600px;
-  height: 1067.64px;
+  height: 898.07px;
   position: relative;
   object-fit: cover;
 }
-.image-3 {
-  flex-shrink: 0;
-  width: 1600px;
-  height: 2266.09px;
-  position: relative;
-  object-fit: cover;
-}
-._2-standard-operating-procedures-start-and-operate-the-machine-in-accordance-with-standard-procedures-especially-when-adjusting-the-external-light-path-to-ensure-that-the-light-path-range-do-not-stand-people-the-operator-dimming-also-need-to-ensure-that-the-human-light-will-not-be-harmed {
+._5-do-not-abuse-the-workbench-it-is-prohibited-to-use-the-machine-tool-workbench-as-other-workbenches-such-as-temporary-storage-of-miscellaneous-items-6-safe-operation-do-not-use-compressed-air-to-blow-off-the-machine-parts-machine-surfaces-cabinets-controllers-or-the-floor-around-the-machine-chips-7-pay-attention-to-rest-prolonged-operation-of-cnc-machine-tools-may-lead-to-fatigue-affecting-judgment-and-operating-ability-therefore-proper-rest-is-also-an-important-measure-to-protect-safety-see-website-for-details-https-www-tukuppt-com-muban-zbokbdro-html-video-https-www-bilibili-com-video-bv-19-x-4-y-1-u-7-oz-vd-source-fa-1-fa-576-a-1-a-332-d-4070-b-678075-b-7-d-8-f-6 {
   color: #ffffff;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "-", sans-serif;
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
   position: relative;
   width: 1600px;
-  height: 66px;
+  height: 363px;
 }
-.image-4 {
-  flex-shrink: 0;
-  width: 1600px;
-  height: 1062.4px;
-  position: relative;
-  object-fit: cover;
-}
-._3-safety-precautions-ensure-relevant-safety-precautions-such-as-having-enough-fire-extinguishers-for-emergencies-and-wearing-professional-protective-gear-such-as-protective-eyewear-and-gloves {
+._5-do-not-abuse-the-workbench-it-is-prohibited-to-use-the-machine-tool-workbench-as-other-workbenches-such-as-temporary-storage-of-miscellaneous-items-6-safe-operation-do-not-use-compressed-air-to-blow-off-the-machine-parts-machine-surfaces-cabinets-controllers-or-the-floor-around-the-machine-chips-7-pay-attention-to-rest-prolonged-operation-of-cnc-machine-tools-may-lead-to-fatigue-affecting-judgment-and-operating-ability-therefore-proper-rest-is-also-an-important-measure-to-protect-safety-see-website-for-details-https-www-tukuppt-com-muban-zbokbdro-html-video-https-www-bilibili-com-video-bv-19-x-4-y-1-u-7-oz-vd-source-fa-1-fa-576-a-1-a-332-d-4070-b-678075-b-7-d-8-f-6-span {
   color: #ffffff;
-  text-align: left;
   font-family: "Inter-Regular", sans-serif;
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 66px;
 }
-.image-5 {
-  flex-shrink: 0;
-  width: 1600px;
-  height: 854.79px;
-  position: relative;
-  object-fit: cover;
+._5-do-not-abuse-the-workbench-it-is-prohibited-to-use-the-machine-tool-workbench-as-other-workbenches-such-as-temporary-storage-of-miscellaneous-items-6-safe-operation-do-not-use-compressed-air-to-blow-off-the-machine-parts-machine-surfaces-cabinets-controllers-or-the-floor-around-the-machine-chips-7-pay-attention-to-rest-prolonged-operation-of-cnc-machine-tools-may-lead-to-fatigue-affecting-judgment-and-operating-ability-therefore-proper-rest-is-also-an-important-measure-to-protect-safety-see-website-for-details-https-www-tukuppt-com-muban-zbokbdro-html-video-https-www-bilibili-com-video-bv-19-x-4-y-1-u-7-oz-vd-source-fa-1-fa-576-a-1-a-332-d-4070-b-678075-b-7-d-8-f-6-span2 {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 700;
+}
+._5-do-not-abuse-the-workbench-it-is-prohibited-to-use-the-machine-tool-workbench-as-other-workbenches-such-as-temporary-storage-of-miscellaneous-items-6-safe-operation-do-not-use-compressed-air-to-blow-off-the-machine-parts-machine-surfaces-cabinets-controllers-or-the-floor-around-the-machine-chips-7-pay-attention-to-rest-prolonged-operation-of-cnc-machine-tools-may-lead-to-fatigue-affecting-judgment-and-operating-ability-therefore-proper-rest-is-also-an-important-measure-to-protect-safety-see-website-for-details-https-www-tukuppt-com-muban-zbokbdro-html-video-https-www-bilibili-com-video-bv-19-x-4-y-1-u-7-oz-vd-source-fa-1-fa-576-a-1-a-332-d-4070-b-678075-b-7-d-8-f-6-span3 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+}
+._5-do-not-abuse-the-workbench-it-is-prohibited-to-use-the-machine-tool-workbench-as-other-workbenches-such-as-temporary-storage-of-miscellaneous-items-6-safe-operation-do-not-use-compressed-air-to-blow-off-the-machine-parts-machine-surfaces-cabinets-controllers-or-the-floor-around-the-machine-chips-7-pay-attention-to-rest-prolonged-operation-of-cnc-machine-tools-may-lead-to-fatigue-affecting-judgment-and-operating-ability-therefore-proper-rest-is-also-an-important-measure-to-protect-safety-see-website-for-details-https-www-tukuppt-com-muban-zbokbdro-html-video-https-www-bilibili-com-video-bv-19-x-4-y-1-u-7-oz-vd-source-fa-1-fa-576-a-1-a-332-d-4070-b-678075-b-7-d-8-f-6-span4 {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 700;
 }
 .frame-124 {
   display: flex;
@@ -234,17 +250,6 @@
   justify-content: flex-start;
   flex-shrink: 0;
   position: relative;
-}
-._4-pay-attention-to-material-selection-and-processing-when-using-the-laser-cutter-the-operator-should-pay-attention-to-the-selection-of-suitable-materials-and-processing-methods-avoiding-the-use-of-flammable-and-explosive-substances-or-materials-harmful-to-the-human-body {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 66px;
 }
 .learn-cnc {
   color: #ffffff;
@@ -268,10 +273,10 @@
   width: 1600px;
   height: 264px;
 }
-.image-6 {
+._1 {
   flex-shrink: 0;
   width: 1600px;
-  height: 1199.4px;
+  height: 727.47px;
   position: relative;
   object-fit: cover;
 }
@@ -286,20 +291,10 @@
   width: 1600px;
   height: 461px;
 }
-.image-7 {
+.frame-123 {
   flex-shrink: 0;
   width: 1600px;
-  height: 1325.94px;
-  position: relative;
-  object-fit: cover;
-}
-.frame-123 {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
+  height: 223px;
   position: relative;
 }
 .cnc-machine-type {
@@ -309,7 +304,9 @@
   font-size: var(--h3-heading-font-size, 40px);
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 0px;
   width: 886px;
   height: 42.3px;
 }
@@ -320,448 +317,436 @@
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 58.3px;
+  width: 1600px;
+  height: 165px;
+}
+.cnc-lathe {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 886px;
+  height: 42.3px;
+}
+.cnc-lathe-is-one-of-the-more-widely-used-cnc-machine-tools-it-is-mainly-used-for-shaft-parts-or-disk-parts-of-the-internal-and-external-cylindrical-surface-any-cone-angle-of-the-internal-and-external-conical-surface-complex-rotary-internal-and-external-surfaces-and-cylindrical-tapered-threads-and-other-cutting-and-can-be-grooving-drilling-reaming-reaming-and-boring-application-cnc-lathe-is-a-high-precision-high-efficiency-machining-equipment-widely-used-in-many-fields-including-automotive-manufacturing-aerospace-manufacturing-mold-and-die-manufacturing-electronic-equipment-manufacturing-medical-device-manufacturing-and-energy-equipment-manufacturing {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 231px;
+}
+.cnc-lathe-is-one-of-the-more-widely-used-cnc-machine-tools-it-is-mainly-used-for-shaft-parts-or-disk-parts-of-the-internal-and-external-cylindrical-surface-any-cone-angle-of-the-internal-and-external-conical-surface-complex-rotary-internal-and-external-surfaces-and-cylindrical-tapered-threads-and-other-cutting-and-can-be-grooving-drilling-reaming-reaming-and-boring-application-cnc-lathe-is-a-high-precision-high-efficiency-machining-equipment-widely-used-in-many-fields-including-automotive-manufacturing-aerospace-manufacturing-mold-and-die-manufacturing-electronic-equipment-manufacturing-medical-device-manufacturing-and-energy-equipment-manufacturing-span {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.cnc-lathe-is-one-of-the-more-widely-used-cnc-machine-tools-it-is-mainly-used-for-shaft-parts-or-disk-parts-of-the-internal-and-external-cylindrical-surface-any-cone-angle-of-the-internal-and-external-conical-surface-complex-rotary-internal-and-external-surfaces-and-cylindrical-tapered-threads-and-other-cutting-and-can-be-grooving-drilling-reaming-reaming-and-boring-application-cnc-lathe-is-a-high-precision-high-efficiency-machining-equipment-widely-used-in-many-fields-including-automotive-manufacturing-aerospace-manufacturing-mold-and-die-manufacturing-electronic-equipment-manufacturing-medical-device-manufacturing-and-energy-equipment-manufacturing-span2 {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 700;
+}
+.cnc-lathe-is-one-of-the-more-widely-used-cnc-machine-tools-it-is-mainly-used-for-shaft-parts-or-disk-parts-of-the-internal-and-external-cylindrical-surface-any-cone-angle-of-the-internal-and-external-conical-surface-complex-rotary-internal-and-external-surfaces-and-cylindrical-tapered-threads-and-other-cutting-and-can-be-grooving-drilling-reaming-reaming-and-boring-application-cnc-lathe-is-a-high-precision-high-efficiency-machining-equipment-widely-used-in-many-fields-including-automotive-manufacturing-aerospace-manufacturing-mold-and-die-manufacturing-electronic-equipment-manufacturing-medical-device-manufacturing-and-energy-equipment-manufacturing-span3 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.cnc-lathe-is-one-of-the-more-widely-used-cnc-machine-tools-it-is-mainly-used-for-shaft-parts-or-disk-parts-of-the-internal-and-external-cylindrical-surface-any-cone-angle-of-the-internal-and-external-conical-surface-complex-rotary-internal-and-external-surfaces-and-cylindrical-tapered-threads-and-other-cutting-and-can-be-grooving-drilling-reaming-reaming-and-boring-application-cnc-lathe-is-a-high-precision-high-efficiency-machining-equipment-widely-used-in-many-fields-including-automotive-manufacturing-aerospace-manufacturing-mold-and-die-manufacturing-electronic-equipment-manufacturing-medical-device-manufacturing-and-energy-equipment-manufacturing-span4 {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 700;
+}
+.frame-153 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-5 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1153.33px;
+  position: relative;
+  object-fit: cover;
+}
+.cak-6150-cnc-lathe {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 286px;
+  height: 46px;
+}
+.frame-152 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-140 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-6 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 643.33px;
+  position: relative;
+  object-fit: cover;
+}
+.rectangle-100 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  flex-shrink: 0;
+  width: 203px;
+  height: 282px;
+  position: absolute;
+  left: 90px;
+  top: 124px;
+}
+.stainless-steel-bar-stock-is-added-to-the-spindle-through-the-jaws-and-clamped-with-hardened-jaws-with-biting-teeth-on-the-surface-to-ensure-that-the-workpiece-does-not-slide {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
   position: relative;
   width: 1600px;
   height: 165px;
 }
-.process-use-classification {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
+.frame-146 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
   position: relative;
-  width: 886px;
-  height: 42.3px;
 }
-.general-cnc-machine-tools {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
+.frame-141 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
   position: relative;
-  width: 886px;
-  height: 29px;
 }
-.ordinary-cnc-machine-tools-generally-refers-to-a-process-in-the-machining-process-to-achieve-digital-control-of-automated-machine-tools-such-as-cnc-milling-machine-cnc-lathe-cnc-drilling-machine-cnc-grinding-machine-and-cnc-gear-processing-machine-tools-and-so-on-ordinary-cnc-machine-tools-in-the-degree-of-automation-is-not-perfect-tool-replacement-and-clamping-of-parts-still-need-to-be-completed-manually {
+.image-7 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 655.91px;
+  position: relative;
+  object-fit: cover;
+}
+.rectangle-101 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
+  flex-shrink: 0;
+  width: 131px;
+  height: 109px;
+  position: absolute;
+  left: 591px;
+  top: 136.94px;
+}
+.c-type-external-round {
   color: #ffffff;
-  text-align: left;
+  text-align: center;
   font-family: "Inter-Regular", sans-serif;
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
   position: relative;
-  width: 1600px;
-  height: 99px;
+  width: 286px;
+  height: 46px;
+}
+.frame-147 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-142 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
 }
 .image-8 {
   flex-shrink: 0;
   width: 1600px;
-  height: 1282.19px;
+  height: 608.87px;
   position: relative;
   object-fit: cover;
 }
-.frame-122 {
-  display: flex;
-  flex-direction: column;
-  gap: 13px;
-  align-items: flex-start;
-  justify-content: flex-start;
+.rectangle-102 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
   flex-shrink: 0;
-  position: relative;
+  width: 181px;
+  height: 190px;
+  position: absolute;
+  left: 992px;
+  top: 111px;
 }
-.machining-centers {
+.v-shaped-roughing-cutter {
   color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 29px;
-}
-.machining-centers-are-cnc-machine-tools-with-tool-magazines-and-automatic-tool-changers-which-combine-the-functions-of-cnc-milling-machines-cnc-boring-machines-and-cnc-drilling-machines-and-the-parts-can-be-milled-with-most-of-their-machined-surfaces-after-one-clamping {
-  color: #ffffff;
-  text-align: left;
+  text-align: center;
   font-family: "Inter-Regular", sans-serif;
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
   position: relative;
-  width: 1600px;
-  height: 66px;
+  width: 286px;
+  height: 46px;
+}
+.frame-148 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-143 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
 }
 .image-9 {
   flex-shrink: 0;
   width: 1600px;
-  height: 1287.54px;
+  height: 631.92px;
   position: relative;
   object-fit: cover;
 }
-.frame-121 {
-  display: flex;
-  flex-direction: column;
-  gap: 18px;
-  align-items: flex-start;
-  justify-content: flex-start;
+.rectangle-103 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
   flex-shrink: 0;
-  position: relative;
+  width: 102px;
+  height: 164px;
+  position: absolute;
+  left: 992px;
+  top: 171px;
 }
-.classification-of-movement-styles {
+.v-shaped-external-cutter {
   color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 42.3px;
-}
-.point-control-cnc-machine-tools {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 29px;
-}
-.the-cnc-system-only-controls-the-exact-position-of-the-tool-from-one-point-to-another-without-controlling-the-trajectory-of-the-movement-the-movement-between-the-coordinate-axes-is-irrelevant-and-the-workpiece-is-not-processed-during-the-movement-these-cnc-machine-tools-are-mainly-cnc-drilling-machines-cnc-coordinate-boring-machines-cnc-punching-machines-and-so-on {
-  color: #ffffff;
-  text-align: left;
+  text-align: center;
   font-family: "Inter-Regular", sans-serif;
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
   position: relative;
-  width: 1600px;
-  height: 99px;
+  width: 286px;
+  height: 46px;
+}
+.frame-149 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-144 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
 }
 .image-10 {
   flex-shrink: 0;
   width: 1600px;
-  height: 1198.82px;
+  height: 613.39px;
   position: relative;
   object-fit: cover;
 }
-.frame-120 {
-  display: flex;
-  flex-direction: column;
-  gap: 13px;
-  align-items: flex-start;
-  justify-content: flex-start;
+.rectangle-104 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
   flex-shrink: 0;
-  position: relative;
+  width: 198px;
+  height: 164px;
+  position: absolute;
+  left: 920px;
+  top: 114px;
 }
-.linear-control-cnc-machine-tools {
+.threaded-tool-lathe {
   color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 29px;
-}
-.cnc-system-in-addition-to-controlling-the-exact-position-between-the-point-and-the-point-but-also-to-ensure-that-the-trajectory-of-the-movement-between-the-two-points-is-a-straight-line-and-the-speed-of-movement-should-also-be-controlled-also-known-as-point-linear-control-this-type-of-cnc-machine-tool-is-mainly-a-relatively-simple-cnc-lathe-cnc-milling-machine-cnc-grinding-machine-and-so-on-cnc-machine-tools-used-solely-for-linear-control-has-been-rare {
-  color: #ffffff;
-  text-align: left;
+  text-align: center;
   font-family: "Inter-Regular", sans-serif;
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
   position: relative;
-  width: 1600px;
-  height: 132px;
+  width: 286px;
+  height: 46px;
+}
+.frame-150 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-145 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
 }
 .image-11 {
   flex-shrink: 0;
   width: 1600px;
-  height: 1355.15px;
+  height: 748.77px;
   position: relative;
   object-fit: cover;
 }
-.frame-119 {
-  display: flex;
-  flex-direction: column;
-  gap: 13px;
-  align-items: flex-start;
-  justify-content: flex-start;
+.rectangle-105 {
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 2px;
   flex-shrink: 0;
-  position: relative;
+  width: 105px;
+  height: 232px;
+  position: absolute;
+  left: 643px;
+  top: 10px;
 }
-.contour-control-cnc-machine-tools {
+.slotter {
   color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 29px;
-}
-.contour-control-is-characterized-by-the-ability-to-two-or-more-movement-coordinates-of-displacement-and-speed-at-the-same-time-for-continuous-related-control-it-is-not-only-to-control-the-machine-tool-moving-parts-of-the-starting-point-and-end-point-coordinates-but-also-to-control-the-entire-machining-process-of-each-point-of-the-speed-direction-and-displacement-also-known-as-the-continuous-control-of-cnc-machine-tools-these-cnc-machine-tools-are-mainly-cnc-lathes-cnc-milling-machines-cnc-wire-cutting-machine-tools-machining-centers-and-so-on {
-  color: #ffffff;
-  text-align: left;
+  text-align: center;
   font-family: "Inter-Regular", sans-serif;
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
   position: relative;
-  width: 1600px;
-  height: 132px;
+  width: 286px;
+  height: 46px;
+}
+.frame-151 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
 }
 .image-12 {
   flex-shrink: 0;
-  width: 1600px;
-  height: 1289.06px;
+  width: 1610px;
+  height: 609px;
   position: relative;
   object-fit: cover;
 }
-.frame-118 {
+.final-product {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 286px;
+  height: 46px;
+}
+.frame-154 {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 32px;
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
   position: relative;
 }
-.classification-of-control-methods {
+.video-https-www-bilibili-com-video-bv-1-s-1421-i-7-ai-vd-source-fa-1-fa-576-a-1-a-332-d-4070-b-678075-b-7-d-8-f-6 {
   color: #ffffff;
   text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 37px;
-}
-.open-loop-control-cnc-machine-tools {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 29px;
-}
-.this-type-of-machine-tool-does-not-have-a-position-detection-feedback-device-and-usually-uses-a-stepping-motor-as-the-actuator-the-input-data-is-calculated-by-the-numerical-control-system-and-a-pulse-command-is-issued-to-make-the-stepping-motor-turn-through-a-step-angle-which-is-then-converted-into-a-straight-line-movement-of-the-table-through-the-mechanical-transmission-mechanism-and-the-moving-speed-and-displacement-of-the-moving-parts-are-determined-by-the-frequency-of-the-input-pulse-and-the-number-of-pulses {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "-", sans-serif;
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
   position: relative;
-  width: 1600px;
-  height: 146px;
+  width: 1266px;
+  height: 46px;
 }
-.image-13 {
-  flex-shrink: 0;
-  width: 1600px;
-  height: 1073.2px;
-  position: relative;
-  object-fit: cover;
-}
-.frame-117 {
-  display: flex;
-  flex-direction: column;
-  gap: 13px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: relative;
-}
-.semi-closed-loop-control-cnc-machine-tools {
+.video-https-www-bilibili-com-video-bv-1-s-1421-i-7-ai-vd-source-fa-1-fa-576-a-1-a-332-d-4070-b-678075-b-7-d-8-f-6-span {
   color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 29px;
-}
-.a-detection-element-such-as-an-inductive-synchronizer-or-a-photoelectric-encoder-etc-is-installed-at-the-end-of-the-motor-or-the-end-of-the-screw-to-indirectly-detect-the-displacement-of-the-moving-part-by-detecting-its-rotational-angle-which-is-then-fed-back-into-the-numerical-control-system-since-most-of-the-mechanical-transmission-links-are-not-included-in-the-closed-loop-loop-of-the-system-more-stable-control-characteristics-can-be-obtained-its-control-accuracy-is-not-as-good-as-the-closed-loop-control-cnc-machine-tools-but-debugging-is-more-convenient-and-therefore-is-widely-used {
-  color: #ffffff;
-  text-align: left;
   font-family: "Inter-Regular", sans-serif;
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 132px;
 }
-.image-14 {
-  flex-shrink: 0;
-  width: 1600px;
-  height: 1028.57px;
-  position: relative;
-  object-fit: cover;
-}
-.frame-116 {
-  display: flex;
-  flex-direction: column;
-  gap: 13px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: relative;
-}
-.closed-loop-control-cnc-machine-tools {
+.video-https-www-bilibili-com-video-bv-1-s-1421-i-7-ai-vd-source-fa-1-fa-576-a-1-a-332-d-4070-b-678075-b-7-d-8-f-6-span2 {
   color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 29px;
-}
-.this-kind-of-cnc-machine-tool-with-position-detection-and-feedback-device-its-position-detection-and-feedback-device-using-linear-displacement-detection-element-directly-installed-in-the-moving-parts-of-the-machine-tool-the-measurement-results-will-be-directly-feedback-to-the-numerical-control-device-through-the-feedback-can-be-eliminated-from-the-motor-to-the-machine-tool-moving-parts-of-the-entire-mechanical-transmission-chain-in-the-transmission-error-and-ultimately-realize-the-precise-positioning {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Bold", sans-serif;
   font-size: 22px;
   line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 146px;
-}
-.frame-115 {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: relative;
-}
-.cnc-applications {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 42.3px;
-}
-.machinery-industry {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 42.3px;
-}
-.it-is-used-for-processing-mechanical-parts-molds-bearings-and-other-parts-which-can-improve-processing-accuracy-and-efficiency-it-is-widely-used-in-machinery-manufacturing-and-has-an-important-role-in-promoting-the-development-of-the-machinery-industry {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 146px;
-}
-.aerospace-industry-is-a-high-precision-and-demanding-industry-where-cnc-lathes-are-widely-used-through-the-application-of-cnc-systems-the-manufacturing-precision-and-stability-of-parts-can-be-greatly-improved-to-ensure-the-safety-and-reliability-of-aircraft-satellites-and-other-equipment {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 66px;
-}
-.automotive {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 29px;
-}
-.automobile-manufacturing-requires-a-large-number-of-parts-the-application-of-cnc-lathe-can-significantly-improve-production-efficiency-and-production-quality-at-the-same-time-the-processing-requirements-of-automobile-parts-are-very-high-cnc-lathe-can-ensure-the-accuracy-and-repeatability-of-processing-improve-production-efficiency-and-quality {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 99px;
-}
-.service-industry {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 29px;
-}
-.electronics-machine-tools-molds-and-other-manufacturing-industries-can-use-cnc-lathes-for-processing-improve-productivity-and-quality-and-reduce-production-costs {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 66px;
-}
-.aerospace-industry {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h4-heading-font-size, 24px);
-  line-height: var(--h4-heading-line-height, 110%);
-  font-weight: var(--h4-heading-font-weight, 800);
-  position: absolute;
-  left: 0px;
-  top: 238px;
-  width: 886px;
-  height: 29px;
+  font-weight: 700;
 }
 .frame-114 {
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-  align-items: flex-start;
-  justify-content: flex-start;
   flex-shrink: 0;
+  width: 1600px;
+  height: 852.3px;
   position: relative;
 }
 .make-sure-the-machine {
@@ -771,20 +756,11 @@
   font-size: var(--h3-heading-font-size, 40px);
   line-height: var(--h3-heading-line-height, 110%);
   font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 0px;
   width: 886px;
   height: 37px;
-}
-.what-we-want-to-make-is-gears-that-were-originally-made-using-a-3-d-printer-given-the-high-precision-requirements-for-a-pair-of-teeth-we-ultimately-chose-a-cnc-milling-machine-machining-center-to-machine-the-gears {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 66px;
 }
 .reason-for-selection {
   color: #ffffff;
@@ -793,7 +769,9 @@
   font-size: var(--h4-heading-font-size, 24px);
   line-height: var(--h4-heading-line-height, 110%);
   font-weight: var(--h4-heading-font-weight, 800);
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 163px;
   width: 886px;
   height: 42.3px;
 }
@@ -804,7 +782,9 @@
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 235.3px;
   width: 1600px;
   height: 330px;
 }
@@ -815,7 +795,9 @@
   font-size: var(--h4-heading-font-size, 24px);
   line-height: var(--h4-heading-line-height, 110%);
   font-weight: var(--h4-heading-font-weight, 800);
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 595.3px;
   width: 886px;
   height: 29px;
 }
@@ -826,21 +808,45 @@
   font-size: 22px;
   line-height: 150%;
   font-weight: 400;
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 654.3px;
   width: 1600px;
   height: 198px;
 }
-.image-15 {
+.the-cnc-milling-machine-in-the-video-as-a-tool-provides-many-conveniences-for-the-processing-personnel {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 83px;
+  width: 1583px;
+  height: 33px;
+}
+._2 {
   flex-shrink: 0;
   width: 1600px;
-  height: 1066.8px;
+  height: 629.15px;
   position: relative;
   object-fit: cover;
 }
-.frame-113 {
+.frame-162 {
   display: flex;
   flex-direction: column;
-  gap: 41px;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-137 {
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
@@ -857,7 +863,7 @@
   width: 886px;
   height: 37px;
 }
-.we-want-to-make-a-lightweight-and-wear-resistant-gear-that-is-easy-to-process-on-cnc-milling-machines-machining-centers-based-on-the-above-requirements-we-have-chosen-medium-carbon-alloy-steel-as-the-processing-material {
+.in-the-video-a-complex-threaded-part-was-processed-using-stainless-steel-which-is-the-most-common-metal-raw-material {
   color: #ffffff;
   text-align: left;
   font-family: "Inter-Regular", sans-serif;
@@ -865,8 +871,8 @@
   line-height: 150%;
   font-weight: 400;
   position: relative;
-  width: 1600px;
-  height: 66px;
+  width: 1583px;
+  height: 33px;
 }
 .material-definition {
   color: #ffffff;
@@ -879,7 +885,7 @@
   width: 886px;
   height: 29px;
 }
-.medium-carbon-alloy-steel-refers-to-steel-grades-with-a-carbon-content-between-0-25-and-0-6-and-with-the-addition-of-small-amounts-of-alloying-elements-such-as-chromium-manganese-molybdenum-etc-the-main-components-include-iron-carbon-silicon-manganese-etc-the-addition-of-alloying-elements-gives-medium-carbon-alloy-steel-unique-properties {
+.stainless-steel-is-an-alloy-steel-mainly-composed-of-iron-fe-and-at-least-10-5-chromium-cr-and-may-contain-other-elements-such-as-nickel-ni-molybdenum-mo-titanium-ti-and-copper-cu-chromium-is-the-most-important-alloying-element-in-stainless-steel-as-it-can-form-a-dense-layer-of-chromium-oxide-cr-o-film-on-the-surface-of-the-steel-which-can-prevent-further-oxidation-and-corrosion-of-the-steel-giving-stainless-steel-excellent-corrosion-resistance {
   color: #ffffff;
   text-align: left;
   font-family: "Inter-Regular", sans-serif;
@@ -888,9 +894,9 @@
   font-weight: 400;
   position: relative;
   width: 1600px;
-  height: 106px;
+  height: 132px;
 }
-.material-advantages {
+.the-reason-for-choosing-stainless-steel-as-the-raw-material {
   color: #ffffff;
   text-align: left;
   font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -901,7 +907,7 @@
   width: 886px;
   height: 29px;
 }
-.strength-and-toughness-medium-carbon-alloy-steel-has-high-strength-and-toughness-and-can-maintain-shape-and-structural-integrity-when-subjected-to-strong-forces-and-collisions-wear-resistance-due-to-the-addition-of-alloying-elements-the-wear-resistance-of-medium-carbon-alloy-steel-is-better-than-that-of-ordinary-carbon-steel-making-it-suitable-for-components-that-require-long-term-use-workability-medium-carbon-alloy-steel-has-good-malleability-and-machinability-and-its-properties-can-be-changed-through-heat-treatment-or-cold-processing-to-adapt-to-different-types-of-manufacturing-processes {
+.corrosion-resistance-stainless-steel-has-excellent-corrosion-resistance-and-can-maintain-constant-corrosion-resistance-in-air-or-corrosive-media-high-strength-and-toughness-stainless-steel-exhibits-high-strength-and-toughness-over-a-wide-temperature-range-enabling-it-to-withstand-various-stresses-and-impacts-processing-characteristics-although-stainless-steel-may-encounter-some-problems-during-the-processing-such-as-severe-work-hardening-high-cutting-force-high-cutting-temperature-and-easy-tool-wear-it-can-adapt-to-higher-cutting-speeds-and-optimize-the-processing-by-selecting-appropriate-tools-processing-parameters-and-surface-treatment-methods-environmental-protection-and-recyclability-the-100-recyclability-of-stainless-steel-provides-a-new-way-for-environmental-protection-which-meets-the-requirements-of-modern-manufacturing-for-sustainable-development {
   color: #eeeeee;
   text-align: left;
   font-family: "Inter-Regular", sans-serif;
@@ -910,12 +916,358 @@
   font-weight: 400;
   position: relative;
   width: 1600px;
-  height: 198px;
+  height: 264px;
+}
+._3 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 972px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-161 {
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-160 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.laser-cutting {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+  width: 1271px;
+  height: 115px;
+}
+.image-15 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1063.83px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-156 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.laser-cutting-is-the-use-of-focused-high-power-density-laser-beam-irradiation-workpiece-so-that-the-irradiated-material-rapidly-melting-vaporization-ablation-or-to-reach-the-ignition-point-and-at-the-same-time-with-the-help-of-coaxial-with-the-beam-of-high-speed-airflow-blowing-off-the-molten-material-so-as-to-achieve-the-workpiece-cut-laser-cutting-belongs-to-one-of-the-thermal-cutting-methods {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 121px;
+}
+.frame-138 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1600px;
+  position: relative;
+}
+.overall-environmental-protection {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 1193px;
+  height: 29px;
+}
+.environmental-settings-when-using-laser-cutting-machine-corners-and-baffles-should-be-set-up-in-the-cutting-area-to-avoid-the-laser-s-rebound-from-harming-the-human-body-installation-of-protective-facilities-the-use-of-laser-must-be-equipped-with-professional-protective-equipment-such-as-ultraviolet-laser-and-electromagnetic-radiation-protection-devices-maintain-the-equipment-regularly-check-and-maintain-the-laser-cutting-machine-to-ensure-that-the-equipment-can-operate-normally-and-reduce-the-occurrence-of-accidents {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 264px;
+}
+.environmental-settings-when-using-laser-cutting-machine-corners-and-baffles-should-be-set-up-in-the-cutting-area-to-avoid-the-laser-s-rebound-from-harming-the-human-body-installation-of-protective-facilities-the-use-of-laser-must-be-equipped-with-professional-protective-equipment-such-as-ultraviolet-laser-and-electromagnetic-radiation-protection-devices-maintain-the-equipment-regularly-check-and-maintain-the-laser-cutting-machine-to-ensure-that-the-equipment-can-operate-normally-and-reduce-the-occurrence-of-accidents-span {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.environmental-settings-when-using-laser-cutting-machine-corners-and-baffles-should-be-set-up-in-the-cutting-area-to-avoid-the-laser-s-rebound-from-harming-the-human-body-installation-of-protective-facilities-the-use-of-laser-must-be-equipped-with-professional-protective-equipment-such-as-ultraviolet-laser-and-electromagnetic-radiation-protection-devices-maintain-the-equipment-regularly-check-and-maintain-the-laser-cutting-machine-to-ensure-that-the-equipment-can-operate-normally-and-reduce-the-occurrence-of-accidents-span2 {
+  color: #ffffff;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 500;
+}
+.environmental-settings-when-using-laser-cutting-machine-corners-and-baffles-should-be-set-up-in-the-cutting-area-to-avoid-the-laser-s-rebound-from-harming-the-human-body-installation-of-protective-facilities-the-use-of-laser-must-be-equipped-with-professional-protective-equipment-such-as-ultraviolet-laser-and-electromagnetic-radiation-protection-devices-maintain-the-equipment-regularly-check-and-maintain-the-laser-cutting-machine-to-ensure-that-the-equipment-can-operate-normally-and-reduce-the-occurrence-of-accidents-span3 {
+  color: #ffffff;
+  font-family: "Inter-BoldItalic", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 700;
+  font-style: italic;
+}
+.environmental-settings-when-using-laser-cutting-machine-corners-and-baffles-should-be-set-up-in-the-cutting-area-to-avoid-the-laser-s-rebound-from-harming-the-human-body-installation-of-protective-facilities-the-use-of-laser-must-be-equipped-with-professional-protective-equipment-such-as-ultraviolet-laser-and-electromagnetic-radiation-protection-devices-maintain-the-equipment-regularly-check-and-maintain-the-laser-cutting-machine-to-ensure-that-the-equipment-can-operate-normally-and-reduce-the-occurrence-of-accidents-span4 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.personal-protection {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 1193px;
+  height: 31px;
+}
+.wear-protective-eyewear-the-operator-must-wear-qualified-laser-protective-eyewear-which-can-effectively-prevent-the-laser-beam-from-harming-the-eyes-wear-protective-gloves-during-operation-protective-gloves-should-be-worn-to-avoid-injury-to-the-hands-from-laser-radiation-wear-suitable-protective-clothing-suitable-protective-clothing-is-required-to-prevent-laser-burns-or-burns-to-the-skin {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 176px;
+}
+.wear-protective-eyewear-the-operator-must-wear-qualified-laser-protective-eyewear-which-can-effectively-prevent-the-laser-beam-from-harming-the-eyes-wear-protective-gloves-during-operation-protective-gloves-should-be-worn-to-avoid-injury-to-the-hands-from-laser-radiation-wear-suitable-protective-clothing-suitable-protective-clothing-is-required-to-prevent-laser-burns-or-burns-to-the-skin-span {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.wear-protective-eyewear-the-operator-must-wear-qualified-laser-protective-eyewear-which-can-effectively-prevent-the-laser-beam-from-harming-the-eyes-wear-protective-gloves-during-operation-protective-gloves-should-be-worn-to-avoid-injury-to-the-hands-from-laser-radiation-wear-suitable-protective-clothing-suitable-protective-clothing-is-required-to-prevent-laser-burns-or-burns-to-the-skin-span2 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 900;
+}
+.wear-protective-eyewear-the-operator-must-wear-qualified-laser-protective-eyewear-which-can-effectively-prevent-the-laser-beam-from-harming-the-eyes-wear-protective-gloves-during-operation-protective-gloves-should-be-worn-to-avoid-injury-to-the-hands-from-laser-radiation-wear-suitable-protective-clothing-suitable-protective-clothing-is-required-to-prevent-laser-burns-or-burns-to-the-skin-span3 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.wear-protective-eyewear-the-operator-must-wear-qualified-laser-protective-eyewear-which-can-effectively-prevent-the-laser-beam-from-harming-the-eyes-wear-protective-gloves-during-operation-protective-gloves-should-be-worn-to-avoid-injury-to-the-hands-from-laser-radiation-wear-suitable-protective-clothing-suitable-protective-clothing-is-required-to-prevent-laser-burns-or-burns-to-the-skin-span4 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 900;
+}
+.wear-protective-eyewear-the-operator-must-wear-qualified-laser-protective-eyewear-which-can-effectively-prevent-the-laser-beam-from-harming-the-eyes-wear-protective-gloves-during-operation-protective-gloves-should-be-worn-to-avoid-injury-to-the-hands-from-laser-radiation-wear-suitable-protective-clothing-suitable-protective-clothing-is-required-to-prevent-laser-burns-or-burns-to-the-skin-span5 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.wear-protective-eyewear-the-operator-must-wear-qualified-laser-protective-eyewear-which-can-effectively-prevent-the-laser-beam-from-harming-the-eyes-wear-protective-gloves-during-operation-protective-gloves-should-be-worn-to-avoid-injury-to-the-hands-from-laser-radiation-wear-suitable-protective-clothing-suitable-protective-clothing-is-required-to-prevent-laser-burns-or-burns-to-the-skin-span6 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 900;
+}
+.wear-protective-eyewear-the-operator-must-wear-qualified-laser-protective-eyewear-which-can-effectively-prevent-the-laser-beam-from-harming-the-eyes-wear-protective-gloves-during-operation-protective-gloves-should-be-worn-to-avoid-injury-to-the-hands-from-laser-radiation-wear-suitable-protective-clothing-suitable-protective-clothing-is-required-to-prevent-laser-burns-or-burns-to-the-skin-span7 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.machine-operation {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 1193px;
+  height: 31px;
+}
+.caution-when-using-the-laser-cutting-machine-it-must-be-operated-cautiously-to-avoid-harm-caused-by-accidental-misoperation-cutting-area-protection-for-the-cutting-area-it-should-be-operated-in-strict-accordance-with-the-operation-procedure-to-prevent-the-laser-from-irradiating-the-irrelevant-area-standardized-operation-process-in-the-operation-process-the-laser-cutting-machine-must-be-operated-in-accordance-with-the-standardized-process-and-the-operation-process-or-operation-parameters-must-not-be-changed-at-will {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 241px;
+}
+.different-kind-of-material-which-can-be-manufacture-by-laser-cutting {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 1682px;
+  height: 47px;
+}
+.stainless-steels-acrylic-glass {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  width: 1193px;
+  height: 128px;
+}
+.stainless-steels-cutting {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 1193px;
+  height: 47px;
+}
+._1-preparation-determine-the-cutting-size-workpiece-surface-cleanliness-and-flatness-and-choose-suitable-cutting-machine-and-equipment-2-setting-parameters-adjust-the-laser-power-scanning-speed-gas-flow-and-other-parameters-according-to-the-material-thickness-material-cutting-shape-processing-requirements-and-other-factors-3-preheating-and-pre-melting-before-the-laser-beam-irradiates-the-workpiece-inert-gas-is-sprayed-to-the-surface-of-the-workpiece-through-the-nozzle-to-increase-the-surface-temperature-and-reduce-the-influence-of-the-laser-beam-on-the-workpiece-when-cutting-4-cutting-and-processing-the-laser-beam-focuses-on-the-surface-of-the-workpiece-melting-and-vaporizing-the-stainless-steel-material-through-the-action-of-high-temperature-and-high-energy-to-form-the-cutting-opening-5-cleaning-and-processing-remove-the-iron-filings-oxides-and-other-impurities-generated-during-the-cutting-process-and-polish-and-paint-the-cutout-to-improve-the-surface-quality {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 446px;
+}
+.frame-157 {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
 }
 .image-16 {
   flex-shrink: 0;
   width: 1600px;
-  height: 552.38px;
+  height: 900px;
+  position: relative;
+  object-fit: cover;
+}
+.acrylic-cutting {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 1193px;
+  height: 53px;
+}
+._1-preparation-check-whether-the-laser-cutting-machine-works-properly-adjust-the-cutting-parameters-to-ensure-the-cutting-quality-2-measuring-and-marking-use-ruler-and-pencil-to-measure-and-mark-on-the-acrylic-board-to-determine-the-position-and-size-to-be-cut-3-fix-the-acrylic-board-fix-the-acrylic-board-on-the-working-table-of-the-laser-cutting-machine-to-ensure-safety-and-reliability-4-set-cutting-parameters-according-to-the-thickness-of-the-acrylic-plate-and-cutting-requirements-set-the-laser-cutting-parameters-including-power-speed-etc-5-start-cutting-start-the-laser-cutting-machine-let-it-cut-according-to-the-preset-parameters-6-observe-the-cutting-process-during-the-cutting-process-observe-the-cutting-status-to-ensure-the-cutting-quality-7-remove-the-cut-pieces-after-the-cutting-is-completed-carefully-remove-the-cut-acrylic-pieces-8-remove-residue-clean-up-the-residue-in-the-cutting-area-to-keep-the-working-environment-tidy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 548px;
+}
+.frame-159 {
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-17 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 1199.4px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-158 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.glass-cutting {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 1193px;
+  height: 53px;
+}
+._1-confirm-the-type-of-glass-and-obtain-information-on-the-material-and-thickness-of-the-glass-2-2-prepare-fine-dust-cloths-and-items-to-wipe-the-glass-surface-to-ensure-that-the-surface-of-the-glass-is-clean-3-post-signs-and-set-up-isolation-zones-in-the-cutting-area-to-remind-the-surrounding-personnel-to-pay-attention-to-safety-4-design-and-adjust-the-cutting-pattern-and-import-the-required-cutting-pattern-into-the-laser-cutting-machine-5-fix-the-glass-on-the-cutting-table-and-adjust-the-angle-and-position-6-start-the-laser-cutting-through-the-control-system-of-the-laser-cutting-machine-7-according-to-the-set-cutting-pattern-the-laser-cutting-machine-will-automatically-carry-out-cutting-until-the-whole-pattern-is-completed-8-turn-off-the-light-cutter-and-wait-for-the-cut-glass-to-cool-down-9-remove-the-remaining-edges-and-rusty-places-around-the-cutting-pattern-to-ensure-the-glass-surface-is-smooth-10-grind-or-polish-around-the-cutting-pattern-to-improve-the-appearance-of-the-glass {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1600px;
+  height: 640px;
+}
+.image-18 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 603.55px;
   position: relative;
   object-fit: cover;
 }
