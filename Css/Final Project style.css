@@ -4,7 +4,7 @@
 }
 .desktop-5 {
   background: #000000;
-  height: 9211px;
+  height: 18400px;
   position: relative;
   overflow: hidden;
 }
@@ -25,47 +25,6 @@
   transform-origin: 0 0;
   transform: rotate(45deg) scale(1, 1);
   filter: blur(96px);
-}
-.frame-11 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: absolute;
-  left: calc(50% - 341px);
-  top: 247px;
-}
-.frame-10 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  width: 683px;
-  position: relative;
-}
-.h-1-heading {
-  background: var(
-    --linear1,
-    linear-gradient(
-      180deg,
-      rgba(253, 253, 253, 1) 0%,
-      rgba(205, 205, 205, 1) 64.99999761581421%,
-      rgba(155, 155, 155, 1) 100%
-    )
-  );
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-align: center;
-  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h2-heading-font-size, 92px);
-  line-height: var(--h2-heading-line-height, 110%);
-  font-weight: var(--h2-heading-font-weight, 800);
-  position: relative;
-  align-self: stretch;
 }
 .frame-7 {
   background: rgba(255, 255, 255, 0.03);
@@ -148,89 +107,793 @@
   font-weight: var(--ui-label-regular-font-weight, 400);
   position: relative;
 }
-.group-17 {
+.frame-273 {
+  display: flex;
+  flex-direction: column;
+  gap: 143px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1625px;
   position: absolute;
-  inset: 0;
+  left: 150px;
+  top: 237px;
 }
-.image-4 {
-  width: 400px;
-  height: 292.29px;
-  position: absolute;
-  left: 1288px;
-  top: 1993px;
+.frame-216 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.h-1-heading {
+  background: var(
+    --linear1,
+    linear-gradient(
+      180deg,
+      rgba(253, 253, 253, 1) 0%,
+      rgba(205, 205, 205, 1) 64.99999761581421%,
+      rgba(155, 155, 155, 1) 100%
+    )
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h2-heading-font-size, 92px);
+  line-height: var(--h2-heading-line-height, 110%);
+  font-weight: var(--h2-heading-font-weight, 800);
+  position: relative;
+}
+.image-103 {
+  flex-shrink: 0;
+  width: 1600px;
+  height: 897.23px;
+  position: relative;
   object-fit: cover;
 }
-.image-2 {
-  width: 400px;
-  height: 318.43px;
-  position: absolute;
-  left: 1252px;
-  top: 885px;
-  object-fit: cover;
+.frame-243 {
+  display: flex;
+  flex-direction: column;
+  gap: 71px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1519px;
+  position: relative;
 }
-.image-1 {
-  width: 359px;
-  height: 353px;
-  position: absolute;
-  left: 1308px;
-  top: 432px;
-  object-fit: cover;
+.concept-description {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+  height: 47px;
 }
-.focus-on-the-public-s-mental-health-issues {
+.frame-220 {
+  display: flex;
+  flex-direction: row;
+  gap: 333px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-217 {
+  display: flex;
+  flex-direction: column;
+  gap: 68px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 735px;
+  position: relative;
+}
+.mental-health-problem {
   color: #ffffff;
   text-align: left;
   font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
   font-size: var(--h4-heading-font-size, 24px);
   line-height: var(--h4-heading-line-height, 110%);
   font-weight: var(--h4-heading-font-weight, 800);
-  position: absolute;
-  left: 162px;
-  top: 631.15px;
-  width: 1005px;
-  height: 50.95px;
+  position: relative;
+  align-self: stretch;
 }
-.our-sdg-theme-good-health-and-well-being {
+.the-united-nations-sustainable-development-goals-for-good-health-and-wellbeing-aim-to-ensure-a-healthy-lifestyle-and-promote-the-well-being-of-people-of-all-ages-this-goal-aims-to-eradicate-a-range-of-diseases-and-address-various-stubborn-and-emerging-health-issues-especially-in-today-s-21st-century-where-people-s-mental-health-issues-are-often-overlooked-this-is-what-we-want-to-warn-everyone-about-sometimes-the-pain-caused-by-mental-illness-is-even-more-difficult-to-recover {
   color: #ffffff;
   text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: absolute;
-  left: 162px;
-  top: 543.67px;
-  width: 886px;
-  height: 42.3px;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
 }
-.image-5 {
+.image-1 {
+  flex-shrink: 0;
   width: 400px;
-  height: 274px;
-  position: absolute;
-  left: 1285px;
-  top: 2532px;
+  height: 392.57px;
+  position: relative;
   object-fit: cover;
 }
-.frame-40 {
+.frame-221 {
   display: flex;
-  flex-direction: column;
-  gap: 83px;
+  flex-direction: row;
+  gap: 333px;
   align-items: flex-start;
   justify-content: flex-start;
-  height: 1814.94px;
-  position: absolute;
-  left: 162px;
-  top: 762.85px;
+  flex-shrink: 0;
+  position: relative;
 }
-.frame-36 {
+.frame-218 {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 735px;
+  position: relative;
+}
+.fragmented-information-content-with-low-impurities {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.with-the-rise-of-self-media-and-the-emergence-of-rolling-media-the-dissemination-of-information-has-become-more-subjective-with-various-values-and-ideas-flooding-the-entire-network-making-it-difficult-for-everyone-to-distinguish-between-right-and-wrong-in-addition-the-accelerating-pace-of-overall-life-in-society-has-led-to-an-increasing-speed-of-media-browsing-sometimes-unconsciously-acquiescing-to-online-violence-and-accepting-various-negative-thoughts {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.image-104 {
+  flex-shrink: 0;
+  width: 400px;
+  height: 390.48px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-222 {
+  display: flex;
+  flex-direction: row;
+  gap: 333px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-219 {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 735px;
+  position: relative;
+}
+.the-influence-of-ideas-is-unavoidable {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.when-you-browse-through-this-information-you-think-you-can-control-your-thoughts-but-in-fact-no-matter-what-you-cannot-escape-and-will-inevitably-be-influenced-by-it {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.image-2 {
+  flex-shrink: 0;
+  width: 400px;
+  height: 318.43px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-223 {
+  display: flex;
+  flex-direction: row;
+  gap: 284px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2192 {
+  display: flex;
+  flex-direction: column;
+  gap: 190px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 735px;
+  position: relative;
+}
+.to-detach-from-infinite-rolling {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.so-we-want-to-wake-people-up-some-negative-comments-on-the-internet-even-a-casual-accusation-or-verbal-abuse-and-some-opinions-that-only-represent-personal-colors-accumulate-little-by-little-and-accumulate-one-sentence-at-a-time-which-can-subtly-affect-a-person-even-if-you-subconsciously-want-to-delete-or-block-it-it-has-already-left-an-indelible-impact-in-your-mind-and-eventually-unconsciously-your-thoughts-gradually-become-biased {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.image-105 {
+  flex-shrink: 0;
+  width: 500px;
+  height: 627.07px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-229 {
+  display: flex;
+  flex-direction: column;
+  gap: 41px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1469px;
+  position: relative;
+}
+.target-users {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.frame-226 {
+  display: flex;
+  flex-direction: row;
+  gap: 334px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2193 {
   display: flex;
   flex-direction: column;
   gap: 40px;
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
+  width: 735px;
   position: relative;
 }
-.project-concept {
+.net-addict {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.the-world-health-organization-identifies-internet-addiction-as-a-disease-the-popularization-of-the-internet-in-china-has-led-to-an-increase-in-internet-addiction-patients-and-those-who-are-addicted-to-the-internet-are-easily-influenced-by-online-speech-and-lose-their-ability-to-think-independently {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.image-106 {
+  flex-shrink: 0;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-227 {
+  display: flex;
+  flex-direction: row;
+  gap: 334px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-224 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 735px;
+  position: relative;
+}
+.heads-down-tribe {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.the-characteristics-of-the-bowing-head-tribe-are-walking-and-playing-with-mobile-phones-overly-relying-on-the-internet-often-neglecting-security-and-easily-influenced-by-erroneous-statements {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.image-107 {
+  flex-shrink: 0;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-228 {
+  display: flex;
+  flex-direction: row;
+  gap: 334px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-225 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 735px;
+  position: relative;
+}
+.keyboard-warrior {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.keyboardist-is-passionate-about-creating-topics-and-attracting-attention-through-extreme-remarks-essentially-serving-as-a-source-of-spreading-rumors {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.image-108 {
+  flex-shrink: 0;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-272 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1575px;
+  position: relative;
+}
+.frame-271 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.device-implementation {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 1555px;
+}
+.frame-241 {
+  display: flex;
+  flex-direction: column;
+  gap: 86px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1550px;
+  position: relative;
+}
+.frame-239 {
+  display: flex;
+  flex-direction: row;
+  gap: 427px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-238 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 570px;
+  position: relative;
+}
+.preliminary-plan {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.frame-235 {
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-234 {
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 550px;
+  position: relative;
+}
+.image-109 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 489.29px;
+  position: relative;
+  object-fit: cover;
+}
+.image-110 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 232.51px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-233 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 550px;
+  position: relative;
+}
+.frame-2352 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-230 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.browsing-web-pages-simulating-the-process-of-people-receiving-fragmented-information {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.create-a-webpage-similar-to-a-comment-section-starting-with-a-controversial-animation-introducing-fragmented-information-pages-filled-with-various-mixed-information {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-231 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.gesture-control-swipe-down-flip-over-slide-right-annoying-but-nothing-happens {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.visitors-use-gestures-to-control-their-browsing-like-flipping-through-the-comment-section-causing-chaotic-information-to-scroll-endlessly-when-faced-with-comments-they-don-t-like-they-can-right-swipe-to-dislike-them-but-nothing-happens {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-232 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.time-is-over-the-ball-falls-into-the-balance {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.when-the-time-is-over-all-the-small-balls-fall-into-the-balance-under-the-device-causing-the-balance-to-tilt-implied-to-have-an-impact-on-the-real-world-unable-to-control-one-s-own-thoughts-inevitably-leading-to-an-impact {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-240 {
+  display: flex;
+  flex-direction: row;
+  gap: 447px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-237 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 553px;
+  position: relative;
+}
+.final-plan {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.image-111 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 593.22px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-2342 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 550px;
+  position: relative;
+}
+.gesture-control-swipe-down-and-flip-over-right-swipe-annoying {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.visitors-use-gestures-to-control-their-browsing-like-flipping-through-the-comment-section-causing-chaotic-information-to-scroll-endlessly-when-faced-with-comments-they-don-t-like-they-can-right-click-to-dislike-them {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.right-swiping-annoying-dropping-a-small-ball-from-behind-the-screen {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.when-you-see-comments-you-don-t-like-you-can-right-swipe-to-dislike-them-and-then-a-small-ball-drops-from-behind-the-screen-indicating-that-it-has-already-had-an-impact-on-the-real-world-unrelated-to-the-choices-of-visitors-and-unable-to-control-your-own-thoughts {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-270 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-242 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.flow-path {
   color: #ffffff;
   text-align: left;
   font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
@@ -239,486 +902,728 @@
   font-weight: var(--h3-heading-font-weight, 800);
   position: relative;
 }
-.with-the-rise-of-self-media-and-the-emergence-of-rolling-media-the-spread-of-information-has-become-more-subjective-and-various-values-and-ideas-are-flooding-the-entire-network-making-it-difficult-for-everyone-to-distinguish-between-right-and-wrong-in-addition-the-current-social-situation-of-accelerated-pace-of-life-has-made-everyone-scroll-the-media-faster-and-faster-and-sometimes-they-unconsciously-acquiesce-to-online-violence-and-various-negative-thoughts-when-you-browse-this-information-you-think-you-can-control-your-own-thoughts-but-in-fact-you-can-t-escape-it-anyway-and-will-inevitably-be-affected-by-it-we-hope-everyone-can-get-out-of-this-infinite-scrolling {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
+.image-112 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 897.23px;
   position: relative;
-  width: 752px;
-  height: 394px;
+  object-fit: cover;
 }
-.final-project2 {
+.first-watch-the-animation-slide-it-to-enter-the-game-and-information-interface-and-use-three-gesture-controls-at-the-end-of-the-sliding-phase-prompt-words-appear-and-the-game-ends {
   color: #ffffff;
   text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-244 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1600px;
+  position: relative;
+}
+.device-implementation2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.image-113 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 899.1px;
+  position: relative;
+  object-fit: cover;
+}
+.the-device-behind-the-screen-is-used-to-control-the-ball-to-fall-when-sliding-to-the-right-once-the-motor-rotates-to-drive-the-gear-to-rotate-90-degrees-ensuring-that-one-ball-falls-each-time {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  width: 1600px;
+}
+.frame-253 {
+  display: flex;
+  flex-direction: column;
+  gap: 99px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1435px;
+  position: relative;
+}
+.frame-249 {
+  display: flex;
+  flex-direction: row;
+  gap: 218px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-114 {
+  flex-shrink: 0;
+  width: 400px;
+  height: 574.3px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-245 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 817px;
+  position: relative;
+}
+.ball-dropping-device-acrylic-frame {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.first-the-dimensions-are-determined-through-pre-modeling-with-cad-and-then-customized-using-acrylic-cutting {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-250 {
+  display: flex;
+  flex-direction: row;
+  gap: 218px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-118 {
+  flex-shrink: 0;
+  width: 400px;
+  height: 495.42px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-246 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 817px;
+  position: relative;
+}
+._3-d-printing-gears {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.similarly-pre-modeling-and-dimensioning-are-done-through-cad-and-then-printed-using-a-school-printer {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-251 {
+  display: flex;
+  flex-direction: row;
+  gap: 218px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-116 {
+  flex-shrink: 0;
+  width: 400px;
+  height: 392.56px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-247 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 817px;
+  position: relative;
+}
+._42-bygh-48-s-stepper-motor {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.we-have-chosen-the-one-with-higher-torque-in-the-42-stepper-motor-series-which-can-resist-the-friction-between-gears-and-prevent-jamming {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-252 {
+  display: flex;
+  flex-direction: row;
+  gap: 218px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-117 {
+  flex-shrink: 0;
+  width: 400px;
+  height: 391.65px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-248 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 817px;
+  position: relative;
+}
+.plastic-shell-hollow-ball {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.choose-black-balls-to-represent-negative-reviews-45-mm-20-hollow-small-balls-are-lightweight-and-elastic {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-256 {
+  display: flex;
+  flex-direction: row;
+  gap: 218px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.oip-c-3 {
+  flex-shrink: 0;
+  width: 400px;
+  height: 308.86px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-254 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 817px;
+  position: relative;
+}
+._4988-driver-board-and-cnc-shield {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.the-cnc-shield-can-accommodate-4-a-4988-drive-boards-and-drive-4-42-stepper-motors-the-a-4988-driver-board-can-process-signals-from-the-computer-convert-them-into-interface-signals-suitable-for-driving-motors-and-is-responsible-for-data-transmission-between-the-motherboard-and-the-motor-meanwhile-the-driver-board-can-ensure-the-safety-of-the-power-supply-to-the-42-stepper-motor {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-255 {
+  display: flex;
+  flex-direction: row;
+  gap: 218px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.sf-dev-11224-1 {
+  flex-shrink: 0;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  object-fit: cover;
+}
+.arduino-uno-r-3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.same-usage-as-the-nano-board-used-in-class-but-with-more-features-and-power-options-connect-it-with-the-above-two-to-form-the-command-end-of-the-motor-drive-which-forms-the-control-end-with-the-computer-the-programmed-electrical-signal-is-transmitted-to-the-a-4988-drive-board-and-the-drive-motor-rotates-at-a-certain-angle-according-to-the-programming-instructions {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-269 {
+  display: flex;
+  flex-direction: column;
+  gap: 47px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1556px;
+  position: relative;
+}
+.frame-268 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.technical-solution {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  width: 1536px;
+}
+.frame-258 {
+  display: flex;
+  flex-direction: row;
+  gap: 141px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2482 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 817px;
+  position: relative;
+}
+.kinect-gesture-collection {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.processing-arduino-interoperability-linking-motor-outputs {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.we-use-the-method-of-recognizing-the-trajectory-of-human-arm-movements-to-run-the-program-we-use-kinect-to-collect-the-movements-of-the-swinging-arm-and-transmit-the-signals-to-processing-where-the-images-provide-different-feedback-based-on-the-human-body-s-movements {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.program-screen-projection {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.the-main-program-runs-on-the-computer-and-then-projects-the-screen-onto-the-classroom-tv-for-better-visual-effects {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-257 {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 500px;
+  position: relative;
+}
+.image-120 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 421.47px;
+  position: relative;
+  object-fit: cover;
+}
+.image-119 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 448.95px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-267 {
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1514px;
+  position: relative;
+}
+.frame-259 {
+  display: flex;
+  flex-direction: row;
+  gap: 197px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-121 {
+  flex-shrink: 0;
+  width: 500px;
+  height: 667px;
+  position: relative;
+  object-fit: cover;
+}
+.after-the-changes-in-the-screen-are-executed-in-processing-a-signal-is-sent-to-the-arduino-cnc-shield-board-to-drive-the-motor-to-rotate-causing-the-small-ball-above-the-device-to-fall-with-the-rolling-of-the-wheel-indicating-that-even-if-these-negative-comments-are-deleted-they-have-an-indelible-impact-on-our-minds {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-262 {
+  display: flex;
+  flex-direction: row;
+  gap: 141px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.set-against-the-backdrop-of-the-fat-cat-incident-leading-animation {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.we-take-the-fat-cat-incident-on-the-internet-as-the-background-adopt-a-pixel-art-style-design-and-use-a-cute-art-style-to-highlight-how-malicious-comments-from-people-in-the-comment-section-will-accumulate-and-have-an-impact-on-a-person {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.image-123 {
+  flex-shrink: 0;
+  width: 500px;
+  height: 356.29px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-261 {
+  display: flex;
+  flex-direction: row;
+  gap: 141px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-260 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 817px;
+  position: relative;
+}
+.introducing-unlimited-scrolling-information-pages {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h4-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h4-heading-font-size, 24px);
+  line-height: var(--h4-heading-line-height, 110%);
+  font-weight: var(--h4-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.mars-com-is-an-interactive-platform-that-simulates-the-internet-to-display-multiple-views-reflect-the-complexity-of-the-network-mix-positive-and-negative-comments-reflect-the-power-of-public-opinion-and-demonstrate-the-influence-of-public-opinion-through-negative-comments {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --p1-paragraph-large-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--p1-paragraph-large-font-size, 22px);
+  line-height: var(--p1-paragraph-large-line-height, 150%);
+  font-weight: var(--p1-paragraph-large-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.image-122 {
+  flex-shrink: 0;
+  width: 500px;
+  height: 281.44px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-266 {
+  display: flex;
+  flex-direction: column;
+  gap: 51px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.animation-display {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
+  font-size: var(--h3-heading-font-size, 40px);
+  line-height: var(--h3-heading-line-height, 110%);
+  font-weight: var(--h3-heading-font-weight, 800);
+  position: relative;
+  align-self: stretch;
+}
+.frame-264 {
+  display: flex;
+  flex-direction: row;
+  gap: 215px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-263 {
+  display: flex;
+  flex-direction: row;
+  gap: 215px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-124 {
+  flex-shrink: 0;
+  width: 700px;
+  height: 393.68px;
+  position: relative;
+  object-fit: cover;
+}
+.image-125 {
+  flex-shrink: 0;
+  width: 700px;
+  height: 393.98px;
+  position: relative;
+  object-fit: cover;
+}
+.image-126 {
+  flex-shrink: 0;
+  width: 700px;
+  height: 393.64px;
+  position: relative;
+  object-fit: cover;
+}
+.image-127 {
+  flex-shrink: 0;
+  width: 700px;
+  height: 393.63px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-265 {
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1296px;
+  position: relative;
+}
+.achievement-display {
+  color: #ffffff;
+  text-align: center;
   font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
   font-size: var(--h2-heading-font-size, 92px);
   line-height: var(--h2-heading-line-height, 110%);
   font-weight: var(--h2-heading-font-weight, 800);
   position: relative;
+  align-self: stretch;
+  height: 145px;
 }
-.frame-37 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
+.image-128 {
   flex-shrink: 0;
-  position: relative;
-}
-.interaction-effects {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-}
-.through-touch-screen-interaction-users-stand-in-front-of-our-touch-screen-and-control-the-changes-of-screen-content-with-their-fingers-similar-to-swiping-video-comments-the-speed-at-which-information-appears-on-the-screen-accumulates-over-time-all-negative-information-will-be-accumulated-in-the-container-behind-the-device-in-the-form-of-black-balls-after-a-certain-number-of-balls-in-the-screen-container-the-balls-will-be-ejected-to-display-all-the-negative-information-the-user-has-seen-during-this-process {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 752px;
-  height: 303px;
-}
-.frame-38 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: relative;
-}
-.equipment-and-technical-implementation {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-}
-.frame-39 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: relative;
-}
-.target-population {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-}
-.image-3 {
-  width: 611px;
-  height: 338px;
-  position: absolute;
-  left: 1146px;
-  top: 1562px;
-  object-fit: cover;
-}
-.frame-130 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: absolute;
-  left: 160px;
-  top: 2889px;
-}
-.frame-129 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: relative;
-}
-.material-we-use {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h2-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h2-heading-font-size, 92px);
-  line-height: var(--h2-heading-line-height, 110%);
-  font-weight: var(--h2-heading-font-weight, 800);
-  position: relative;
-  width: 782px;
-  height: 111px;
-}
-.clear-plastic-pipe-and-plastic-ball {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 42.3px;
-}
-.image-6 {
-  flex-shrink: 0;
-  width: 1600px;
-  height: 801px;
+  width: 750px;
+  height: 1333px;
   position: relative;
   object-fit: cover;
-}
-.frame-126 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: relative;
-}
-.plastic-is-a-widely-used-synthetic-polymer-material-with-good-plasticity-and-flowability-which-can-be-processed-and-formed-through-heating-softening-and-cooling-hardening-processes {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1597px;
-  height: 56px;
-}
-.material-composition {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 42.3px;
-}
-.plastics-are-mainly-composed-of-additives-such-as-synthetic-resins-fillers-plasticizers-stabilizers-and-colorants-synthetic-resin-is-the-main-component-of-plastics-and-plays-a-skeletal-role-in-plastics-additives-are-used-to-improve-the-properties-of-plastics-such-as-strength-stability-color-etc {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 99px;
-}
-.characteristics {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 42.3px;
-}
-._1-plastics-have-advantages-such-as-light-weight-insulation-and-resistance-to-chemical-corrosion-2-it-has-strong-plasticity-and-can-be-made-into-products-of-various-shapes-and-sizes-therefore-its-product-variety-is-diverse-such-as-the-pipes-and-balls-used-in-the-project-are-all-made-of-plastic-3-plastic-has-good-water-resistance-oil-resistance-and-drug-resistance-but-poor-heat-resistance-and-wear-resistance-4-plastic-has-poor-thermal-and-electrical-conductivity-but-its-conductivity-can-be-improved-by-adding-conductive-fillers {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 165px;
-}
-.main-types {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 42.3px;
-}
-.universal-plastics-such-as-polyethylene-pe-polypropylene-pp-polyvinyl-chloride-pvc-etc-have-a-wide-range-of-uses-and-low-prices-engineering-plastics-such-as-polyamide-pa-and-polycarbonate-pc-have-superior-performance-and-are-suitable-for-special-industrial-environments {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 66px;
-}
-.environmental-effect {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 42.3px;
-}
-.because-plastic-is-non-degradable-in-the-short-term-and-toxic-to-the-natural-environment-we-need-to-handle-it-properly-after-use-and-not-dispose-of-it-casually {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 66px;
-}
-.pla-material-printed-gears {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 1600px;
-  height: 42.3px;
-}
-.pla-the-full-name-is-polylactic-acid-which-is-a-new-type-of-biodegradable-material-also-known-as-polylactide-it-is-a-polyester-polymer-obtained-through-polymerization-reaction-using-lactic-acid-as-the-main-raw-material {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 66px;
-}
-.image-7 {
-  flex-shrink: 0;
-  width: 1600px;
-  height: 1200px;
-  position: relative;
-  object-fit: cover;
-}
-.frame-127 {
-  display: flex;
-  flex-direction: column;
-  gap: 61px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: relative;
-}
-.material-characteristics {
-  color: #ffffff;
-  text-align: left;
-  font-family: var(--h3-heading-font-family, "Inter-ExtraBold", sans-serif);
-  font-size: var(--h3-heading-font-size, 40px);
-  line-height: var(--h3-heading-line-height, 110%);
-  font-weight: var(--h3-heading-font-weight, 800);
-  position: relative;
-  width: 886px;
-  height: 42.3px;
-}
-._1-biodegradability-pla-materials-have-good-biodegradability-and-can-be-completely-degraded-by-microorganisms-in-nature-after-use-ultimately-generating-carbon-dioxide-and-water-which-is-environmentally-friendly-2-thermal-stability-pla-materials-have-good-thermal-stability-with-a-processing-temperature-range-of-170-230-c-and-good-solvent-resistance-3-processability-pla-materials-can-be-processed-in-various-ways-such-as-extrusion-spinning-biaxial-stretching-injection-blow-molding-etc-optical-performance-pla-materials-have-good-glossiness-and-transparency-and-have-unique-advantages-compared-to-other-biodegradable-products-4-breathability-pla-film-has-good-breathability-oxygen-permeability-and-carbon-dioxide-permeability-as-well-as-the-ability-to-isolate-odors {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 198px;
-}
-.application {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-ExtraBold", sans-serif;
-  font-size: 40px;
-  line-height: 110%;
-  font-weight: 800;
-  position: relative;
-  width: 886px;
-  height: 42.3px;
-}
-.medical-field-used-for-manufacturing-absorbable-sutures-bone-fixation-materials-and-implants-and-other-medical-devices-packaging-field-make-packaging-bags-foam-boxes-etc-effectively-reduce-environmental-pollution-3-d-printing-it-is-one-of-the-most-widely-used-materials-in-3-d-printing-which-is-easy-to-process-cost-effective-and-biodegradable-in-the-agricultural-field-it-is-used-to-manufacture-agricultural-film-which-can-be-degraded-into-carbon-dioxide-and-water-without-polluting-soil-and-crops-textiles-pla-textiles-have-good-softness-and-breathability-and-can-be-used-to-make-clothing-and-household-textiles-daily-necessities-used-for-manufacturing-cups-tableware-and-baby-bottles-non-toxic-harmless-and-environmentally-friendly {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 198px;
-}
-.production-process {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-ExtraBold", sans-serif;
-  font-size: 40px;
-  line-height: 110%;
-  font-weight: 800;
-  position: relative;
-  width: 886px;
-  height: 42.3px;
-}
-.group-18 {
-  flex-shrink: 0;
-  width: 1470px;
-  height: 95px;
-  position: static;
-}
-.raw-material-preparation {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 0px;
-  top: 827.89px;
-  width: 276px;
-  height: 40px;
-}
-.packaging-and-storage {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 127px;
-  top: 889.89px;
-  width: 248px;
-  height: 33px;
-}
-.polymerization-reaction {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 387px;
-  top: 827.89px;
-  width: 276px;
-  height: 40px;
-}
-.post-processing {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 774px;
-  top: 827.89px;
-  width: 221px;
-  height: 40px;
-}
-.preparation-of-finished-products {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 1104px;
-  top: 827.89px;
-  width: 366px;
-  height: 40px;
-}
-.arrow-10 {
-  width: 85px;
-  height: 0px;
-  position: absolute;
-  left: 276px;
-  top: 847.89px;
-  overflow: visible;
-}
-.arrow-13 {
-  width: 85px;
-  height: 0px;
-  position: absolute;
-  left: 3px;
-  top: 909.89px;
-  overflow: visible;
-}
-.arrow-11 {
-  width: 85px;
-  height: 0px;
-  position: absolute;
-  left: 651px;
-  top: 847.89px;
-  overflow: visible;
-}
-.arrow-12 {
-  width: 85px;
-  height: 0px;
-  position: absolute;
-  left: 976px;
-  top: 847.89px;
-  overflow: visible;
-}
-.image-8 {
-  flex-shrink: 0;
-  width: 1600px;
-  height: 1200px;
-  position: relative;
-  object-fit: cover;
-}
-.frame-128 {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: relative;
-}
-.insufficient-pla-printing-materials {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-ExtraBold", sans-serif;
-  font-size: 40px;
-  line-height: 110%;
-  font-weight: 800;
-  position: relative;
-  width: 886px;
-  height: 42.3px;
-}
-.when-using-pla-fibers-for-3-d-printing-the-strength-of-the-product-will-vary-greatly-depending-on-the-chosen-structure-2-the-material-is-relatively-brittle-and-not-very-wear-resistant-with-limited-applicability {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 22px;
-  line-height: 150%;
-  font-weight: 400;
-  position: relative;
-  width: 1600px;
-  height: 66px;
 }
